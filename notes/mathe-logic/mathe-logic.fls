@@ -1,6 +1,6 @@
-PWD d:\Books\Maths\Mathematical Logic\mathe-logic
+PWD c:\Users\cacca\LupLup\notes\mathe-logic
 INPUT C:\Users\cacca\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Books\Maths\Mathematical Logic\mathe-logic\mathe-logic.tex
+INPUT c:\Users\cacca\LupLup\notes\mathe-logic\mathe-logic.tex
 OUTPUT mathe-logic.log
 INPUT C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.30)  23 DEC 2025 03:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.30)  4 JAN 2026 06:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Books/Maths/Linear Algebra/la-i/Linear Algebra I.tex"
-(d:/Books/Maths/Linear Algebra/la-i/Linear Algebra I.tex
+**"c:/Users/cacca/LupLup/notes/la1/Linear Algebra I.tex"
+(c:/Users/cacca/LupLup/notes/la1/Linear Algebra I.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -541,21 +541,21 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 ) [1
 
-{C:/Users/cacca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] [3] (Linear Algebra I.toc)
+{C:/Users/cacca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (Linear Algebra I.toc)
 \tf@toc=\write4
 \openout4 = `"Linear Algebra I.toc"'.
 
- [4
+ [2
+
+] [3
+
+] [4
 
 ] [5
 
 ] [6
 
 ] [7
-
-] [8
-
-] [9
 
 ] (Linear Algebra I.aux)
  ***********
@@ -566,17 +566,17 @@ Package rerunfilecheck Info: File `"Linear Algebra I".out' has not changed.
 (rerunfilecheck)             Checksum: 01B1280FCBE9F3F39CEB78E71981643A;3055.
  ) 
 Here is how much of TeX's memory you used:
- 15837 strings out of 474486
- 258151 string characters out of 5743754
- 1935542 words of memory out of 5000000
- 37801 multiletter control sequences out of 15000+600000
- 570554 words of font info for 120 fonts, out of 8000000 for 9000
+ 15817 strings out of 474486
+ 257953 string characters out of 5743754
+ 1934542 words of memory out of 5000000
+ 37800 multiletter control sequences out of 15000+600000
+ 569962 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,11n,79p,1050b,588s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\cacca\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "Linear Algebra I.pdf" (9 pages, 98676 bytes).
+ 75i,11n,79p,1047b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\cacca\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on "Linear Algebra I.pdf" (7 pages, 78453 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
+ 176 PDF objects out of 1000 (max. 8388607)
+ 32 named destinations out of 1000 (max. 500000)
  28849 words of extra memory for PDF output out of 29859 (max. 10000000)
 

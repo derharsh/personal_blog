@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1767466570.93391 "d:/Books/Maths/Math bridge books/My notes/fom.tex" "fom.pdf" "fom" 1767466573.56879 0
+["pdflatex"] 1767489995.36493 "c:/Users/cacca/LupLup/notes/math-priliminary/fom.tex" "fom.pdf" "fom" 1767489999.95755 0
   "C:/Users/cacca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1766717010 117253 3e2b0821a8df89fc4d3e125e02ff8797 ""
   "C:/Users/cacca/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761815001 24225047 9b5f22851ad52bfd52a97d2db1fa64eb ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc" 1256929440 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
@@ -212,11 +212,11 @@
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "d:/Books/Maths/Math bridge books/My notes/fom.tex" 1767466569 158590 8a27cdc76711682ce8e2cee3af530892 ""
-  "fom.aux" 1767466573 10906 b7a055945c243e9b81c9ded39aaf8c13 "pdflatex"
-  "fom.out" 1767466573 11326 1928513a8fbee38d5486ec9d1ec48b36 "pdflatex"
-  "fom.tex" 1767466569 158590 8a27cdc76711682ce8e2cee3af530892 ""
-  "fom.toc" 1767466573 6301 b1ce2abe7473ab96eb22edfd6f00081c "pdflatex"
+  "c:/Users/cacca/LupLup/notes/math-priliminary/fom.tex" 1767489993 158595 b675c2cdfb3ba3f10c838e18cf3e5075 ""
+  "fom.aux" 1767489999 10906 b7a055945c243e9b81c9ded39aaf8c13 "pdflatex"
+  "fom.out" 1767489999 11326 1928513a8fbee38d5486ec9d1ec48b36 "pdflatex"
+  "fom.tex" 1767489993 158595 b675c2cdfb3ba3f10c838e18cf3e5075 ""
+  "fom.toc" 1767489999 6301 b1ce2abe7473ab96eb22edfd6f00081c "pdflatex"
   (generated)
   "fom.aux"
   "fom.log"

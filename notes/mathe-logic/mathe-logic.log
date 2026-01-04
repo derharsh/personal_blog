@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.30)  1 JAN 2026 19:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.30)  4 JAN 2026 06:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/Books/Maths/Mathematical Logic/mathe-logic/mathe-logic.tex"
-(d:/Books/Maths/Mathematical Logic/mathe-logic/mathe-logic.tex
+**c:/Users/cacca/LupLup/notes/mathe-logic/mathe-logic.tex
+(c:/Users/cacca/LupLup/notes/mathe-logic/mathe-logic.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
 (C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
@@ -822,12 +822,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ] [3
 
-] [4]
+]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 164.
- [5
+(Font)              <5> on input line 141.
+ [4
 
-] [6] [7] [8] (mathe-logic.aux)
+] [5] [6] [7] (mathe-logic.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
@@ -836,17 +836,17 @@ Package rerunfilecheck Info: File `mathe-logic.out' has not changed.
 (rerunfilecheck)             Checksum: 4F552D25FCA0790C10E2F6DC33C31F53;1049.
  ) 
 Here is how much of TeX's memory you used:
- 27345 strings out of 474486
- 518388 string characters out of 5743754
+ 27340 strings out of 474486
+ 518272 string characters out of 5743754
  1937542 words of memory out of 5000000
  48991 multiletter control sequences out of 15000+600000
- 620523 words of font info for 161 fonts, out of 8000000 for 9000
+ 620309 words of font info for 159 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 98i,12n,107p,1056b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 98i,12n,107p,1048b,507s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on mathe-logic.pdf (8 pages, 215566 bytes).
+Output written on mathe-logic.pdf (7 pages, 210949 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
+ 134 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
  32837 words of extra memory for PDF output out of 35830 (max. 10000000)
 

@@ -1,2 +1,14 @@
 /.quarto/
 **/*.quarto_ipynb
+
+# latex garbage
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.tex
+
+!*.pdf

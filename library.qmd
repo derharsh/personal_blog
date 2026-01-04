@@ -1,0 +1,14 @@
+---
+title: "Lecture Notes"
+---
+
+I share my study notes, but with a twist: I re-write them in a more generalized, and highest level of abstract language but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me it’s worth it (jk, I want u to suffer, hehe)
+
+Mathematics:
+* **Mathematical Preliminaries:** Logic, Proofs, Sets and Numbers.
+* **Analysis I:** Topology and Calculus of Functions of Single Real Variable.
+* **Linear Algebra I:** Algebraic structures of vector spaces, matrix theory and Eigen theory.
+* **Mathematical Logic:** Proof Theory and Computing with proof assistants (Coq).
+
+Mathematical Physics:
+* **Classical Mechanics I:** Newtonian, Lagrangian and Hamiltonian Formulations.

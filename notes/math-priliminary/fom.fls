@@ -1,6 +1,6 @@
-PWD d:\Books\Maths\Math bridge books\My notes
+PWD c:\Users\cacca\LupLup\notes\math-priliminary
 INPUT C:\Users\cacca\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Books\Maths\Math bridge books\My notes\fom.tex
+INPUT c:\Users\cacca\LupLup\notes\math-priliminary\fom.tex
 OUTPUT fom.log
 INPUT C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1766442195.80664 "d:/Books/Maths/Linear Algebra/la-i/Linear Algebra I.tex" "Linear Algebra I.pdf" "Linear Algebra I" 1766442197.02833 0
-  "C:/Users/cacca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1763919599 117253 3e2b0821a8df89fc4d3e125e02ff8797 ""
+["pdflatex"] 1767489871.96074 "c:/Users/cacca/LupLup/notes/la1/Linear Algebra I.tex" "Linear Algebra I.pdf" "Linear Algebra I" 1767489873.9811 0
+  "C:/Users/cacca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1766717010 117253 3e2b0821a8df89fc4d3e125e02ff8797 ""
   "C:/Users/cacca/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1761825187 14064 ba9aff67fac52bb12d5a9aae2c86bd93 ""
   "C:/Users/cacca/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761815001 24225047 9b5f22851ad52bfd52a97d2db1fa64eb ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993062508 1444 95ffe0f19b974d50849790c8225c7ef7 ""
@@ -24,7 +24,6 @@
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
-  "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247596667 36118 fad905eba93cff5bce1e185fe980a177 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -103,11 +102,11 @@
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1700599895 10214 547fd4d29642cb7c80bf54b49d447f01 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "Linear Algebra I.aux" 1766442196 2822 6e54b0bca5d50276edbc22afbe15a5f9 "pdflatex"
-  "Linear Algebra I.out" 1766442196 3055 01b1280fcbe9f3f39ceb78e71981643a "pdflatex"
-  "Linear Algebra I.tex" 1766442194 11753 c21a0f212013e38a2a1b721e861f7d2d ""
-  "Linear Algebra I.toc" 1766442196 1758 8daff339ade38ef9593a164cbf8e9562 "pdflatex"
-  "d:/Books/Maths/Linear Algebra/la-i/Linear Algebra I.tex" 1766442194 11753 c21a0f212013e38a2a1b721e861f7d2d ""
+  "Linear Algebra I.aux" 1767489873 2822 14060f685899d152a5c7737f08f5c8f4 "pdflatex"
+  "Linear Algebra I.out" 1767489873 3055 01b1280fcbe9f3f39ceb78e71981643a "pdflatex"
+  "Linear Algebra I.tex" 1767489870 8993 46de6fd4d5dee499b24c829be9c6994f ""
+  "Linear Algebra I.toc" 1767489873 1758 e90259d72282755f5a34c00262884239 "pdflatex"
+  "c:/Users/cacca/LupLup/notes/la1/Linear Algebra I.tex" 1767489870 8993 46de6fd4d5dee499b24c829be9c6994f ""
   (generated)
   "Linear Algebra I.aux"
   "Linear Algebra I.log"

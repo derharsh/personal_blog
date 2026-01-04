@@ -1,22 +1,22 @@
-\contentsline {section}{\numberline {1}Introduction}{5}{section.1}%
-\contentsline {section}{\numberline {2}Algebraic Structures}{6}{section.2}%
-\contentsline {subsection}{\numberline {2.1}Groups}{6}{subsection.2.1}%
-\contentsline {subsection}{\numberline {2.2}Homomorphisms}{6}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Rings}{6}{subsection.2.3}%
-\contentsline {subsection}{\numberline {2.4}Fields}{6}{subsection.2.4}%
-\contentsline {subsection}{\numberline {2.5}Polynomials}{6}{subsection.2.5}%
-\contentsline {subsection}{\numberline {2.6}Modules}{6}{subsection.2.6}%
-\contentsline {section}{\numberline {3}Vector Spaces}{7}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Vector Spaces}{7}{subsection.3.1}%
-\contentsline {subsection}{\numberline {3.2}Basis and Dimensions}{7}{subsection.3.2}%
-\contentsline {subsection}{\numberline {3.3}Direct Sums}{7}{subsection.3.3}%
-\contentsline {section}{\numberline {4}Matrices and Systems of Linear Equations}{8}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Matrix Multiplication}{8}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Systems of Linear Equations}{8}{subsection.4.2}%
-\contentsline {subsection}{\numberline {4.3}Matrices and Elementary Row Operations}{8}{subsection.4.3}%
-\contentsline {subsection}{\numberline {4.4}Row-Reduced Echelon Matrices}{8}{subsection.4.4}%
-\contentsline {subsection}{\numberline {4.5}Invertible Matrices}{8}{subsection.4.5}%
-\contentsline {section}{\numberline {5}Linear Maps}{9}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Linear Maps}{9}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Quotient Space}{9}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Dual Space}{9}{subsection.5.3}%
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {section}{\numberline {2}Algebraic Structures}{4}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Groups}{4}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Homomorphisms}{4}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Rings}{4}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}Fields}{4}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Polynomials}{4}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}Modules}{4}{subsection.2.6}%
+\contentsline {section}{\numberline {3}Vector Spaces}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Vector Spaces}{5}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Basis and Dimensions}{5}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}Direct Sums}{5}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Matrices and Systems of Linear Equations}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Matrix Multiplication}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Systems of Linear Equations}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Matrices and Elementary Row Operations}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Row-Reduced Echelon Matrices}{6}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Invertible Matrices}{6}{subsection.4.5}%
+\contentsline {section}{\numberline {5}Linear Maps}{7}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Linear Maps}{7}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Quotient Space}{7}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Dual Space}{7}{subsection.5.3}%

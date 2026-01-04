@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1766457247.75062 "d:/Books/Maths/Analysis/ana3/main.tex" "main.pdf" "main" 1766457249.36107 0
-  "C:/Users/cacca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1763919599 117253 3e2b0821a8df89fc4d3e125e02ff8797 ""
+["pdflatex"] 1767489764.17632 "c:/Users/cacca/LupLup/notes/ana3/main.tex" "main.pdf" "main" 1767489766.41486 0
+  "C:/Users/cacca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1766717010 117253 3e2b0821a8df89fc4d3e125e02ff8797 ""
   "C:/Users/cacca/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1761825187 14064 ba9aff67fac52bb12d5a9aae2c86bd93 ""
   "C:/Users/cacca/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761815001 24225047 9b5f22851ad52bfd52a97d2db1fa64eb ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/tfm/jknappen/ec/tcrm1200.tfm" 993062508 1444 95ffe0f19b974d50849790c8225c7ef7 ""
@@ -22,11 +22,9 @@
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy10.tfm" 1136765053 1124 6c73e740cf17375f03eec0ee63599741 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy6.tfm" 1136765053 1116 933a60c408fc0a863a92debe84b2d294 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmsy8.tfm" 1136765053 1120 8b7d695260f3cff42e636090a8002094 ""
-  "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmti12.tfm" 1136765053 1484 ed72f8f5cf654cda15ecc8e32bfcbee5 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1247596666 32080 340ef9bf63678554ee606688e7b5339d ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb" 1247596667 36741 0ee9e374ec3e30da87cdfb0ea3575226 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1247596667 32722 d7379af29a190c3f453aba36302ff5a9 ""
-  "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb" 1247596667 36118 fad905eba93cff5bce1e185fe980a177 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/context/base/mkii/supp-pdf.mkii" 1580390158 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/generic/atbegshi/atbegshi.sty" 1575571100 24708 5584a51a7101caf7e6bbf1fc27d8f7b1 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/generic/bigintcalc/bigintcalc.sty" 1576433602 40635 c40361e206be584d448876bba8a64a3b ""
@@ -103,11 +101,11 @@
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1700599895 10214 547fd4d29642cb7c80bf54b49d447f01 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "d:/Books/Maths/Analysis/ana3/main.tex" 1766457247 11766 1b3289692f5e45fdeb22d6f00c156566 ""
-  "main.aux" 1766457249 3645 4fc25b12d91747a37d1561e72420652e "pdflatex"
-  "main.out" 1766457249 4318 5699ddcd856fd5de17038c1c91e74054 "pdflatex"
-  "main.tex" 1766457247 11766 1b3289692f5e45fdeb22d6f00c156566 ""
-  "main.toc" 1766457249 2335 a5f7d8d06262c119f975c56d7a3cfb2b "pdflatex"
+  "c:/Users/cacca/LupLup/notes/ana3/main.tex" 1767489765 6161 634755a87ee7a68151e80a5f7850b596 ""
+  "main.aux" 1767489765 3645 f6a41af3c73dee56b2d15e51a4b1e702 "pdflatex"
+  "main.out" 1767489765 4318 5699ddcd856fd5de17038c1c91e74054 "pdflatex"
+  "main.tex" 1767489765 6161 634755a87ee7a68151e80a5f7850b596 ""
+  "main.toc" 1767489765 2335 4015c607a65ab25e0d15fe7b036c749e "pdflatex"
   (generated)
   "main.aux"
   "main.log"
