@@ -1,20 +1,20 @@
 ---
-title: "Lecture Notes"
+title: "Study Notes"
 ---
 
-I share my study notes, but with a twist: I re-write them in a more generalized, and highest level of abstract language but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me it’s worth it (jk, I want u to suffer, hehe)
+Here I'll share my study notes, these notes are somewhat more sophisticated than what typical courses in university cover. The treated is more generalised, and with the highest level of abstraction, but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me, it’s worth it (jk, I want u to suffer, hehe!!)
 
 Starting from foundational topics like analysis and algebra i plan to cover more advanced topics in algebraic topology, Partial Differential Equations, Geometry, and Stochastic. In Mathematical Physics, i treat the subjects very rigorouly (sometimes more than required and typically taught in undergraduate courses) to ensure mathematical sophistication for advanced research. The aim of these notes is to train a future researcher in mathematics or/and mathhematical physics.
 
-The course on Mathematical Foundations is essentially the \enquote{first installment} in the series of lecture notes. So, make sure you have those basics down.
+The course on Mathematical Foundations is essentially the "first installment" in the series of lecture notes. So, make sure you have those basics down.
 
 HuiiiHuiii :3
 
 ## Mathematics:
-* **[Mathematical Foundations:](notes/math-priliminary/fom.pdf)** *Logic, Proofs, Sets and Numbers.*
+* **[Mathematical Foundations:](notes/math-priliminary/fom.pdf)** *Foundations of Logic, Proofs, Sets and Numbers.*
 * **[Analysis I:](notes/ana1/ana1.pdf)** *Topology and Calculus of Functions of Single Real Variable.*
-* **[Linear Algebra I:](notes/la1/Linear%20Algebra%20I.pdf)** *Algebraic structures of vector spaces, matrix theory and Eigen theory.*
-* **[Mathematical Logic:](notes/mathe-logic/mathe-logic.pdf)** *Proof Theory and Computing with proof assistants (Coq).*
+* **[Linear Algebra I:](notes/la1/Linear%20Algebra%20I.pdf)** *Algebraic structures of Vector Spaces, Matrix Theory and Eigen Theory.*
+* **[Mathematical Logic:](notes/mathe-logic/mathe-logic.pdf)** *Proof Theory, Model Theory and Computations.*
 
 ## Mathematical Physics:
-* **[Classical Mechanics I:](notes/classical-mechanics-i/cm-i.pdf)** *Newtonian, Lagrangian and Hamiltonian Formulations.*
+* **[Classical Mechanics I:](notes/classical-mechanics-i/cm-i.pdf)** *Newtonian, Lagrangian and Hamiltonian Mechanics.*

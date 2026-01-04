@@ -1,9 +1,11 @@
 ---
-title: "Home"
+title: "Welcome!"
 author: "Harsh Prajapati"
 date: "01.04.2026"
-categories: [Mathematics, Physics, Research]
+categories: [General]
 image: "image.jpg"
 ---
 
-Hello!! Welcome to my blog. You can find my notes from the triple bar menu :3
+Hello!! Welcome to my blog.
+
+You can find my notes from the "Notes" menu (obv).

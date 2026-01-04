@@ -23,22 +23,22 @@
   {
     "objectID": "library.html",
     "href": "library.html",
-    "title": "Lecture Notes",
+    "title": "Study Notes",
     "section": "",
-    "text": "I share my study notes, but with a twist: I re-write them in a more generalized, and highest level of abstract language but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me it’s worth it (jk, I want u to suffer, hehe)"
+    "text": "Here I’ll share my study notes, these notes are somewhat more sophisticated than what typical courses in university cover. The treated is more generalised, and with the highest level of abstraction, but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me, it’s worth it (jk, I want u to suffer, hehe!!)\nStarting from foundational topics like analysis and algebra i plan to cover more advanced topics in algebraic topology, Partial Differential Equations, Geometry, and Stochastic. In Mathematical Physics, i treat the subjects very rigorouly (sometimes more than required and typically taught in undergraduate courses) to ensure mathematical sophistication for advanced research. The aim of these notes is to train a future researcher in mathematics or/and mathhematical physics.\nThe course on Mathematical Foundations is essentially the “first installment” in the series of lecture notes. So, make sure you have those basics down.\nHuiiiHuiii :3"
   },
   {
     "objectID": "library.html#mathematics",
     "href": "library.html#mathematics",
-    "title": "Lecture Notes",
+    "title": "Study Notes",
     "section": "Mathematics:",
-    "text": "Mathematics:\n\nMathematical Preliminaries: Logic, Proofs, Sets and Numbers.\nAnalysis I: Topology and Calculus of Functions of Single Real Variable.\nLinear Algebra I: Algebraic structures of vector spaces, matrix theory and Eigen theory.\nMathematical Logic: Proof Theory and Computing with proof assistants (Coq)."
+    "text": "Mathematics:\n\nMathematical Foundations: Foundations of Logic, Proofs, Sets and Numbers.\nAnalysis I: Topology and Calculus of Functions of Single Real Variable.\nLinear Algebra I: Algebraic structures of Vector Spaces, Matrix Theory and Eigen Theory.\nMathematical Logic: Proof Theory, Model Theory and Computations."
   },
   {
     "objectID": "library.html#mathematical-physics",
     "href": "library.html#mathematical-physics",
-    "title": "Lecture Notes",
+    "title": "Study Notes",
     "section": "Mathematical Physics:",
-    "text": "Mathematical Physics:\n\nClassical Mechanics I: Newtonian, Lagrangian and Hamiltonian Formulations."
+    "text": "Mathematical Physics:\n\nClassical Mechanics I: Newtonian, Lagrangian and Hamiltonian Mechanics."
   }
 ]

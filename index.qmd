@@ -1,5 +1,6 @@
 ---
 title: "LupLup"
+image: image1.jpeg
 listing:
   contents: posts
   feed: true
@@ -12,4 +13,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-
+Welcome to my digital notebook :3
