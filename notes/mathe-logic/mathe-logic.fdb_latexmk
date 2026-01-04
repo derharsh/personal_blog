@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1767490116.14444 "c:/Users/cacca/LupLup/notes/mathe-logic/mathe-logic.tex" "mathe-logic.pdf" "mathe-logic" 1767490118.55467 0
+["pdflatex"] 1767493329.80725 "c:/Users/cacca/LupLup/notes/mathe-logic/mathe-logic.tex" "mathe-logic.pdf" "mathe-logic" 1767493332.20812 0
   "C:/Users/cacca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1766717010 117253 3e2b0821a8df89fc4d3e125e02ff8797 ""
   "C:/Users/cacca/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761815001 24225047 9b5f22851ad52bfd52a97d2db1fa64eb ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc" 1256929440 2327 9d6df24f9c4f7368395224341a95523a ""
@@ -194,11 +194,11 @@
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/cacca/LupLup/notes/mathe-logic/mathe-logic.tex" 1767490113 19205 075bbc59af6fccd86a313867b90402c7 ""
-  "mathe-logic.aux" 1767490118 1227 87404ba66c90ac53b0abc390d1b072a9 "pdflatex"
-  "mathe-logic.out" 1767490118 1049 4f552d25fca0790c10e2f6dc33c31f53 "pdflatex"
-  "mathe-logic.tex" 1767490113 19205 075bbc59af6fccd86a313867b90402c7 ""
-  "mathe-logic.toc" 1767490118 603 791a54e62ab64a33dc125fa1bc9cd014 "pdflatex"
+  "c:/Users/cacca/LupLup/notes/mathe-logic/mathe-logic.tex" 1767493328 18917 ab4d0ef57190ce8721e2962eeacbaa89 ""
+  "mathe-logic.aux" 1767493331 1227 87404ba66c90ac53b0abc390d1b072a9 "pdflatex"
+  "mathe-logic.out" 1767493331 1049 4f552d25fca0790c10e2f6dc33c31f53 "pdflatex"
+  "mathe-logic.tex" 1767493328 18917 ab4d0ef57190ce8721e2962eeacbaa89 ""
+  "mathe-logic.toc" 1767493331 603 791a54e62ab64a33dc125fa1bc9cd014 "pdflatex"
   (generated)
   "mathe-logic.aux"
   "mathe-logic.log"
