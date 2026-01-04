@@ -1,6 +1,5 @@
 ---
-title: "LupLup"
-image: image1.jpeg
+title: "Home!"
 listing:
   contents: posts
   feed: true

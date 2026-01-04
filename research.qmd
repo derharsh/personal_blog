@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Research (^-^)"
 toc: true
 listing: 
     contents: posts
@@ -7,7 +7,6 @@ listing:
     categories: true
     sort: "date desc"
     filter-ui: false
-template: jolla
 ---
 
 My current interests lie at the mathematical foundations of quantum field theories and gauge theories. My interests are highly ambitious, they involve many big foundational and unresolved problems.
@@ -99,15 +98,18 @@ Physicists think you’re wasting time proving obvious things. mathematicians th
 ### References and Futher Reading
 * *Glimme and Jaffe, Quantum Physics: A Functional Integral Point of View.*
 
-* *Jaffe, Arthur (2000). [Constructive Quantum Field Theory](http://www.arthurjaffe.com/Assets/pdf/CQFT.pdf). mathematical Physics 2000: 111-12.*
+* *Jaffe, Arthur (2000). [Constructive Quantum Field Theory](http://www.arthurjaffe.com/Assets/pdf/CQFT.pdf). Mathematical Physics 2000: 111-12.*
 
-* *Jaffe and Witten. [Quantum Yang-Mills](https://www.claymaths.org/millennium/yang-mills-the-mathss-gap/). Clay mathematics Institute.*
+* *Clay Mathematical Institute. [Yang-Mills and Mass Gap](https://www.claymaths.org/millennium/yang-mills-the-mathss-gap/).*
+
+* *Arthur Jaffe and Edward Witten, [Quantum Yang-Mills]().*
 
 
 ## Mathematical Gauge Theory
 Gauge theories are the modern language of mathematical thoeries of physics. A gauge theory describes fields with built-in redundancy. Not all information you write down actually matters—some of it is “fake freedom” that doesn’t change physics. The mathematics is about understanding which parts are real and how they interact.
 
 **Think of it like this:**
+
 * You have a field (like the electromagnetic potential $A_\mu$).
 
 * You can transform it locally—change its “phase” differently at every point—and the physics (like electric and magnetic fields) doesn’t change
@@ -117,6 +119,7 @@ Gauge theories are the modern language of mathematical thoeries of physics. A ga
 * The actual measurable stuff lives in the quotient space, where all configurations related by these transformations are treated as the same.
 
 **Mathematical approach:**
+
 1. *Fiber bundles:* Imagine every point in space has a little copy of a group hanging over it, like a tiny circle or matrix. The way these fibers twist and connect encodes the gauge field. Physics is captured by the geometry of the bundle.
 
 2. *Connections and curvature:* The gauge field itself is a connection on this bundle. Curvature measures how much twisting happens when you move around a loop—this is exactly the field strength, like $F_{\mu\nu}$ in physics.
@@ -125,7 +128,7 @@ Gauge theories are the modern language of mathematical thoeries of physics. A ga
 
 4. *Topology is everything:* Gauge theory isn’t just equations; it’s also about the shape of the underlying space and the bundle. Weird stuff happens, like quantization of flux or magnetic monopoles, which are really just topological constraints.
 
-**Why mathematicians love it:**
+### Why mathematicians love it:
 * It bridges geometry, topology, and analysis.
 
 * It produces invariants of manifolds (like Donaldson or Seiberg-Witten invariants) that classify 4D spaces.

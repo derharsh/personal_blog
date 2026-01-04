@@ -1,5 +1,6 @@
 ---
-title: "Study Notes"
+title: "Study Notes :3"
+toc: true
 ---
 
 Here I'll share my study notes, these notes are somewhat more sophisticated than what typical courses in university cover. The treated is more generalised, and with the highest level of abstraction, but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me, it’s worth it (jk, I want u to suffer, hehe!!)
