@@ -1,7 +1,7 @@
 ---
 title: "Home"
 author: "Harsh Prajapati"
-date: "04.01.2026"
+date: "01.04.2026"
 categories: [Mathematics, Physics, Research]
 image: "image.jpg"
 ---

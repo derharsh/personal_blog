@@ -10,7 +10,7 @@
 <atom:link href="https://derharsh-github.io/LupLup/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Tue, 31 Mar 2026 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 03 Jan 2026 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Home</title>
   <dc:creator>Harsh Prajapati</dc:creator>
@@ -22,7 +22,7 @@
 
 
 
-<p>Hello!! Welcome to my blog. You can find my notes from the triple bar menu.</p>
+<p>Hello!! Welcome to my blog. You can find my notes from the triple bar menu :3</p>
 
 
 
@@ -32,7 +32,7 @@
   <category>Physics</category>
   <category>Research</category>
   <guid>https://derharsh-github.io/LupLup/posts/post-with-code/</guid>
-  <pubDate>Tue, 31 Mar 2026 18:30:00 GMT</pubDate>
+  <pubDate>Sat, 03 Jan 2026 18:30:00 GMT</pubDate>
   <media:content url="https://derharsh-github.io/LupLup/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>

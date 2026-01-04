@@ -67,3 +67,13 @@
 \contentsline {subsection}{\numberline {6.2}Natural Numbers}{48}{subsection.6.2}%
 \contentsline {subsubsection}{\numberline {6.2.1}The Peano Axioms}{49}{subsubsection.6.2.1}%
 \contentsline {subsubsection}{\numberline {6.2.2}Definition of Natural Numbers}{51}{subsubsection.6.2.2}%
+\contentsline {subsubsection}{\numberline {6.2.3}Arithematics of Natural Numbers}{53}{subsubsection.6.2.3}%
+\contentsline {subsubsection}{\numberline {6.2.4}The Division Algorithm}{53}{subsubsection.6.2.4}%
+\contentsline {subsubsection}{\numberline {6.2.5}Complete Induction}{53}{subsubsection.6.2.5}%
+\contentsline {subsubsection}{\numberline {6.2.6}Recursive Definition}{53}{subsubsection.6.2.6}%
+\contentsline {subsection}{\numberline {6.3}Integers and Rationals}{53}{subsection.6.3}%
+\contentsline {subsubsection}{\numberline {6.3.1}Integers}{53}{subsubsection.6.3.1}%
+\contentsline {subsubsection}{\numberline {6.3.2}Rational Numbers}{53}{subsubsection.6.3.2}%
+\contentsline {subsubsection}{\numberline {6.3.3}Rational Zeros of Polynomials}{53}{subsubsection.6.3.3}%
+\contentsline {subsubsection}{\numberline {6.3.4}Absolute Value, Exponentials, and Square roots}{53}{subsubsection.6.3.4}%
+\contentsline {subsubsection}{\numberline {6.3.5}Gaps in Rational Numbers}{53}{subsubsection.6.3.5}%
