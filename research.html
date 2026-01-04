@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Research – LupLup</title>
+<title>Research (-) – LupLup</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -364,7 +364,10 @@ window.Quarto = {
   <li><a href="#why-it-is-hard" id="toc-why-it-is-hard" class="nav-link" data-scroll-target="#why-it-is-hard">Why it is hard</a></li>
   <li><a href="#references-and-futher-reading" id="toc-references-and-futher-reading" class="nav-link" data-scroll-target="#references-and-futher-reading">References and Futher Reading</a></li>
   </ul></li>
-  <li><a href="#mathematical-gauge-theory" id="toc-mathematical-gauge-theory" class="nav-link" data-scroll-target="#mathematical-gauge-theory">Mathematical Gauge Theory</a></li>
+  <li><a href="#mathematical-gauge-theory" id="toc-mathematical-gauge-theory" class="nav-link" data-scroll-target="#mathematical-gauge-theory">Mathematical Gauge Theory</a>
+  <ul class="collapse">
+  <li><a href="#why-mathematicians-love-it" id="toc-why-mathematicians-love-it" class="nav-link" data-scroll-target="#why-mathematicians-love-it">Why mathematicians love it:</a></li>
+  </ul></li>
   <li><a href="#univalent-foundations" id="toc-univalent-foundations" class="nav-link" data-scroll-target="#univalent-foundations">Univalent Foundations</a></li>
   </ul>
 </nav>
@@ -375,7 +378,7 @@ window.Quarto = {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research</h1>
+<h1 class="title">Research (<sup>-</sup>)</h1>
 </div>
 
 
@@ -449,32 +452,38 @@ window.Quarto = {
 <h3 class="anchored" data-anchor-id="references-and-futher-reading">References and Futher Reading</h3>
 <ul>
 <li><p><em>Glimme and Jaffe, Quantum Physics: A Functional Integral Point of View.</em></p></li>
-<li><p><em>Jaffe, Arthur (2000). <a href="http://www.arthurjaffe.com/Assets/pdf/CQFT.pdf">Constructive Quantum Field Theory</a>. mathematical Physics 2000: 111-12.</em></p></li>
-<li><p><em>Jaffe and Witten. <a href="https://www.claymaths.org/millennium/yang-mills-the-mathss-gap/">Quantum Yang-Mills</a>. Clay mathematics Institute.</em></p></li>
+<li><p><em>Jaffe, Arthur (2000). <a href="http://www.arthurjaffe.com/Assets/pdf/CQFT.pdf">Constructive Quantum Field Theory</a>. Mathematical Physics 2000: 111-12.</em></p></li>
+<li><p><em>Clay Mathematical Institute. <a href="https://www.claymaths.org/millennium/yang-mills-the-mathss-gap/">Yang-Mills and Mass Gap</a>.</em></p></li>
+<li><p><em>Arthur Jaffe and Edward Witten, <a href="">Quantum Yang-Mills</a>.</em></p></li>
 </ul>
 </section>
 </section>
 <section id="mathematical-gauge-theory" class="level2">
 <h2 class="anchored" data-anchor-id="mathematical-gauge-theory">Mathematical Gauge Theory</h2>
 <p>Gauge theories are the modern language of mathematical thoeries of physics. A gauge theory describes fields with built-in redundancy. Not all information you write down actually matters—some of it is “fake freedom” that doesn’t change physics. The mathematics is about understanding which parts are real and how they interact.</p>
-<p><strong>Think of it like this:</strong> * You have a field (like the electromagnetic potential A_).</p>
+<p><strong>Think of it like this:</strong></p>
 <ul>
+<li><p>You have a field (like the electromagnetic potential <span class="math inline">\(A_\mu\)</span>).</p></li>
 <li><p>You can transform it locally—change its “phase” differently at every point—and the physics (like electric and magnetic fields) doesn’t change</p></li>
 <li><p>That’s a gauge symmetry.</p></li>
 <li><p>The actual measurable stuff lives in the quotient space, where all configurations related by these transformations are treated as the same.</p></li>
 </ul>
-<p><strong>Mathematical approach:</strong> 1. <em>Fiber bundles:</em> Imagine every point in space has a little copy of a group hanging over it, like a tiny circle or matrix. The way these fibers twist and connect encodes the gauge field. Physics is captured by the geometry of the bundle.</p>
-<ol start="2" type="1">
-<li><p><em>Connections and curvature:</em> The gauge field itself is a connection on this bundle. Curvature measures how much twisting happens when you move around a loop—this is exactly the field strength, like F_{} in physics.</p></li>
+<p><strong>Mathematical approach:</strong></p>
+<ol type="1">
+<li><p><em>Fiber bundles:</em> Imagine every point in space has a little copy of a group hanging over it, like a tiny circle or matrix. The way these fibers twist and connect encodes the gauge field. Physics is captured by the geometry of the bundle.</p></li>
+<li><p><em>Connections and curvature:</em> The gauge field itself is a connection on this bundle. Curvature measures how much twisting happens when you move around a loop—this is exactly the field strength, like <span class="math inline">\(F_{\mu\nu}\)</span> in physics.</p></li>
 <li><p><em>Yang-Mills theory:</em> A fancy, rigorous version of the gauge theory behind the strong force. mathematicians study its properties: existence of solutions, topology of the space of connections, invariants like instantons.</p></li>
 <li><p><em>Topology is everything:</em> Gauge theory isn’t just equations; it’s also about the shape of the underlying space and the bundle. Weird stuff happens, like quantization of flux or magnetic monopoles, which are really just topological constraints.</p></li>
 </ol>
-<p><strong>Why mathematicians love it:</strong> * It bridges geometry, topology, and analysis.</p>
+<section id="why-mathematicians-love-it" class="level3">
+<h3 class="anchored" data-anchor-id="why-mathematicians-love-it">Why mathematicians love it:</h3>
 <ul>
+<li><p>It bridges geometry, topology, and analysis.</p></li>
 <li><p>It produces invariants of manifolds (like Donaldson or Seiberg-Witten invariants) that classify 4D spaces.</p></li>
 <li><p>It formalizes ideas from physics rigorously, so you can finally stop trusting physicists’ hand-wavy arguments.</p></li>
 </ul>
 <p><strong>In short:</strong> mathematical gauge theory = study of fields with symmetry in the language of geometry, topology, and analysis, stripped of the physicists’ “oops let’s integrate over all paths and hope it works” approach.</p>
+</section>
 </section>
 <section id="univalent-foundations" class="level2">
 <h2 class="anchored" data-anchor-id="univalent-foundations">Univalent Foundations</h2>

@@ -9,11 +9,6 @@
 <link>https://derharsh-github.io/LupLup/</link>
 <atom:link href="https://derharsh-github.io/LupLup/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
-<image>
-<url>https://derharsh-github.io/LupLup/image1.jpeg</url>
-<title>LupLup</title>
-<link>https://derharsh-github.io/LupLup/</link>
-</image>
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Sat, 03 Jan 2026 18:30:00 GMT</lastBuildDate>
 <item>
