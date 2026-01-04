@@ -7,6 +7,7 @@ listing:
     categories: true
     sort: "date desc"
     filter-ui: false
+template: jolla
 ---
 
 My current interests lie at the mathematical foundations of quantum field theories and gauge theories. My interests are highly ambitious, they involve many big foundational and unresolved problems.
@@ -107,7 +108,7 @@ Physicists think you’re wasting time proving obvious things. mathematicians th
 Gauge theories are the modern language of mathematical thoeries of physics. A gauge theory describes fields with built-in redundancy. Not all information you write down actually matters—some of it is “fake freedom” that doesn’t change physics. The mathematics is about understanding which parts are real and how they interact.
 
 **Think of it like this:**
-* You have a field (like the electromagnetic potential A_\mu).
+* You have a field (like the electromagnetic potential $A_\mu$).
 
 * You can transform it locally—change its “phase” differently at every point—and the physics (like electric and magnetic fields) doesn’t change
 
@@ -118,7 +119,7 @@ Gauge theories are the modern language of mathematical thoeries of physics. A ga
 **Mathematical approach:**
 1. *Fiber bundles:* Imagine every point in space has a little copy of a group hanging over it, like a tiny circle or matrix. The way these fibers twist and connect encodes the gauge field. Physics is captured by the geometry of the bundle.
 
-2. *Connections and curvature:* The gauge field itself is a connection on this bundle. Curvature measures how much twisting happens when you move around a loop—this is exactly the field strength, like F_{\mu\nu} in physics.
+2. *Connections and curvature:* The gauge field itself is a connection on this bundle. Curvature measures how much twisting happens when you move around a loop—this is exactly the field strength, like $F_{\mu\nu}$ in physics.
 
 3. *Yang-Mills theory:* A fancy, rigorous version of the gauge theory behind the strong force. mathematicians study its properties: existence of solutions, topology of the space of connections, invariants like instantons.
 
