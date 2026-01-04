@@ -8,6 +8,8 @@ website:
   title: "LupLup"
   navbar:
     right:
+      - text:"Notes"
+        href: library.qmd
       - about.qmd
       - icon: github
         href: https://github.com/derharsh
