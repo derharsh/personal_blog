@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.30)  4 JAN 2026 07:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.30)  4 JAN 2026 08:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -566,15 +566,15 @@ Package rerunfilecheck Info: File `"Linear Algebra I".out' has not changed.
 (rerunfilecheck)             Checksum: 01B1280FCBE9F3F39CEB78E71981643A;3055.
  ) 
 Here is how much of TeX's memory you used:
- 15817 strings out of 474486
- 257955 string characters out of 5743754
+ 15827 strings out of 474486
+ 258029 string characters out of 5743754
  1934542 words of memory out of 5000000
  37800 multiletter control sequences out of 15000+600000
- 569962 words of font info for 112 fonts, out of 8000000 for 9000
+ 570387 words of font info for 117 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,11n,79p,1047b,503s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\cacca\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on "Linear Algebra I.pdf" (7 pages, 79052 bytes).
+Output written on "Linear Algebra I.pdf" (7 pages, 78987 bytes).
 PDF statistics:
  176 PDF objects out of 1000 (max. 8388607)
  32 named destinations out of 1000 (max. 500000)

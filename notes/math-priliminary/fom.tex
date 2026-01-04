@@ -1004,11 +1004,9 @@ In the case where there are multiple quantifiers in the formula, we handle them 
 
 \section{Set Theory}
 
-Sets are the foundation of modern mathematics. Most mathematical entitics can be studied as sets or classes of objects. We could have already discussed some concpts of sets in chapter 1, they were mainly discussed in the context of `how to use set theory'. In this chapter, I'll reintroduce them in a more axiomatic and philosophical way, instead of just giving the naive definition of sets.
+Sets are the foundation of modern mathematics. Most mathematical entitics can be studied as sets or classes of objects. We could have introduced some concepts of sets before chapter 1, But doing so in this order has a logical advantage.\footnote{Tehcnically, we have used sets in some examples of previous chapters for which intuitiv set theory is more than enough.}
 
 We start with a brief introduction to Cantor's \emph{naive set theory} and see why it fails when considered sets that are \enquote{too large}. Then we develope the Zermelo-Fraenkel system with quite a bit of depth, starting with the axiom of extentionality and axiom schema of separation which fixes the issues of Cantor's formulation. Then we'll define operations of sets such as intersection, union, and difference of two sets. After that, we discuss ordinals and cardinals, and axiom of choice. However, a full treatment of \emph{axiomatic set theory} will not be done here.
-
-%I was also considering adding number systems and the Peano axiom here as they are also foundational, but I've covered them in my notes on `\textit{Analysis I}'.
 
 \subsection{From Cantor to Zermelo}
 
@@ -1441,7 +1439,7 @@ Sometimes the difference is also called the \emph{relative compliment} of \(M\) 
 
 \subsubsection{Pairing Axiom}
 
-Right now, we have only introduced just one set, the empty set, which is the simplest set. So, we introduce another set containing only one element \(x\), \(\{x\}\) is called the \textbf{singleton set}\index{singleton set}. Note that the object \(x\) and \{\(x\)\} are two differet objects and should be confused with each other. We will now introduce the \emph{pairing axiom} which allows us to create sets from two given objects.
+Right now, we have only introduced just one set, the empty set, which is the simplest set. So, we introduce another set containing only one element \(x\), \(\{x\}\) is called the \textbf{singleton set}\index{singleton set}. Note that the object \(x\) and \{\(x\)\} are two differet objects and should not be confused with each other. We will now introduce the \emph{pairing axiom} which allows us to create sets from two given objects.
 
 \begin{axiom}[Pairing axiom]
     \(\exists A \forall z (z \in A \Leftrightarrow z = x \lor z = y)\)
@@ -1765,7 +1763,6 @@ The idea of an order relation is that the element of a set with respect to a spe
 
 \subsection{Operations}
 \subsection{Functions}
-\subsection{Compositions and Commutative Diagrams}
 \subsection{Injections, Surjections and Bijections}
 \subsection{Inverse Functions}
 \subsection{Set-Valued Functions and Fibres}
