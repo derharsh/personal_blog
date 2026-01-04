@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://derharsh-github.io/LupLup/posts/welcome/index.html</loc>
-    <lastmod>2026-01-04T00:07:42.756Z</lastmod>
-  </url>
-  <url>
-    <loc>https://derharsh-github.io/LupLup/library.html</loc>
-    <lastmod>2026-01-04T01:42:48.593Z</lastmod>
-  </url>
-  <url>
-    <loc>https://derharsh-github.io/LupLup/about.html</loc>
-    <lastmod>2026-01-04T00:30:34.271Z</lastmod>
+    <loc>https://derharsh-github.io/LupLup/posts/post-with-code/index.html</loc>
+    <lastmod>2026-01-04T00:59:44.609Z</lastmod>
   </url>
   <url>
     <loc>https://derharsh-github.io/LupLup/index.html</loc>
     <lastmod>2026-01-04T00:53:35.934Z</lastmod>
   </url>
   <url>
-    <loc>https://derharsh-github.io/LupLup/posts/post-with-code/index.html</loc>
-    <lastmod>2026-01-04T00:59:44.609Z</lastmod>
+    <loc>https://derharsh-github.io/LupLup/about.html</loc>
+    <lastmod>2026-01-04T00:30:34.271Z</lastmod>
+  </url>
+  <url>
+    <loc>https://derharsh-github.io/LupLup/library.html</loc>
+    <lastmod>2026-01-04T01:42:48.593Z</lastmod>
   </url>
 </urlset>

@@ -1,10 +1,24 @@
 [
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Home",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Yoyo"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LupLup",
+    "section": "",
+    "text": "Home\n\n\n\nNotes\n\nResearch\n\n\n\n\n\n\n\n\n\nFeb 1, 2026\n\n\nHarsh Prajapati\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Yo! I’m an 18 y-o kido studying maths and mathematical physics. This blog is my “personal space”— a place where i share my passion for mathe and physics through my lecture notes, research articles and ideas, and topics that usually don’t make it to the classroom until the PhD level… hehe :3."
   },
   {
     "objectID": "library.html",
@@ -26,26 +40,5 @@
     "title": "Lecture Notes",
     "section": "Mathematical Physics:",
     "text": "Mathematical Physics:\n\nClassical Mechanics I: Newtonian, Lagrangian and Hamiltonian Formulations."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Yo! I’m an 18 y-o kido studying maths and mathematical physics. This blog is my “personal space”— a place where i share my passion for mathe and physics through my lecture notes, research articles and ideas, and topics that usually don’t make it to the classroom until the PhD level… hehe :3."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LupLup",
-    "section": "",
-    "text": "Home\n\n\n\nNotes\n\nResearch\n\n\n\n\n\n\n\n\n\nFeb 1, 2026\n\n\nHarsh Prajapati\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Home",
-    "section": "",
-    "text": "Yoyo"
   }
 ]
