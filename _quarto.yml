@@ -10,6 +10,8 @@ website:
     right:
       - text: Notes
         href: library.qmd
+      - text: Research
+        href: research.qmd
       - about.qmd
       - icon: github
         href: https://github.com/derharsh
