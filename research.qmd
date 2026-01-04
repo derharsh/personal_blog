@@ -95,9 +95,10 @@ Everything that behaves nicely in 2D or 3D turns feral in 4D. Marginal couplings
 8. *You’re fighting both tribes.*
 Physicists think you’re wasting time proving obvious things. Mathematicians think you’re doing analysis while high. Funding committees think you should’ve picked machine learning. This is not a friendly ecosystem. Absolute Bonkers.
 
-## References and Futher Reading
+### References and Futher Reading
 * *Glimme and Jaffe, Quantum Physics: A Functional Integral Point of View.*
 * *Jaffe, Arthur (2000). [Constructive Quantum Field Theory](http://www.arthurjaffe.com/Assets/pdf/CQFT.pdf). Mathematical Physics 2000: 111-12.*
+* *Jaffe and Witten. [Quantum Yang-Mills](https://www.claymath.org/millennium/yang-mills-the-maths-gap/). Clay Mathematics Institute.*
 
 
 ## Mathematical Gauge Theory
