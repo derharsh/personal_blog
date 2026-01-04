@@ -20,7 +20,7 @@ body.quarto-dark {
 
 /* Links in Dark Mode (Blue/Navy) */
 body.quarto-dark a {
-  color: #001375;
+  color: #acbaff;
 }
 body.quarto-dark a:hover {
   color: #a3a0ff;
