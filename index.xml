@@ -10,10 +10,10 @@
 <atom:link href="https://derharsh-github.io/LupLup/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Sat, 03 Jan 2026 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Invalid Date</lastBuildDate>
 <item>
-  <title>Post With Code</title>
-  <dc:creator>Harlow Malloc</dc:creator>
+  <title>Home</title>
+  <dc:creator>Harsh Prajapati</dc:creator>
   <link>https://derharsh-github.io/LupLup/posts/post-with-code/</link>
   <description><![CDATA[ 
 
@@ -21,17 +21,16 @@
 
 
 
-<p>This is a post with executable code.</p>
+<p>Yoyo</p>
 
 
 
 
  ]]></description>
-  <category>news</category>
-  <category>code</category>
-  <category>analysis</category>
+  <category>Notes</category>
+  <category>Research</category>
   <guid>https://derharsh-github.io/LupLup/posts/post-with-code/</guid>
-  <pubDate>Sat, 03 Jan 2026 18:30:00 GMT</pubDate>
+  <pubDate>Invalid Date</pubDate>
   <media:content url="https://derharsh-github.io/LupLup/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
