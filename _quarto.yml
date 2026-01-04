@@ -3,7 +3,7 @@ project:
 
 website:
   description: "A blog built with Quarto"
-  site-url: https://derharsh-github.io/LupLup # you must change this appropriately for RSS feeds to work properly
+  site-url: https://derharsh-github.io/LupLup 
   repo-url: https://github.com/derharsh.io/LupLup
   title: "LupLup"
   navbar:
