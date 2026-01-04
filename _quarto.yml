@@ -14,7 +14,7 @@ website:
         href: research.qmd
       - about.qmd
       - icon: github
-        href: https://github.com/derharsh.io/LupLup
+        href: https://github.com/derharsh/LupLup
 format:
   html:
     theme:
