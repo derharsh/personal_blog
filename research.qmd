@@ -1,5 +1,5 @@
 ---
-title: "Research (^-^)"
+title: "Research ;;"
 toc: true
 listing: 
     contents: posts
@@ -9,7 +9,7 @@ listing:
     filter-ui: false
 ---
 
-My current interests lie at the mathematical foundations of quantum field theories and gauge theories. My interests are highly ambitious, they involve many big foundational and unresolved problems.
+My current interests lie at the mathematical foundations of quantum field theories, gauge theories and foundations of mathematics. My interests are highly ambitious, they involve many big foundational and unresolved problems.
 
 ## Quantum Field Theory
 QFTs are the theories of quantum fields on locally flat Minkowski space. It is the language in which all of physics without gravity can be described.
@@ -128,7 +128,7 @@ Gauge theories are the modern language of mathematical thoeries of physics. A ga
 
 4. *Topology is everything:* Gauge theory isn’t just equations; it’s also about the shape of the underlying space and the bundle. Weird stuff happens, like quantization of flux or magnetic monopoles, which are really just topological constraints.
 
-### Why mathematicians love it:
+### Why mathematicians love it
 * It bridges geometry, topology, and analysis.
 
 * It produces invariants of manifolds (like Donaldson or Seiberg-Witten invariants) that classify 4D spaces.
