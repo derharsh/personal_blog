@@ -7,11 +7,11 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LupLup",
+    "objectID": "library.html",
+    "href": "library.html",
+    "title": "Lecture Notes",
     "section": "",
-    "text": "Home\n\n\n\nNotes\n\nResearch\n\n\n\n\n\n\n\n\n\nInvalid Date\n\n\nHarsh Prajapati\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "I share my study notes, but with a twist: I re-write them in a more generalized, and highest level of abstract language but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me it’s worth it (jk, I want u to suffer, hehe)\nMathematics: * Mathematical Preliminaries: Logic, Proofs, Sets and Numbers. * Analysis I: Topology and Calculus of Functions of Single Real Variable. * Linear Algebra I: Algebraic structures of vector spaces, matrix theory and Eigen theory. * Mathematical Logic: Proof Theory and Computing with proof assistants (Coq).\nMathematical Physics: * Classical Mechanics I: Newtonian, Lagrangian and Hamiltonian Formulations."
   },
   {
     "objectID": "about.html",
@@ -19,6 +19,13 @@
     "title": "About",
     "section": "",
     "text": "Yo! I’m an 18 y-o kido studying maths and mathematical physics. This blog is my “personal space”— a place where i share my passion for mathe and physics through my lecture notes, research articles and ideas, and topics that usually don’t make it to the classroom until the PhD level… hehe :3."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LupLup",
+    "section": "",
+    "text": "Home\n\n\n\nNotes\n\nResearch\n\n\n\n\n\n\n\n\n\nFeb 1, 2026\n\n\nHarsh Prajapati\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",

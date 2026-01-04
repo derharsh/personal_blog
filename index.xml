@@ -10,7 +10,7 @@
 <atom:link href="https://derharsh-github.io/LupLup/index.xml" rel="self" type="application/rss+xml"/>
 <description>A blog built with Quarto</description>
 <generator>quarto-1.8.26</generator>
-<lastBuildDate>Invalid Date</lastBuildDate>
+<lastBuildDate>Sat, 31 Jan 2026 18:30:00 GMT</lastBuildDate>
 <item>
   <title>Home</title>
   <dc:creator>Harsh Prajapati</dc:creator>
@@ -30,7 +30,7 @@
   <category>Notes</category>
   <category>Research</category>
   <guid>https://derharsh-github.io/LupLup/posts/post-with-code/</guid>
-  <pubDate>Invalid Date</pubDate>
+  <pubDate>Sat, 31 Jan 2026 18:30:00 GMT</pubDate>
   <media:content url="https://derharsh-github.io/LupLup/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
