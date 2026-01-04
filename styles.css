@@ -5,11 +5,7 @@ body {
   font-family: 'Inter', sans-serif;
 }
 
-/* =========================================
-   STYLE THE PROFILE "BANNER" (JOLLA)
-   ========================================= */
-
-/* The container for your bio and picture */
+/* The container for the bio and picture */
 .quarto-about-jolla {
   border-radius: 15px;      /* Rounded corners */
   padding: 40px;            /* Breathing room inside the box */
@@ -30,11 +26,7 @@ body.quarto-light .quarto-about-jolla {
   border: 1px solid #e1e4e8;
 }
 
-/* =========================================
-   ACCENTS (Links & Hover)
-   ========================================= */
-
-/* Make links pop */
+/* Accents (Links & Hover) - to make links pop */
 a {
   color: #7199f7;
   text-decoration: none;
