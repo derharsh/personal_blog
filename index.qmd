@@ -13,4 +13,4 @@ page-layout: full
 title-block-banner: true
 ---
 
-Welcome to my digital notebook :3
+:3
