@@ -1,24 +1,31 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Welcome!",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "Hello!! Welcome to my blog.\nYou can find my notes from the “Notes” menu (obv)."
+    "text": "My current interests lie at the mathematical foundations of quantum field theories and gauge theories. My interests are highly ambitious, they involve many big foundational and unresolved problems."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "LupLup",
-    "section": "",
-    "text": ":3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome!\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\nJan 4, 2026\n\n\nHarsh Prajapati\n\n\n\n\n\nNo matching items"
+    "objectID": "research.html#quantum-field-theory",
+    "href": "research.html#quantum-field-theory",
+    "title": "Research",
+    "section": "Quantum Field Theory",
+    "text": "Quantum Field Theory\nQFTs are the theories of quantum fields on locally flat Minkowski space. It is the language in which all of physics without gravity can be described."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Yo! I’m an 18 y-o kido studying maths and mathematical physics. This blog is my “personal space”— a place where i share my passion for mathe and physics through my lecture notes, research articles and ideas, and topics that usually don’t make it to the classroom until the PhD level… hehe :3."
+    "objectID": "research.html#mathematical-gauge-theory",
+    "href": "research.html#mathematical-gauge-theory",
+    "title": "Research",
+    "section": "Mathematical Gauge Theory",
+    "text": "Mathematical Gauge Theory\nGauge theories are the modern language of mathematical thoeries of physics."
+  },
+  {
+    "objectID": "research.html#univalent-foundations",
+    "href": "research.html#univalent-foundations",
+    "title": "Research",
+    "section": "Univalent Foundations",
+    "text": "Univalent Foundations\nThis is a somewhat different but a deep field of mathematics that i’m interested in. The ordinary mathematics used by everyone is based on set theory of Zaermelo-Frankel along with the axiom of choice, called the ZFC-system. This system is very robust to formulate almost all of ordinary mathematics (ordinary mathematics is the maths that you do in analysis, algebra, geometry, etc instead of yapping about the foundations of maths)."
   },
   {
     "objectID": "library.html",
@@ -40,5 +47,26 @@
     "title": "Study Notes",
     "section": "Mathematical Physics:",
     "text": "Mathematical Physics:\n\nClassical Mechanics I: Newtonian, Lagrangian and Hamiltonian Mechanics."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Yo! I’m an 18 y-o kido studying maths and mathematical physics. This blog is my “personal space”— a place where i share my passion for mathe and physics through my lecture notes, research articles and ideas, and topics that usually don’t make it to the classroom until the PhD level… hehe :3."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LupLup",
+    "section": "",
+    "text": ":3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome!\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\nJan 4, 2026\n\n\nHarsh Prajapati\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Hello!! Welcome to my blog.\nYou can find my notes from the “Notes” menu (obv)."
   }
 ]
