@@ -25,14 +25,14 @@
     "href": "library.html",
     "title": "Lecture Notes",
     "section": "",
-    "text": "I share my study notes, but with a twist: I re-write them in a more generalized, and highest level of abstract language but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me it’s worth it (jk, I want u to suffer, hehe)"
+    "text": "I share my study notes, but with a twist: I re-write them in a more generalized, and highest level of abstract language but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me it’s worth it (jk, I want u to suffer, hehe)\nStarting from foundational topics like analysis and algebra i plan to cover more advanced topics in algebraic topology, Partial Differential Equations, Geometry, and Stochastic. In Mathematical Physics, i treat the subjects very rigorouly (sometimes more than required and typically taught in undergraduate courses) to ensure mathematical sophistication for advanced research. The aim of these notes is to train a future researcher in mathematics or/and mathhematical physics.\nThe course on Mathematical Foundations is essentially the in the series of lecture notes. So, make sure you have those basics down.\nHuiiiHuiii :3"
   },
   {
     "objectID": "library.html#mathematics",
     "href": "library.html#mathematics",
     "title": "Lecture Notes",
     "section": "Mathematics:",
-    "text": "Mathematics:\n\nMathematical Preliminaries: Logic, Proofs, Sets and Numbers.\nAnalysis I: Topology and Calculus of Functions of Single Real Variable.\nLinear Algebra I: Algebraic structures of vector spaces, matrix theory and Eigen theory.\nMathematical Logic: Proof Theory and Computing with proof assistants (Coq)."
+    "text": "Mathematics:\n\nMathematical Foundations: Logic, Proofs, Sets and Numbers.\nAnalysis I: Topology and Calculus of Functions of Single Real Variable.\nLinear Algebra I: Algebraic structures of vector spaces, matrix theory and Eigen theory.\nMathematical Logic: Proof Theory and Computing with proof assistants (Coq)."
   },
   {
     "objectID": "library.html#mathematical-physics",
