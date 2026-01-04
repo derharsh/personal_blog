@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  description: "A blog built with Quarto"
+  description: "My Personal Blog"
   site-url: https://derharsh.github.io/LupLup 
   repo-url: https://github.com/derharsh.io/LupLup
   title: "LupLup"
@@ -14,9 +14,7 @@ website:
         href: research.qmd
       - about.qmd
       - icon: github
-        href: https://github.com/derharsh
-      - icon: twitter
-        href: https://twitter.com/HarshPrajapatiS
+        href: https://github.com/derharsh.io/LupLup
 format:
   html:
     theme:

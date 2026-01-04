@@ -12,9 +12,9 @@ Today, i'm starting a blog page as a personal space to share my lecture notes, r
 
 i only started talking notes in latex by the end of oct and for a while i wasnt consistent with it. but now ill try t be more consistent, hehe OwO
 
-You can find my notes from the **[Notes](library.qmd)** menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.
+You can find my notes from the **[Notes](/library.qmd)** menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.
 
-As for my research interest, i've been reading a lot into constructive qft, gauge theory and hott (although i dont understand much "_"). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway (bcz im chaotic >w<). You can find more about my research in the **[Research](research.qmd)** tab.
+As for my research interest, i've been reading a lot into constructive qft, gauge theory and hott (although i dont understand much "_"). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway (bcz im chaotic >w<). You can find more about my research in the **[Research](/research.)** tab.
 
 Lastly, im using quarto and github pages to host this blog, the code for the quarto project can be found on my github repo. currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.
 
