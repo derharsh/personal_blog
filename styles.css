@@ -1,55 +1,46 @@
-/* 1. Global Settings (Fonts apply to everything) */
+/* Keep the cool fonts */
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;600&family=Inter:wght@300;400;600&display=swap');
 
 body {
   font-family: 'Inter', sans-serif;
 }
 
-pre, code, kbd, samp {
-  font-family: 'Fira Code', monospace;
-  font-feature-settings: "liga" 1;
+/* =========================================
+   STYLE THE PROFILE "BANNER" (JOLLA)
+   ========================================= */
+
+/* The container for your bio and picture */
+.quarto-about-jolla {
+  border-radius: 15px;      /* Rounded corners */
+  padding: 40px;            /* Breathing room inside the box */
+  margin-top: 20px;
+  margin-bottom: 40px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1); /* Subtle 3D shadow */
+}
+
+/* Dark Mode Banner: A subtle purple-ish grey card */
+body.quarto-dark .quarto-about-jolla {
+  background: linear-gradient(145deg, #1f242d, #161b22);
+  border: 1px solid #30363d;
+}
+
+/* Light Mode Banner: A clean off-white card */
+body.quarto-light .quarto-about-jolla {
+  background: linear-gradient(145deg, #ffffff, #f0f2f5);
+  border: 1px solid #e1e4e8;
 }
 
 /* =========================================
-   2. DARK MODE STYLING (The Hacker Vibe) 
+   ACCENTS (Links & Hover)
    ========================================= */
-body.quarto-dark {
-  background-color: #0d1117; /* GitHub Dark Dimmed */
-  color: #c9d1d9;            /* Soft Grey Text */
+
+/* Make links pop in your favorite purple */
+a {
+  color: #8f70ff;
+  text-decoration: none;
+  transition: color 0.2s ease-in-out;
 }
 
-/* Links in Dark Mode (Blue/Navy) */
-body.quarto-dark a {
-  color: #acbaff;
-}
-body.quarto-dark a:hover {
-  color: #a3a0ff;
-}
-
-/* Callout Boxes in Dark Mode */
-body.quarto-dark .callout {
-  background-color: #161b22 !important;
-  border-left-color: #a3a0ff !important;
-}
-
-/* =========================================
-   3. LIGHT MODE STYLING (The "Paper" Vibe) 
-   ========================================= */
-body.quarto-light {
-  background-color: #ffffff; /* Clean White */
-  color: #24292f;            /* Sharp Dark Grey Text */
-}
-
-/* Links in Light Mode (Deep Blue/Purple - easier to read on white) */
-body.quarto-light a {
-  color: #6f42c1;
-}
-body.quarto-light a:hover {
-  color: #5a32a3;
-}
-
-/* Callout Boxes in Light Mode */
-body.quarto-light .callout {
-  background-color: #f6f8fa !important; /* Very light grey */
-  border-left-color: #6f42c1 !important;
+a:hover {
+  color: #d2a8ff;
 }
