@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1767495023.989 "c:/Users/cacca/LupLup/notes/math-priliminary/fom.tex" "fom.pdf" "fom" 1767495028.59256 0
+["pdflatex"] 1767500350.92023 "c:/Users/cacca/LupLup/notes/math-priliminary/fom.tex" "fom.pdf" "fom" 1767500354.38221 0
   "C:/Users/cacca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1766717010 117253 3e2b0821a8df89fc4d3e125e02ff8797 ""
   "C:/Users/cacca/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761815001 24225047 9b5f22851ad52bfd52a97d2db1fa64eb ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc" 1256929440 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
@@ -212,11 +212,11 @@
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/cacca/LupLup/notes/math-priliminary/fom.tex" 1767495022 158788 0728e2d23a9f82cec9a7933d643c1900 ""
-  "fom.aux" 1767495027 12167 53bd5f4dc7eaca88b6012a2cf1d715ed "pdflatex"
-  "fom.out" 1767495028 12987 867b983655bf52e6440d3a3c67c922bb "pdflatex"
-  "fom.tex" 1767495022 158788 0728e2d23a9f82cec9a7933d643c1900 ""
-  "fom.toc" 1767495028 7193 808ce8061c9c002ce2ff7c5a3a59795b "pdflatex"
+  "c:/Users/cacca/LupLup/notes/math-priliminary/fom.tex" 1767500346 158341 15c024645704d29fc9750c824b322e8d ""
+  "fom.aux" 1767500353 12164 8a57de9e0da78256255594f0742100b8 "pdflatex"
+  "fom.out" 1767500353 12987 867b983655bf52e6440d3a3c67c922bb "pdflatex"
+  "fom.tex" 1767500346 158341 15c024645704d29fc9750c824b322e8d ""
+  "fom.toc" 1767500353 7192 de107993eef90c82dadd89073affa9f9 "pdflatex"
   (generated)
   "fom.aux"
   "fom.log"

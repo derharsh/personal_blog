@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.30)  4 JAN 2026 09:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.30)  4 JAN 2026 09:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -817,26 +817,34 @@ File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 
 ] [4
 
+] [5
+
+] [6
+
+] [7
+
+] [8
+
 ] (mathe-logic.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-04>
  ***********
 Package rerunfilecheck Info: File `mathe-logic.out' has not changed.
-(rerunfilecheck)             Checksum: 131CD9EB9481277195786C8BD7D5A9B7;532.
+(rerunfilecheck)             Checksum: D4485760A4A0B5DFC87A66879A15AA2E;686.
  ) 
 Here is how much of TeX's memory you used:
- 27171 strings out of 474486
- 515848 string characters out of 5743754
+ 27179 strings out of 474486
+ 515912 string characters out of 5743754
  1934542 words of memory out of 5000000
- 48928 multiletter control sequences out of 15000+600000
+ 48930 multiletter control sequences out of 15000+600000
  599190 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  98i,11n,107p,1048b,504s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on mathe-logic.pdf (4 pages, 90209 bytes).
+Output written on mathe-logic.pdf (8 pages, 95288 bytes).
 PDF statistics:
- 71 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 24621 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 100 PDF objects out of 1000 (max. 8388607)
+ 17 named destinations out of 1000 (max. 500000)
+ 24637 words of extra memory for PDF output out of 24883 (max. 10000000)
 
