@@ -1,0 +1,22 @@
+project:
+  type: website
+
+website:
+  description: "A blog built with Quarto"
+  site-url: https://derharsh-github.io/LupLup # you must change this appropriately for RSS feeds to work properly
+  repo-url: https://github.com/derharsh.io/LupLup
+  title: "LupLup"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/derharsh
+      - icon: twitter
+        href: https://twitter.com/HarshPrajapatiS
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    math: katex
