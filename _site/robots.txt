@@ -1,1 +1,1 @@
-Sitemap: https://derharsh-github.io/LupLup/sitemap.xml
+Sitemap: https://derharsh.github.io/LupLup/sitemap.xml
