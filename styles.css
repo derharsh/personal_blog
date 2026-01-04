@@ -1,33 +1,55 @@
-/* css styles */
-/* Import Fira Code (The Hacker Font) and Inter (Clean Text) */
+/* 1. Global Settings (Fonts apply to everything) */
 @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;600&family=Inter:wght@300;400;600&display=swap');
 
-/* Apply the fonts */
 body {
   font-family: 'Inter', sans-serif;
-  background-color: #0d1117; /* GitHub Dark Mode Background */
 }
 
-/* Make code blocks look like a terminal */
 pre, code, kbd, samp {
   font-family: 'Fira Code', monospace;
-  font-feature-settings: "liga" 1; /* Turn on the cool arrows */
+  font-feature-settings: "liga" 1;
 }
 
-/* Change the accent color */
-a {
-  color: #000672;
-  text-decoration: none;
+/* =========================================
+   2. DARK MODE STYLING (The Hacker Vibe) 
+   ========================================= */
+body.quarto-dark {
+  background-color: #0d1117; /* GitHub Dark Dimmed */
+  color: #c9d1d9;            /* Soft Grey Text */
 }
 
-a:hover {
-  color: #cb9bff;
-  text-decoration: underline;
+/* Links in Dark Mode (Blue/Navy) */
+body.quarto-dark a {
+  color: #001375;
+}
+body.quarto-dark a:hover {
+  color: #a3a0ff;
 }
 
-/* Style the "Theorem" boxes (Callouts) */
-.callout {
-  border-left-color: #a371f7 !important;
+/* Callout Boxes in Dark Mode */
+body.quarto-dark .callout {
   background-color: #161b22 !important;
-  border-radius: 8px;
+  border-left-color: #a3a0ff !important;
+}
+
+/* =========================================
+   3. LIGHT MODE STYLING (The "Paper" Vibe) 
+   ========================================= */
+body.quarto-light {
+  background-color: #ffffff; /* Clean White */
+  color: #24292f;            /* Sharp Dark Grey Text */
+}
+
+/* Links in Light Mode (Deep Blue/Purple - easier to read on white) */
+body.quarto-light a {
+  color: #6f42c1;
+}
+body.quarto-light a:hover {
+  color: #5a32a3;
+}
+
+/* Callout Boxes in Light Mode */
+body.quarto-light .callout {
+  background-color: #f6f8fa !important; /* Very light grey */
+  border-left-color: #6f42c1 !important;
 }
