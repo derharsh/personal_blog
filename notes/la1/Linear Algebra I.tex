@@ -1,0 +1,252 @@
+\documentclass[12pt]{article} % use larger type; default would be 10pt
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{amsmath, amssymb, amsthm, mathtools}
+\usepackage{microtype}
+
+%%% Examples of Article customizations
+% These packages are optional, depending whether you want the features they provide.
+% See the LaTeX Companion or other references for full information.
+
+%%% PAGE DIMENSIONS
+\usepackage{geometry} % to change the page dimensions
+\geometry{a4paper} % or letterpaper (US) or a5paper or....
+\geometry{margin=2.5cm} % for example, change the margins to 2 inches all round
+%\geometry{landscpe} % set up the page for landscape
+%   read geometry.pdf for detailed page layout information
+
+\usepackage{graphicx} % support the \includegraphics command and options
+
+%\usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
+
+%%% PACKAGES
+\usepackage{booktabs} % for much better looking tables
+\usepackage{array} % for better arrays (eg matrices) in maths
+\usepackage{paralist} % very flexible & customisable lists (eg. enumerate/itemize, etc.)
+\usepackage{verbatim} % adds environment for commenting out blocks of text & for better verbatim
+\usepackage{subfig} % make it possible to include more than one captioned figure/table in a single float
+\usepackage[hidelinks]{hyperref}
+\usepackage{csquotes}
+% These packages are all incorporated in the memoir class to one degree or another...
+
+%%% HEADERS & FOOTERS
+\usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
+\pagestyle{fancy} % options: empty , plain , fancy
+\renewcommand{\headrulewidth}{0pt} % customise the layout...
+\lhead{}\chead{}\rhead{}
+\lfoot{}\cfoot{\thepage}\rfoot{}
+
+%%% SECTION TITLE APPEARANCE
+\usepackage{sectsty}
+%\allsectionsfont{\sffamily\mdseries\upshape} % (See the fntguide.pdf for font help)
+% (This matches ConTeXt defaults)
+
+%%% ToC (table of contents) APPEARANCE
+%\usepackage[nottoc,notlof,notlot]{tocbibind} % Put the bibliography in the ToC
+%\usepackage[titles,subfigure]{tocloft} % Alter the style of the Table of Contents
+%\renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
+%\renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
+
+% Theorem-like environments setup
+\theoremstyle{plain}
+\newtheorem{axiom}{Axiom}[section]
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{notation}[theorem]{Notation}
+
+% Custom theorem style for important results
+\newtheoremstyle{important}
+  {\topsep}   % Space above
+  {\topsep}   % Space below
+  {\itshape}  % Body font
+  {}          % Indent amount
+  {\bfseries} % Theorem head font
+  {.}         % Punctuation after theorem head
+  {.5em}      % Space after theorem head
+  {\thmname{#1}\thmnumber{ #2}\thmnote{ (#3)}} % Theorem head spec
+
+\theoremstyle{important}
+\newtheorem*{maintheorem}{Main Theorem}
+
+% Remove extra indentation after environments
+\AtEndEnvironment{axiom}{\noindent}
+\AtEndEnvironment{theorem}{\noindent}
+\AtEndEnvironment{lemma}{\noindent}
+\AtEndEnvironment{proposition}{\noindent}
+\AtEndEnvironment{corollary}{\noindent}
+\AtEndEnvironment{definition}{\noindent}
+\AtEndEnvironment{example}{\noindent}
+\AtEndEnvironment{remark}{\noindent}
+\AtEndEnvironment{notation}{\noindent}
+\AtEndEnvironment{maintheorem}{\noindent}
+
+%%% END Article customizations
+
+\title{\textbf{Linear Algebra I}}
+\author{Harsh Prajapati}
+\date{25.03.26}
+
+\begin{document}
+\maketitle
+
+These notes were prepared between October 2025 and March 2026 \textbf{(Last update: \today)}.
+
+f you find any mistakes or typos, please report them to \textbf{caccacpenguin@gmail.com}. I would really appreciate it.
+
+I often use informal language to make the ideas easier to grasp, but it's important to keep in mind the formalism and not get too attached to the informal ideas. My goal is to make the material feel approachable, while still respecting the rigour that makes mathematics what it is.
+
+I hope you find these notes helpful :D!
+
+\section*{Textbook Recommendations}
+
+These books will serve as our main references:
+
+\begin{itemize}
+\item Klaus Jänich. Linear Algebra. Springer-Verlag. 1994. New York.
+\item Siegfried Bosch. Lineare Algebra. 5. Auflage. Springer-Verlag. 2014. Heidelberg.
+\item Kenneth Hoffman. Ray Kunze. Linear Algebra. 2nd. Edition
+\end{itemize}
+
+Some other recommendations:
+
+\begin{itemize}
+\item James B. Carell. Groups, Matrices, and Vector Spaces
+\item B.L. van der Waerden. Modern Algebra (Vol I)
+\item Stephen H. Friedberg, Arnold J. Insel, Lawrence E. Spence. Linear Algebra. 4th. Ed.
+\item Sheldon Axler. Linear Algebra Done Right, 4th. Edition
+\item Serge Lang. Linear Algebra. 3rd. Edition
+\item Saunders MacLane. G. Birkhoff. Algebra. 1967
+\item Michael Artin. Algebra
+\item Paul R. Halmos. Finite-Dimentional Vector Spaces
+\end{itemize}
+
+\subsection*{Other Notes}
+
+\textbf{Mathematics:}
+
+\begin{itemize}
+  \item Foundation of Mathematics - \textit{Logic, Set Theory and Proofs}
+  \item Analysis I - \textit{Analysis of Functions of Single Variable}
+  \item Analysis II - \textit{Differential Calculus of Several Variables}
+  \item Analysis III - \textit{Measure Theory, Integral Calculus, and Vector Analysis}
+  \item \textbf{Linear Algebra I} - \textit{Algebraic Foundations, Vector Spaces, Matrix and Eigenvalue Theory}
+  \item Linear Algebra II - \textit{Canonical Forms, Inner Product Space, Bilinear forms}
+  \item Stochastic - \textit{Probabilty, Statistics and Applications}
+  \item Algebra - \textit{Groups, Rings, Fields and Modules}
+  \item Ordinary Differential Equations
+  \item Function Theory - \textit{Analysis of Functions of Complex Variables}
+  \item Functional Analysis I - \textit{General Theory of Functional Spaces}
+  \item Functional Analysis II - \textit{Advanced Theory of Functional Spaces}
+  \item Geometry - \textit{Foundations of Geometry and Topology}
+  \item Probability Theory
+  \item Differential Geometry
+  \item Sympletic Geometry
+  \item Riemannian Geometry
+  \item Partial Differential Equations I
+  \item Partial Differential Equations II
+  \item Commutative Algebra
+  \item Algebraic Number Theory - \textit{Number Fields, Valuations and Adeles}
+  \item Algebraic Topology - \textit{Homotopy, Homology and Cohomology Theories}
+  \item Stochastic Processes - \textit{Markov Theory, Random Walks}
+  \item Stochastic Analysis and Differential Equations
+  \item Stochastic Partial Differential Equations - \textit{Regularity Structures}
+  \item Algebraic Geometry - \textit{Varieties, Schemes and Sheaves}
+\end{itemize}
+
+\textbf{Mathematical Physics:}
+
+\begin{itemize}
+  \item Classical Mechanics I - \textit{Newton, Hamilton and Lagrangian formalism}
+  \item Classical Mechanics II - \textit{Sympletic Geometry, Qualitative Dynamics, Potential Theory, and Celestial Mechanics}
+  \item Classical Mechanics III - \textit{Continnum Field Theory on Infinite-Dimensional Manifolds and Euler-Poincaré Reduction}
+  \item Quantum Mechanics I - \textit{Spectral theory of unbounded operators on Hilbert space}
+  \item Quantum Mechanics II - \textit{Measurement and Supersymmetry}
+  \item Classical Electrodynamics - \textit{$U(1)$ Gauge Theory on Fibre Bundles}
+  \item Statistical Physics - \textit{Probabilitic Dynamical Systems and Ergodic Theory}
+  \item Theory of Relativity - \textit{Theory of Lorentzian and Semi-Riemannian Geometry}
+  \item Quantum Field Theory I - \textit{Path Integrals, EFT, Gauge Symmetry, QED, and The Standard Model}
+  \item Quantum Field Theory II - \textit{Axiomatic and Constructive QFT}
+  \item Quantum Field Theory III - \textit{Stochastic Quantisation and Regularity Structures in SPDEs}
+  \item Mathematical Gauge Theory
+\end{itemize}
+\clearpage
+
+\tableofcontents
+\clearpage
+
+\section{Introduction}
+
+Linear Algebra is one of the most well-understood theory of mathematics, it also has very wide spread applications to several fields beyong just the natural scinces, computer science, engineering, finance and social sciences. Modern age machine learning algorithm and neural network are written in matrices. It probably has more applications than even calculus.
+
+Just like Analysis, the formal foundation for calculus, Linear Algebra is a not much of a new subject for most of us. We sure have had experiences of doing calculations with vectors, metrices and determinants which constitutes the matrix theory. Linear Algebra is really just the formal, general and abstract foundation for those concepts.
+
+Though the concepts presented here would still be new to some of you, as will cover more computational techniques than done in high school.
+
+It is also used for modern treatment of geometry and analysis which is what I do extensively in my notes, which is why the notes of Linear Algebra are extremely important for you to cover before moving on to anything.
+
+There is a more general course of algebra sometimes called as \emph{Abstract Algebra} and a lot of the concepts of linear algebra rely on the concepts from the general theory of algebraic structures. For that reason, my treatment mirrors the continental treatment of Europe and especially Germany. We will start from the elementary concepts of groups, rings, fields and modules and define vector spaces as modules over fields.
+
+These notes present a rigorous and abstract treatment of the concepts of linear algebra in the elementary and more general infinite-dimensional cases. But we will not miss any computation techniques which can be used for several applications linear algebra has. My goal is always to give a comprehensive, historical, philosophical, and foundational treatment and show you the most elegant, modern formalism for mathematics.
+
+The first volume covers the basic concepts typically presented in a one-semester course of vector spaces, linear maps, matrix theory and eigenvalue theory. We will also consider many applications, though primarily to the fields of theoretical physics and computer science. Applications to differential equations or other maths areas however are not considered here.
+
+The \textbf{prerequisites} for this course are working knowledge of \textbf{logic, sets} and \textbf{proof techniques}, you can refer to my notes on \emph{Foundations of Mathematics} for those topics. Those notes cover much more than we need for this course but you can skip some sections and cover the essentials. Apart from that, only high school mathematics is expected from the readers.
+\clearpage
+
+\section{Algebraic Structures}
+
+This chapter assumes knowledge of Sections
+
+The modern treatment of linear algebra begins with the discussion of the fundamental algebraic structures.
+
+\subsection{Groups}
+
+\subsection{Homomorphisms}
+
+\subsection{Rings}
+
+\subsection{Fields}
+
+\subsection{Polynomials}
+
+\subsection{Modules}
+\clearpage
+
+\section{Vector Spaces}
+
+\subsection{Vector Spaces}
+
+\subsection{Basis and Dimensions}
+
+\subsection{Direct Sums}
+\clearpage
+
+\section{Matrices and Systems of Linear Equations}
+
+\subsection{Matrix Multiplication}
+
+\subsection{Systems of Linear Equations}
+
+\subsection{Matrices and Elementary Row Operations}
+
+\subsection{Row-Reduced Echelon Matrices}
+
+\subsection{Invertible Matrices}
+\clearpage
+
+\section{Linear Maps}
+
+\subsection{Linear Maps}
+
+\subsection{Quotient Space}
+
+\subsection{Dual Space}
+\end{document}

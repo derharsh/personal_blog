@@ -1,7 +1,7 @@
 ---
 title: "Home"
 author: "Harsh Prajapati"
-date: "\today"
+date: "02.01.2026"
 categories: [Notes, Research]
 image: "image.jpg"
 ---

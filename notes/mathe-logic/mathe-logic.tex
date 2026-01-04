@@ -1,0 +1,281 @@
+\documentclass[12pt]{article} % use larger type; default would be 10pt
+
+\usepackage[utf8]{inputenc}
+
+\usepackage{amsmath, amssymb, amsthm, mathtools}
+\usepackage{microtype}
+
+%%% Examples of Article customizations
+% These packages are optional, depending whether you want the features they provide.
+% See the LaTeX Companion or other references for full information.
+
+%%% PAGE DIMENSIONS
+\usepackage{geometry} % to change the page dimensions
+\geometry{a4paper} % or a5paper or....
+\geometry{margin=2.5cm} % for example, change the margins to 2 inches all round
+%\geometry{landscpe} % set up the page for landscape
+%   read geometry.pdf for detailed page layout information
+
+\usepackage{graphicx} % support the \includegraphics command and options
+
+%\usepackage[parfill]{parskip} % Activate to begin paragraphs with an empty line rather than an indent
+
+%%% PACKAGES
+\usepackage{booktabs} % for much better looking tables
+\usepackage{array} % for better arrays (eg matrices) in maths
+\usepackage{paralist} % very flexible & customisable lists (eg. enumerate/itemize, etc.)
+\usepackage{verbatim} % adds environment for commenting out blocks of text & for better verbatim
+\usepackage{subfig} % make it possible to include more than one captioned figure/table in a single float
+\usepackage[hidelinks]{hyperref}
+\usepackage{csquotes, lmodern, microtype, makeidx, booktabs, array, paralist}
+\usepackage{tikz-cd}
+% These packages are all incorporated in the memoir class to one degree or another...
+
+%%% HEADERS & FOOTERS
+\usepackage{fancyhdr} % This should be set AFTER setting up the page geometry
+\pagestyle{fancy} % options: empty , plain , fancy
+\renewcommand{\headrulewidth}{0pt} % customise the layout...
+\lhead{}\chead{}\rhead{}
+\lfoot{}\cfoot{\thepage}\rfoot{}
+
+%%% SECTION TITLE APPEARANCE
+\usepackage{sectsty}
+%\allsectionsfont{\sffamily\mdseries\upshape} % (See the fntguide.pdf for font help)
+% (This matches ConTeXt defaults)
+
+%%% ToC (table of contents) APPEARANCE
+%\usepackage[nottoc,notlof,notlot]{tocbibind} % Put the bibliography in the ToC
+%\usepackage[titles,subfigure]{tocloft} % Alter the style of the Table of Contents
+%\renewcommand{\cftsecfont}{\rmfamily\mdseries\upshape}
+%\renewcommand{\cftsecpagefont}{\rmfamily\mdseries\upshape} % No bold!
+
+% Theorem-like environments setup
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{axiom}[theorem]{Axiom}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{corollary}[theorem]{Corollary}
+
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{remark}[theorem]{Remark}
+
+\newenvironment{solution}
+  {\begin{proof}[Solution]}
+  {\end{proof}}
+
+% Remove extra indentation after environments
+\AtEndEnvironment{theorem}{\noindent}
+\AtEndEnvironment{lemma}{\noindent}
+\AtEndEnvironment{proposition}{\noindent}
+\AtEndEnvironment{corollary}{\noindent}
+\AtEndEnvironment{definition}{\noindent}
+\AtEndEnvironment{example}{\noindent}
+\AtEndEnvironment{remark}{\noindent}
+\AtEndEnvironment{notation}{\noindent}
+\AtEndEnvironment{maintheorem}{\noindent}
+
+%%% END Article customizations
+
+\title{\textbf{Mathematical Logic}}
+\author{Harsh Prajapati}
+\date{30.03.26}
+
+\begin{document}
+\maketitle
+
+These notes were prepared between January 2026 and March 2026 \textbf{(Last update: \today)}.
+
+If you find any mistakes or typos, please report them to \textbf{caccacpenguin@gmail.com}. I would really appreciate it.
+
+I often use informal language to make the ideas easier to grasp. My goal is to make the material feel approachable, while still respecting the rigor that makes mathematics what it is.
+
+I hope you will find these notes helpful :D!
+
+\subsection*{Textbook Recommendations}
+
+These notes are closely based on H. Schwichtenberg's lecture notes from WiSe 2025-26 on \textit{Mathematische Logik} given at Mathematisches Institut, Ludwig-Maximilians-Universit\"at, M\"unchen. These books can serve as our main resources.
+
+\begin{itemize}
+  \item Stanley S. Wainer, H. Schwichtenberg, Proofs and Computations
+  \item A.S. Troelstra, H. Schwichtenberg, Basic Proof Theory, 2nd. Ed., 2000.
+  \item Dirk van Dalen, Logic and Structure, 5th Edition, 2013.
+  \item Heinz-Dieter Ebbinghaus, Jörg Flum, Wolfgang Thomas, Einführung in die mathematische Logik, 6. Auflage, 2018.
+\end{itemize}
+
+Some other great resources and furthur readings:
+
+\begin{itemize}
+  \item Stephen Cole Kleene, Introduction to Metamathematics, 1971.
+  \item Joseph R. Shoenfield, Mathematical Logic, 1967.
+  \item Joseph Mileti, Modern Mathematical Logic, 2013.
+  \item Haskell B. Curry, Foundations of Mathematical Logic, 1977.
+  \item Herbert B. Enderton, A Mathematical Introduction to Logic, 2nd. Ed., 2001.
+\end{itemize}
+\clearpage
+
+\tableofcontents
+\clearpage
+
+\section{Introduction}
+
+You must have been told that to study courses like Analysis and Algebra, you first need to learn proof writing and logic. But why is that? After all, we studied mathematics in school too, without any issues, so why the sudden need for formality?
+
+The usual answer is, \enquote{You don't just learn methods now, you prove them.} But what does it really mean to prove something? And why must we do it in this particular, formal way? We used to do \enquote{proofs} in school too, so what's changed? Isn't that enough? The common reply is, “Those were just simple informal deductions.” But then, what exactly is the difference between an informal and a formal proof?
+
+Some of you might be thinking, \textit{\enquote{Isn't this just how maths is supposed to be? You need to show that something is true, so why even ask such questions?}}
+
+Sure, teachers told us that mathematics is about proving things axiomatically. But remember how, in school, we were given a “visual proof” of the Pythagorean theorem? You draw a right triangle, construct squares on each side, and if you measure their areas, the two smaller ones together equal the larger one on the hypotenuse. Isn't that a proof too? After all, teachers presented it confidently, and we accepted it without question.
+
+But if you try the same argument in a university-level maths course, you'll likely be told to switch majors to some natural science.
+
+Visual proofs like these can convince us that a statement \emph{must} be true, but they're not considered formal proofs, not until they can be derived \emph{purely} from axioms and logical reasoning.
+
+So what makes a formal proof so necessary?
+
+These questions aren't silly at all. In fact, they're the very same ones that puzzled mathematicians like Hilbert, Russell, Cantor, and Gödel during the late 19th and early 20th centuries, a period often called the \emph{"crisis of rigour"} in mathematics. And these questions should puzzle you too.
+
+Part of what made this crisis so fascinating is that it wasn't just about maths, it was about the limits of human reasoning itself. Our brains aren't naturally built to handle pure abstraction. You're far more likely to accept that the volume of a cylinder is three times that of a cone with the same height and base area if someone demonstrates it to you using flasks and water, rather than writes a string of abstract symbols on a piece of paper.
+
+We're wired to trust what we can see more than what we can only think. That's why theories like Einstein's relativity or quantum mechanics feel so counterintuitive, they defy the patterns our senses are tuned to believe. And for a long time, mathematicians felt the same way: a convincing demonstration or geometric diagram was considered proof enough.
+
+So what changed in the early 20th century? Why did mathematicians begin to trust formal proofs, long chains of logical deductions, more than vivid demonstrations or intuitive arguments?
+
+And yet, after all their efforts, mathematics still isn't completely consistent or perfectly justified from within itself. The cracks they uncovered are subtle but profound, mathematics contains both incompleteness and undecidability, and understanding these ideas is part of understanding what mathematics really is.
+
+To actually answer these questions in detail, you'd need several graduate-level courses, in logic, proof theory, set theory, model theory, metamathematics, and even philosophy, and probably a small library's worth of books, just to discover that the answers are \emph{still} missing.
+
+The \textbf{contents} of this course is minimal logic and the integration of classical and intuitionistic logic; Gentzen's natural deduction calculus. Semantics and completeness in first-order predicate logic. Foundations of computability: Church's thesis and the undecidability of predicate logic. G\"odel's incompleteness theorem for extensions of elementary number theory. Construction and structure of the number systems.
+
+We'll be using Minlog, developed by Schwichtenberg's logic team at LMU Munich to formalise proofs and not something like Lean or Coq (cry more). The reason for this is because i wanna impress my prof and because it's a low-level language so you're really learn the foundations of proof assistants well(but prof approval is more imp obv). To put that in perspective, if Lean or Coq are Python then Minlog is C. yes, youre bouta get cooked!!
+
+The \textbf{prerequisites} for this course is some background in basic logic and set theory which you can find in the lecture notes on \textit{Foundations of Mathematics}. However, with enough motivation and mathematical maturity I believe anyone can read this regardless of background.
+
+\clearpage
+
+\section{Logic}
+
+\subsection{Where do we begin?}
+
+Before we even start throwing around symbols, let's take a step back and ask some of the most fundamental questions about the foundations of mathematics. \textit{Where do we actually begin? What's the first object, the first axiom or the most primitive structures?}
+
+Most will say: you should start from sets and logic, treat sets as the primitive and accept Extensionality, the separation schema, and the inference rules of first-order logic as your "first axioms". ZFC together with first-order logic can, in principle, encode virtually all of ordinary mathematics\footnote{the mathematics where you "do maths" over objects and proof theorem (such as in analysis or algebra) rather than discussing about their philosophy which would be "foundational mathematics"}— but you still need some underlying meta-logic to even state ZFC properly, and our formal systems of logic itself has some undecidability.
+
+Others prefer types or categories, where sets themselves are reconstructed as types with rules for forming terms, and categorical foundations in the ETCS approach take objects and morphisms as primary and stress structure-preserving maps. But even those approaches rely on informal notions once you step outside the formal system.
+
+These frameworks aren't really isolated, they overlap quite a bit and can often sort of "inter-translate" into one another. In practice you can often model type-theoretic constructions as set-theoretic objects, and you can formalise categories (and even categories of  models) within set theory, although that gets tricky due to size issues of small vs large categories.
+
+You could also start from talking about formal systems themselves — studying what can be proved within them in proof theory, reverse mathematics, and other areas of metamathematics.
+
+Or, we could go beyond that, discussing the philosophical stances like logicism, formalism, intuitionism and structuralism which differ in how they view the relationship between mathematics, logic, and meaning.
+
+There are some modern frameworks like Homotopy Type Theory and Topos Theory which are attempts to solve he problems of formalisation, whereas Feferman's system of explicit mathematics and Voevodsky's Univalent Foundations are some active research areas which blur the boundary between object and meta-level.
+
+You might be thinking, \textit{"But, I don't understand any of this jargon! What do you even mean?"}
+
+Don't worry, nobody really understands all of that jargon, people just hide behind it.
+
+What I mean is: you can't define everything from some absolute bottom layer without already standing on some other framework. And if you seriously start thinking about the foundations, it can really keep you up at night!!
+
+Of course I don't give such an absurd amount of coverage, the above discussion was just to give you a "zoom out" overview of the how the landscape of the foundations looks like.
+
+The takeaway is that foundations aren't about discovering a single metaphysical "first object" — they're about choosing what your primitive notions and rules will be. Even though sets and logic are where almost every university mathematics program begins, they aren't the only possible starting point. That tradition mostly comes from a mix of pedagogy, culture, and the historical development of mathematics education.
+
+\subsubsection{Epistemology and Regress Argument*}\label{sec: era}
+
+In most textbooks, \textbf{logic}\index{Logic} is defined as, "the study of reasoning".
+
+Okay, but what is \textit{reasoning}\index{reasoning}?
+
+Well, reasoning is, "the act of logical deduction".
+
+And... what is logical deduction...?
+
+Logical deduction is, "the process of deducing a conclusion from premises using symbolic logic."
+
+But-huh...? W-WHAT?!
+
+See, if you try to define everything precisely you can easily run into circulalarity or getting spooked by Euthypohro's ghost \footnote{see \textit{Plato, "Euthyphro"} for an account of the dialogue between Socrates and Euthyphro}.
+
+Each definition presuppose some other informal notion we haven't defined yet, that's the \textbf{regress problem} in epistemology \footnote{see \textit{Nicolas Rescher, "Epistemology: An Introduction to the Theory of Knowledge"} for a detailed account.}. Any definition, idea of belief which can be infinity quesitioned, results in endless regress.
+
+So what do we do in such situations? Well, one solution is to accept that some chain of beliefs start with a \textbf{basic belief} which does not need to be justified by some other belief, and all beliefs that follow it are justified by the basic belief. It's sort of like building architecture, you start with a base and everything on top of it stands on the base. that's the \textbf{foundationalism} approach, trying to escape the regress argument.
+
+\textit{"But what about the circle?"}
+
+Yes, in our case, the idea of logic and reasoning doesn't seem to have a clear base, rather it seems to be circular. That's where \textbf{coherentism} comes in, which says that beliefs are justified a coherent system of mutually supporting beliefs. So we have a heurtistic web instead of a linear chain.
+
+But, since it relies on the idea that circular reasoning is acceptable, in this view, one belief ultimately supports itself. Coherentists reply that it is not just that the belief is supporting itself, but that belief along with the totality of the other statements in the whole system of beliefs support each other.
+
+Now, one observation here is that one belief can cohere and justify two different beliefs without any of the three being true. But Coherentists argue that it is unlikely for a whole system of beliefs to be false if they cohere well together, if some parts of the system were untrue it would certainly be inconsistent with some other part of the system.
+
+Okay, but if coherentism claims that every belief is justified by its coherence with other beliefs, then what about those beliefs which seem to arise from our experiences and not from other beliefs? Such as the white canopy bed example: you look into a totaly dark room,
+the lights turn on momentarily and you see a white canopy bed in the room. You may say, \textit{"I saw a white canopy bed, therefore I
+believe that there is a white canopy bed inside this room."} This belief seem to based entirely on your experience, you don't need other
+beliefs to justify it, because you \textit{"saw it"}. So, it seems like beliefs can be justified by concepts other beliefs, such as
+experiences and perceptions which coherentism doesn't takee into account. But others have argued that the experiences of seeing the bed
+is indeed dependent on other beliefs, about what a bed, a canopy and so on, actually looks like.
+
+Now, \textbf{Infinitism} argues that the chain can go on forever. But that seems like a restatement of the problem itself and not a
+solution\footnote{this is very simplified explanation but the point here is that infinitism doesn't help us as much as the other two.}.
+
+You may feel a bit skeptic about the above approaches and argue that the beliefs cannot be justified without doubts. And if you closely
+examine the so far discussed approaches it does seem like they point to the same conclusion that it's really hard to justify some beliefs,
+axioms or laws which seem fundamental. And that is the takeaway of all of this jargon.
+
+\textit{"So, what does all of this have to do with logic, sets and proofs?"}
+
+In mathematical logic, we don't really deal with 'beliefs' but rather axioms and propositions\footnote{these terms will be defined precisely in the next two sections}, but the idea is the same. And this is the focus point of the section, where we connect all of this jargon to actual mathematics and discuss that all axioms cannot be proven and we must accept them as unjustified facts, and our formal systems cannot be justified internally without certain assumptions that are outside the system.
+
+\textit{The epistemological problem of justification and the logical problem of incompleteness are of the same shape.}
+
+\subsubsection{What is Mathematical Logic?}\label{sec: afs}
+
+We stumbled upon the problem of defining concepts in mathematics and by a lot of discussion reached a conclusion that it is not possible to define everything precisely, so how do we do mathematics then?
+
+Mathematics is just made up of lots of concepts and we try to reduce these concepts to certain axioms which are do not need to be justified. Axioms are analogous to the basic beliefs we discussed in the section~\ref{sec: era}.
+
+\enquote{But, why only \emph{these} axioms?}
+
+This is quite hard to reason without relying on our informal idea of what we feel should be the primitive laws from which we choose to derive other laws. This is very similar to the foundationalist approach, but mathematics not just foundationalist, it is a mix of this philosophy aliong with coherentism.
+
+\subsubsection{Axiom System}
+
+Just like basic beliefs, an \textbf{axiom}\index{axiom} is a primitive law which we accept without proof. All other laws called \textbf{theorems}\index{theorems} can be derived from axioms. With mathhematical concepts we have cetain \textbf{basic concepts}\index{basic concepts} which are not to be quesitioned, and \textbf{derived concepts}\index{derived concepts} which can be derived from the basic concepts.
+
+In any statement we can replace the derived concepts with basic concepts such as with axioms. We assume that all concepts which appear in axioms are basic concepts.
+
+\enquote{Okay, but what do we do with it?}
+
+So, to develope any mathematical theory we present certain basic concepts and axioms and we explain those axioms until it's clear that the axioms are true. Then we use those axioms to prove theorems and derive other derived concepts.
+
+The entire edifices of basic concepts, derived concepts, axioms and theorems is called an \textbf{axiom system}\index{axiom system}. It could be an axioms system for all of mathematics or just a specific part, such as non-Euclidean geometry.
+
+This definition of axiom system assumes that the axioms cannot be derived or proven from other fundamental concepts, hence they is sometimes also called \textbf{classical}\index{classical axiom system} axiom systems. However, it is sometimes possible to realise the axioms from other concepts, in such case mathematicians frame axiom systems in which axioms are large number of concepts, such as the axioms for groups. Such an axiom system is called \textbf{modern}\index{modern axiom system} axiom system. The difference between the two is not huge, it merly depends on the intentions of the framer of the system.
+
+This is exactly how every mathematical theory is studied, you will notice that this is actually the structure a formal textbook of mathematics follows. And we shall start the study of mathematical logic with the study of axiom systems.
+
+\subsubsection{Formal System}
+
+We introduced axiom in the previous section but what does axiom really represent? It turns out that axioms can be interpreted in two sense, as a statement: objects which the axiom mentions when we write it on paper, or as the \emph{meaning} of the sentence: the fact being claimed by the axiom.
+
+\enquote{What is the difference??} The difference is that first is the \emph{syntactic} view, we are interested in the \enquote{objects}(vocabulary/symbols) the axiom is talking about and the second is \emph{semantic} view, we are interested the \emph{fact}(or relationship) about(between) the objects being claimed.
+
+Let's see an example to make this clear.
+
+\begin{example}
+	Consider the axiom: \textit{Thomas is taller than Max}.
+	\begin{itemize}
+		\item \textbf{Syntactic view}: \enquote{Thomas} and \enquote{Max} are the objects of the axiom.
+		\item \textbf{Semantic view}: The relationship being asserted is: \enquote{One object \emph{is taller than} the other object}
+	\end{itemize}
+\end{example}
+
+Of course, this axiom assumes prior understanding of the concept of \enquote{taller than} and what it means for two objects to have such relationship, without knowing that, the two objects alone do not convey the fact being asserted. This hightlights that the semantic view relies on interpretation of the symbols in the axiom.
+
+This differentiation of the structure of a sentence is very useful. Separating the syntactic and semantic part of our study of axiom systems and by using suitable language, the structure of the sentence would reflect the meaning of the axiom to some extent.
+\clearpage
+
+\end{document}
