@@ -1,0 +1,15 @@
+---
+title: "Research"
+toc: true
+---
+
+My current interests lie at the mathematical foundations of quantum field theories and gauge theories. My interests are highly ambitious, they involve many big foundational and unresolved problems.
+
+## Quantum Field Theory
+QFTs are the theories of quantum fields on locally flat Minkowski space. It is the language in which all of physics without gravity can be described. 
+
+## Mathematical Gauge Theory
+Gauge theories are the modern language of mathematical thoeries of physics. 
+
+## Univalent Foundations
+This is a somewhat different but a deep field of mathematics that i'm interested in. The ordinary mathematics used by everyone is based on set theory of Zaermelo-Frankel along with the axiom of choice, called the ZFC-system. This system is very robust to formulate almost all of ordinary mathematics (ordinary mathematics is the maths that you do in analysis, algebra, geometry, etc instead of yapping about the foundations of maths). 
