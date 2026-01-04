@@ -1,9 +1,11 @@
 ---
 title: "Home"
 author: "Harsh Prajapati"
-date: "02.01.2026"
-categories: [Notes, Research]
+date: "04.01.2026"
+categories: [Mathematics, Physics, Research]
 image: "image.jpg"
 ---
 
-Yoyo
+Hello!!
+
+Welcome to my blog. You can find my notes from the triple bar menu.

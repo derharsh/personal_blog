@@ -18,7 +18,7 @@ website:
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: cyborg
     css: styles.css
     math: katex
