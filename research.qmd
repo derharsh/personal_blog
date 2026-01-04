@@ -23,27 +23,27 @@ These fields constantly jitter because quantum rules say they have to. They can�
 
 When fields interact, the wiggles influence each other. That’s what we call forces. No invisible hands pushing stuff. Just fields bumping into other fields like drunk people in a crowded kitchen. Gravity is just spacetime being bent. Electromagnetism is fields exchanging wiggles. Reality is basically group chat chaos.
 
-QFT is the math framework that lets physicists predict how these wiggles behave and interact with absurd accuracy. Like, “we measured this to twelve decimal places and it still agrees” accuracy. It’s the most successful theory humans have ever produced, which is hilarious given we still argue about how it actually works.
+QFT is the framework that lets physicists predict how these wiggles behave and interact with absurd accuracy. Like, “we measured this to twelve decimal places and it still agrees” accuracy. It’s the most successful theory humans have ever produced, which is hilarious given we still argue about how it actually works.
 
-### The Mathematical Problems of QFT
-Quantum Field Theory works, which is the most suspicious thing about it. Mathematically, it’s a mess held together by genius, duct tape, and vibes.
+### The mathematical Problems of QFT
+Quantum Field Theory works, which is the most suspicious thing about it. mathematically, it’s a mess held together by genius, duct tape, and vibes.
 
 * **First problem:** *the infinities.*
-You do the math honestly and QFT immediately spits out infinity. Not “big number,” but “lol divide by zero forever.” Infinite energy, infinite probabilities, infinite everything. Physics does not like that because infinite answers mean you did something illegal. So physicists invented renormalization, which is a polite way of saying:
+You do the maths honestly and QFT immediately spits out infinity. Not “big number,” but “lol divide by zero forever.” Infinite energy, infinite probabilities, infinite everything. Physics does not like that because infinite answers mean you did something illegal. So physicists invented renormalization, which is a polite way of saying:
 “Subtract the infinity, keep the useful part, and don’t think about it too hard.”
-And infuriatingly, it works. Predicts experiments perfectly. Mathematicians still wake up angry about this.
+And infuriatingly, it works. Predicts experiments perfectly. mathematicians still wake up angry about this.
 
 * **Second problem:** *the theory isn’t rigorously defined.*
 There is no fully airtight mathematical definition of an interacting quantum field in 4D spacetime. None. Zero. We use approximations, expansions, and symbolic tricks that behave well enough to get answers. QFT is more like a cookbook than a proof. Follow the recipe, don’t ask why the oven exists.
 
 * **Third problem:** *perturbation theory is a lie we tell ourselves.*
-Most calculations assume interactions are “small,” so we expand answers as infinite series. These series usually don’t converge. They’re asymptotic. Meaning: adding more terms eventually makes the answer worse. We stop early and pretend that’s fine. It usually is. Mathematically cursed, physically accurate.
+Most calculations assume interactions are “small,” so we expand answers as infinite series. These series usually don’t converge. They’re asymptotic. Meaning: adding more terms eventually makes the answer worse. We stop early and pretend that’s fine. It usually is. mathematically cursed, physically accurate.
 
-* **Fourth problem:** *path integrals are vibes-based math.*
+* **Fourth problem:** *path integrals are vibes-based maths.*
 They tell you to “sum over all possible histories of the universe.” Cool. Except no one can define what that sum actually is in a strict mathematical sense. We manipulate it like it’s real because if we don’t, nothing gets calculated and everyone goes home sad.
 
 * **Fifth problem:** *QFT breaks when gravity shows up.*
-Try to include spacetime itself as a quantum field and the infinities come back stronger. Renormalization taps out. The math just explodes. This is why quantum gravity is still a blood feud.
+Try to include spacetime itself as a quantum field and the infinities come back stronger. Renormalization taps out. The maths just explodes. This is why quantum gravity is still a blood feud.
 
 ### What is Constructive QFT
 Instead of waving hands at infinities and pretending asymptotic series are fine, constructive QFT tries to build quantum field theories from the ground up using real mathematics. As in: define the objects, prove they exist, show they behave, no vibes, no “physicists know what we mean.”
@@ -59,13 +59,13 @@ Why we're not just being pedantic:
 Right now QFT works because it works. Constructive results prove that interacting quantum fields can exist without cheating. That the whole framework isn’t secretly inconsistent. That’s huge.
 
 2. *It explains why renormalization works at all.*
-In constructive approaches, renormalization isn’t black magic. You see exactly how infinities cancel, how scales talk to each other, how the continuum limit behaves. It turns “subtract infinity lol” into controlled, explicit math. Physicists hate this because it removes their mystique.
+In constructive approaches, renormalization isn’t black magic. You see exactly how infinities cancel, how scales talk to each other, how the continuum limit behaves. It turns “subtract infinity lol” into controlled, explicit maths. Physicists hate this because it removes their mystique.
 
 3. *It separates real theories from fake ones.*
 Not every Lagrangian defines a valid quantum theory. Constructive QFT draws a line between “formal expression” and “actual model of reality.” This is crucial if you don’t want theoretical physics to become fan fiction.
 
 4. *It’s essential for quantum gravity and QFT on curved space.*
-If spacetime itself becomes dynamical, hand-wavy math collapses instantly. You need rigor just to stand upright. Constructive methods are one of the few tools that might survive contact with quantum gravity.
+If spacetime itself becomes dynamical, hand-wavy maths collapses instantly. You need rigor just to stand upright. Constructive methods are one of the few tools that might survive contact with quantum gravity.
 
 5. *It forces conceptual clarity.*
 What is a field? What is an observable? What does “interaction” actually mean? Constructive QFT doesn’t let you dodge these questions with diagrams and vibes. It makes you answer them or go home.
@@ -78,13 +78,13 @@ Quantum mechanics with a few particles is already weird. QFT has infinitely many
 You usually start on a lattice to make things sane. Discrete, finite, polite. Then you try to take the continuum limit. That limit is where everything explodes. Correlations blow up at short distances. Fields stop being functions and become distributions. Products stop existing. Welcome to Schwartz-space hell.
 
 3. *Interactions are singular, not small.*
-Constructive math loves bounds, norms, convergence. Interacting fields respond with ultraviolet catastrophes. The interaction term is not a gentle perturbation. It’s a singular object that couples behavior across all scales. This is why perturbation theory lies and nonperturbative control is so rare.
+Constructive maths loves bounds, norms, convergence. Interacting fields respond with ultraviolet catastrophes. The interaction term is not a gentle perturbation. It’s a singular object that couples behavior across all scales. This is why perturbation theory lies and nonperturbative control is so rare.
 
 4. *Renormalization is nonlinear and global.*
 Renormalization isn’t just subtracting stuff. It reshapes the theory across scales. Parameters flow. Degrees of freedom rearrange themselves. Proving this flow converges, stays local, and defines a limit theory is an absolute nightmare. The renormalization group is basically chaos theory wearing a lab coat.
 
 5. *Positivity and unitarity are fragile.*
-You don’t just need a measure. You need one that gives a Hilbert space with positive norm and unitary time evolution. Tiny mistakes break reflection positivity and the whole theory collapses into mathematical nonsense. Physics will still “work,” but the math will scream.
+You don’t just need a measure. You need one that gives a Hilbert space with positive norm and unitary time evolution. Tiny mistakes break reflection positivity and the whole theory collapses into mathematical nonsense. Physics will still “work,” but the maths will scream.
 
 6. *Gauge theories are extra cursed.*
 Constraints, redundancies, ghosts, BRST, Gribov ambiguities. You’re not even describing physical degrees of freedom directly. You’re quotienting infinite-dimensional spaces by infinite-dimensional symmetries. Proving that anything survives this process intact is… ambitious.
@@ -93,16 +93,35 @@ Constraints, redundancies, ghosts, BRST, Gribov ambiguities. You’re not even d
 Everything that behaves nicely in 2D or 3D turns feral in 4D. Marginal couplings. Logarithmic divergences. No small parameter. This is why we have beautiful constructive results in toy worlds and basically vibes in the real one.
 
 8. *You’re fighting both tribes.*
-Physicists think you’re wasting time proving obvious things. Mathematicians think you’re doing analysis while high. Funding committees think you should’ve picked machine learning. This is not a friendly ecosystem. Absolute Bonkers.
+Physicists think you’re wasting time proving obvious things. mathematicians think you’re doing analysis while high. Funding committees think you should’ve picked machine learning. This is not a friendly ecosystem. Absolute Bonkers.
 
 ### References and Futher Reading
 * *Glimme and Jaffe, Quantum Physics: A Functional Integral Point of View.*
-* *Jaffe, Arthur (2000). [Constructive Quantum Field Theory](http://www.arthurjaffe.com/Assets/pdf/CQFT.pdf). Mathematical Physics 2000: 111-12.*
-* *Jaffe and Witten. [Quantum Yang-Mills](https://www.claymath.org/millennium/yang-mills-the-maths-gap/). Clay Mathematics Institute.*
+* *Jaffe, Arthur (2000). [Constructive Quantum Field Theory](http://www.arthurjaffe.com/Assets/pdf/CQFT.pdf). mathematical Physics 2000: 111-12.*
+* *Jaffe and Witten. [Quantum Yang-Mills](https://www.claymaths.org/millennium/yang-mills-the-mathss-gap/). Clay mathematics Institute.*
 
 
 ## Mathematical Gauge Theory
-Gauge theories are the modern language of mathematical thoeries of physics. 
+Gauge theories are the modern language of mathematical thoeries of physics. A gauge theory describes fields with built-in redundancy. Not all information you write down actually matters—some of it is “fake freedom” that doesn’t change physics. The mathematics is about understanding which parts are real and how they interact.
+
+**Think of it like this:**
+* You have a field (like the electromagnetic potential A_\mu).
+* You can transform it locally—change its “phase” differently at every point—and the physics (like electric and magnetic fields) doesn’t change
+* That’s a gauge symmetry.
+* The actual measurable stuff lives in the quotient space, where all configurations related by these transformations are treated as the same.
+
+**Mathematical approach:**
+1. *Fiber bundles:* Imagine every point in space has a little copy of a group hanging over it, like a tiny circle or matrix. The way these fibers twist and connect encodes the gauge field. Physics is captured by the geometry of the bundle.
+2. *Connections and curvature:* The gauge field itself is a connection on this bundle. Curvature measures how much twisting happens when you move around a loop—this is exactly the field strength, like F_{\mu\nu} in physics.
+3. *Yang-Mills theory:* A fancy, rigorous version of the gauge theory behind the strong force. mathematicians study its properties: existence of solutions, topology of the space of connections, invariants like instantons.
+4. *Topology is everything:* Gauge theory isn’t just equations; it’s also about the shape of the underlying space and the bundle. Weird stuff happens, like quantization of flux or magnetic monopoles, which are really just topological constraints.
+
+**Why mathematicians love it:**
+* It bridges geometry, topology, and analysis.
+* It produces invariants of manifolds (like Donaldson or Seiberg-Witten invariants) that classify 4D spaces.
+* It formalizes ideas from physics rigorously, so you can finally stop trusting physicists’ hand-wavy arguments.
+
+**In short:** mathematical gauge theory = study of fields with symmetry in the language of geometry, topology, and analysis, stripped of the physicists’ “oops let’s integrate over all paths and hope it works” approach.
 
 ## Univalent Foundations
-This is a somewhat different but a deep field of mathematics that i'm interested in. The ordinary mathematics used by everyone is based on set theory of Zaermelo-Frankel along with the axiom of choice, called the ZFC-system. This system is very robust to formulate almost all of ordinary mathematics (ordinary mathematics is the maths that you do in analysis, algebra, geometry, etc instead of yapping about the foundations of maths). 
+This is a somewhat different but a deep field of mathematics that i'm interested in. The ordinary mathematics used by everyone is based on set theory of Zaermelo-Frankel along with the axiom of choice, called the ZFC-system. This system is very robust to formulate almost all of ordinary mathematics (ordinary mathematics is the mathss that you do in analysis, algebra, geometry, etc instead of yapping about the foundations of mathss). 
