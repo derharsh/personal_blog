@@ -28,6 +28,34 @@
     "text": "Univalent Foundations\nThis is a somewhat different but a deep field of mathematics that i’m interested in. The ordinary mathematics used by everyone is based on set theory of Zaermelo-Frankel along with the axiom of choice, called the ZFC-system. This system is very robust to formulate almost all of ordinary mathematics (ordinary mathematics is the mathss that you do in analysis, algebra, geometry, etc instead of yapping about the foundations of mathss)."
   },
   {
+    "objectID": "posts/first-post/index.html",
+    "href": "posts/first-post/index.html",
+    "title": "Welcome!",
+    "section": "",
+    "text": "Hello!! Welcome to my blog.\nToday, i’m starting a blog page as a personal space to share my lecture notes, research ideas and codes (and some other random shyt). Currently im not enrolled in any institute tho but i plan to study bachelor in mathematics and theoretical physics soon. however ive been studyin a lot on my own using textbooks and lecture notes i was able to find online, so ill share my journey here :3\ni only started talking notes in latex by the end of oct and for a while i wasnt consistent with it. but now ill try t be more consistent, hehe OwO\nYou can find my notes from the Notes menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.\nAs for my research interest, i’ve been reading a lot into constructive qft, gauge theory and hott (although i dont understand much “_“). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway (bcz im chaotic &gt;w&lt;). You can find more about my research in the Research tab.\nLastly, im using quarto and github pages to host this blog, and giscus (as of jan 2026, giscus is still under development so some features might break or change) for comment system. Codes can be found on my github repo. currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.\nTschuss!!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home!",
+    "section": "",
+    "text": "The Full archive can be found in the Posts tab. :3"
+  },
+  {
+    "objectID": "index.html#latest-musings",
+    "href": "index.html#latest-musings",
+    "title": "Home!",
+    "section": "",
+    "text": "The Full archive can be found in the Posts tab. :3"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Yo! I’m an 18 y-o kido studying maths and mathematical physics. This blog is my “personal space”— a place where i share my passion for mathe and physics through my lecture notes, research articles and ideas, and topics that usually don’t make it to the classroom until the PhD level… hehe :3."
+  },
+  {
     "objectID": "library.html",
     "href": "library.html",
     "title": "Study Notes :3",
@@ -49,38 +77,10 @@
     "text": "Mathematical Physics:\nIn Mathematical Physics, i treat the subjects very rigorouly (sometimes more than required and typically taught in undergraduate courses) to ensure mathematical sophistication for advanced research.\n\nClassical Mechanics I: Newtonian, Lagrangian and Hamiltonian Mechanics."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
+    "objectID": "posts.html",
+    "href": "posts.html",
     "title": "The LupLup Logs",
     "section": "",
     "text": "Here u can find all my posts :3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome!\n\n\n\nGeneral\n\n\n\n\n\n\n\nHarsh Prajapati\n\n\nJan 4, 2026\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Yo! I’m an 18 y-o kido studying maths and mathematical physics. This blog is my “personal space”— a place where i share my passion for mathe and physics through my lecture notes, research articles and ideas, and topics that usually don’t make it to the classroom until the PhD level… hehe :3."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home!",
-    "section": "",
-    "text": "(The Full archive can be found in the Blog tab.) :3"
-  },
-  {
-    "objectID": "index.html#latest-musings",
-    "href": "index.html#latest-musings",
-    "title": "Home!",
-    "section": "",
-    "text": "(The Full archive can be found in the Blog tab.) :3"
-  },
-  {
-    "objectID": "posts/first-post/index.html",
-    "href": "posts/first-post/index.html",
-    "title": "Welcome!",
-    "section": "",
-    "text": "Hello!! Welcome to my blog.\nToday, i’m starting a blog page as a personal space to share my lecture notes, research ideas and codes (and some other random shyt). Currently im not enrolled in any institute tho but i plan to study bachelor in mathematics and theoretical physics soon. however ive been studyin a lot on my own using textbooks and lecture notes i was able to find online, so ill share my journey here :3\ni only started talking notes in latex by the end of oct and for a while i wasnt consistent with it. but now ill try t be more consistent, hehe OwO\nYou can find my notes from the Notes menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.\nAs for my research interest, i’ve been reading a lot into constructive qft, gauge theory and hott (although i dont understand much “_“). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway (bcz im chaotic &gt;w&lt;). You can find more about my research in the Research tab.\nLastly, im using quarto and github pages to host this blog, and giscus (as of jan 2026, giscus is still under development so some features might break or change) for comment system. Codes can be found on my github repo. currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.\nTschuss!!"
   }
 ]
