@@ -2,30 +2,65 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research ;;",
+    "title": "Research OwO",
     "section": "",
     "text": "My current interests lie at the mathematical foundations of quantum field theories, gauge theories and foundations of mathematics. My interests are highly ambitious, they involve many big foundational and unresolved problems."
   },
   {
     "objectID": "research.html#quantum-field-theory",
     "href": "research.html#quantum-field-theory",
-    "title": "Research ;;",
+    "title": "Research OwO",
     "section": "Quantum Field Theory",
     "text": "Quantum Field Theory\nQFTs are the theories of quantum fields on locally flat Minkowski space. It is the language in which all of physics without gravity can be described.\n\nWhat is a QFT\nQFT says that the universe is not made of little marble-particles flying around like your high school textbook lied to you. It’s made of fields. Invisible stretchy things that exist everywhere, all the time. Even in “empty space,” which is fake and a scam.\nEach type of particle is just a tiny wiggle in its own field. Electron? Wiggle in the electron field. Photon? Wiggle in the electromagnetic field. Quark? Wiggle in a quark field that’s having a bad day. Particles aren’t objects, they’re events. Think less “tiny ball,” more “momentary glitch in the fabric of reality.”\nThese fields constantly jitter because quantum rules say they have to. They can’t sit still. Ever. So space itself is buzzing like a fridge at 3 a.m. You don’t hear it, but it’s judging you.\nWhen fields interact, the wiggles influence each other. That’s what we call forces. No invisible hands pushing stuff. Just fields bumping into other fields like drunk people in a crowded kitchen. Gravity is just spacetime being bent. Electromagnetism is fields exchanging wiggles. Reality is basically group chat chaos.\nQFT is the framework that lets physicists predict how these wiggles behave and interact with absurd accuracy. Like, “we measured this to twelve decimal places and it still agrees” accuracy. It’s the most successful theory humans have ever produced, which is hilarious given we still argue about how it actually works.\n\n\nThe mathematical Problems of QFT\nQuantum Field Theory works, which is the most suspicious thing about it. mathematically, it’s a mess held together by genius, duct tape, and vibes.\n\nFirst problem: the infinities. You do the maths honestly and QFT immediately spits out infinity. Not “big number,” but “lol divide by zero forever.” Infinite energy, infinite probabilities, infinite everything. Physics does not like that because infinite answers mean you did something illegal. So physicists invented renormalization, which is a polite way of saying: “Subtract the infinity, keep the useful part, and don’t think about it too hard.” And infuriatingly, it works. Predicts experiments perfectly. mathematicians still wake up angry about this.\nSecond problem: the theory isn’t rigorously defined. There is no fully airtight mathematical definition of an interacting quantum field in 4D spacetime. None. Zero. We use approximations, expansions, and symbolic tricks that behave well enough to get answers. QFT is more like a cookbook than a proof. Follow the recipe, don’t ask why the oven exists.\nThird problem: perturbation theory is a lie we tell ourselves. Most calculations assume interactions are “small,” so we expand answers as infinite series. These series usually don’t converge. They’re asymptotic. Meaning: adding more terms eventually makes the answer worse. We stop early and pretend that’s fine. It usually is. mathematically cursed, physically accurate.\nFourth problem: path integrals are vibes-based maths. They tell you to “sum over all possible histories of the universe.” Cool. Except no one can define what that sum actually is in a strict mathematical sense. We manipulate it like it’s real because if we don’t, nothing gets calculated and everyone goes home sad.\nFifth problem: QFT breaks when gravity shows up. Try to include spacetime itself as a quantum field and the infinities come back stronger. Renormalization taps out. The maths just explodes. This is why quantum gravity is still a blood feud.\n\n\n\nWhat is Constructive QFT\nInstead of waving hands at infinities and pretending asymptotic series are fine, constructive QFT tries to build quantum field theories from the ground up using real mathematics. As in: define the objects, prove they exist, show they behave, no vibes, no “physicists know what we mean.”\nYou don’t start with particles. You start with probability measures, operator algebras, correlation functions. You prove that the theory satisfies basic sanity checks: causality, unitarity, locality. Radical ideas, apparently.\nMost successes are in lower dimensions. 2D and 3D models like φ⁴, sine-Gordon, P(φ)₂. Not because we love tiny universes, but because 4D is a mathematical war crime. Still, these models are real. They exist. They obey the axioms. They’re not just formal power series cosplay.\n\n\nWhy this matters\nWhy we’re not just being pedantic:\n\nIt tells us QFT isn’t a miracle accident. Right now QFT works because it works. Constructive results prove that interacting quantum fields can exist without cheating. That the whole framework isn’t secretly inconsistent. That’s huge.\nIt explains why renormalization works at all. In constructive approaches, renormalization isn’t black magic. You see exactly how infinities cancel, how scales talk to each other, how the continuum limit behaves. It turns “subtract infinity lol” into controlled, explicit maths. Physicists hate this because it removes their mystique.\nIt separates real theories from fake ones. Not every Lagrangian defines a valid quantum theory. Constructive QFT draws a line between “formal expression” and “actual model of reality.” This is crucial if you don’t want theoretical physics to become fan fiction.\nIt’s essential for quantum gravity and QFT on curved space. If spacetime itself becomes dynamical, hand-wavy maths collapses instantly. You need rigor just to stand upright. Constructive methods are one of the few tools that might survive contact with quantum gravity.\nIt forces conceptual clarity. What is a field? What is an observable? What does “interaction” actually mean? Constructive QFT doesn’t let you dodge these questions with diagrams and vibes. It makes you answer them or go home.\n\n\n\nWhy it is hard\n\nInfinite degrees of freedom will ruin your life. Quantum mechanics with a few particles is already weird. QFT has infinitely many interacting variables at every point in space. Every limit you take spawns new divergences. You want existence proofs? The theory immediately asks which infinity you’d like to fight first.\nThe continuum is hostile. You usually start on a lattice to make things sane. Discrete, finite, polite. Then you try to take the continuum limit. That limit is where everything explodes. Correlations blow up at short distances. Fields stop being functions and become distributions. Products stop existing. Welcome to Schwartz-space hell.\nInteractions are singular, not small. Constructive maths loves bounds, norms, convergence. Interacting fields respond with ultraviolet catastrophes. The interaction term is not a gentle perturbation. It’s a singular object that couples behavior across all scales. This is why perturbation theory lies and nonperturbative control is so rare.\nRenormalization is nonlinear and global. Renormalization isn’t just subtracting stuff. It reshapes the theory across scales. Parameters flow. Degrees of freedom rearrange themselves. Proving this flow converges, stays local, and defines a limit theory is an absolute nightmare. The renormalization group is basically chaos theory wearing a lab coat.\nPositivity and unitarity are fragile. You don’t just need a measure. You need one that gives a Hilbert space with positive norm and unitary time evolution. Tiny mistakes break reflection positivity and the whole theory collapses into mathematical nonsense. Physics will still “work,” but the maths will scream.\nGauge theories are extra cursed. Constraints, redundancies, ghosts, BRST, Gribov ambiguities. You’re not even describing physical degrees of freedom directly. You’re quotienting infinite-dimensional spaces by infinite-dimensional symmetries. Proving that anything survives this process intact is… ambitious.\nFour dimensions will cook you. Everything that behaves nicely in 2D or 3D turns feral in 4D. Marginal couplings. Logarithmic divergences. No small parameter. This is why we have beautiful constructive results in toy worlds and basically vibes in the real one.\nYou’re fighting both tribes. Physicists think you’re wasting time proving obvious things. mathematicians think you’re doing analysis while high. Funding committees think you should’ve picked machine learning. This is not a friendly ecosystem. Absolute Bonkers.\n\n\n\nReferences and Futher Reading\n\nGlimme and Jaffe, Quantum Physics: A Functional Integral Point of View.\nJaffe, Arthur (2000). Constructive Quantum Field Theory. Mathematical Physics 2000: 111-12.\nClay Mathematical Institute. Yang-Mills and Mass Gap.\nArthur Jaffe and Edward Witten, Quantum Yang-Mills."
   },
   {
     "objectID": "research.html#mathematical-gauge-theory",
     "href": "research.html#mathematical-gauge-theory",
-    "title": "Research ;;",
+    "title": "Research OwO",
     "section": "Mathematical Gauge Theory",
     "text": "Mathematical Gauge Theory\nGauge theories are the modern language of mathematical thoeries of physics. A gauge theory describes fields with built-in redundancy. Not all information you write down actually matters—some of it is “fake freedom” that doesn’t change physics. The mathematics is about understanding which parts are real and how they interact.\nThink of it like this:\n\nYou have a field (like the electromagnetic potential \\(A_\\mu\\)).\nYou can transform it locally—change its “phase” differently at every point—and the physics (like electric and magnetic fields) doesn’t change\nThat’s a gauge symmetry.\nThe actual measurable stuff lives in the quotient space, where all configurations related by these transformations are treated as the same.\n\nMathematical approach:\n\nFiber bundles: Imagine every point in space has a little copy of a group hanging over it, like a tiny circle or matrix. The way these fibers twist and connect encodes the gauge field. Physics is captured by the geometry of the bundle.\nConnections and curvature: The gauge field itself is a connection on this bundle. Curvature measures how much twisting happens when you move around a loop—this is exactly the field strength, like \\(F_{\\mu\\nu}\\) in physics.\nYang-Mills theory: A fancy, rigorous version of the gauge theory behind the strong force. mathematicians study its properties: existence of solutions, topology of the space of connections, invariants like instantons.\nTopology is everything: Gauge theory isn’t just equations; it’s also about the shape of the underlying space and the bundle. Weird stuff happens, like quantization of flux or magnetic monopoles, which are really just topological constraints.\n\n\nWhy mathematicians love it\n\nIt bridges geometry, topology, and analysis.\nIt produces invariants of manifolds (like Donaldson or Seiberg-Witten invariants) that classify 4D spaces.\nIt formalizes ideas from physics rigorously, so you can finally stop trusting physicists’ hand-wavy arguments.\n\nIn short: mathematical gauge theory = study of fields with symmetry in the language of geometry, topology, and analysis, stripped of the physicists’ “oops let’s integrate over all paths and hope it works” approach."
   },
   {
     "objectID": "research.html#univalent-foundations",
     "href": "research.html#univalent-foundations",
-    "title": "Research ;;",
+    "title": "Research OwO",
     "section": "Univalent Foundations",
     "text": "Univalent Foundations\nThis is a somewhat different but a deep field of mathematics that i’m interested in. The ordinary mathematics used by everyone is based on set theory of Zaermelo-Frankel along with the axiom of choice, called the ZFC-system. This system is very robust to formulate almost all of ordinary mathematics (ordinary mathematics is the mathss that you do in analysis, algebra, geometry, etc instead of yapping about the foundations of mathss)."
+  },
+  {
+    "objectID": "posts/first-post/index.html",
+    "href": "posts/first-post/index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "Today, i’m starting a blog page as a personal space to share my lecture notes, research ideas and codes (and some other random shyt). Currently im not enrolled in any institute tho but i plan to study bachelor in mathematics and theoretical physics soon. however ive been studyin a lot on my own using textbooks and lecture notes i was able to find online, so ill share my journey here :3\ni only started talking notes in latex by the end of oct and for a while i wasnt consistent with it. but now ill try t be more consistent, hehe OwO\nYou can find my notes from the Notes menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.\nAs for my research interest, i’ve been reading a lot into constructive qft, gauge theory and hott (although i dont understand much “_“). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway (bcz im chaotic &gt;w&lt;). You can find more about my research in the Research tab.\nLastly, im using quarto and github pages to host this blog, and giscus for comment system (you may need a github account to post comments). Codes can be found on my github repo. currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.\nTsch\"uss!!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home!",
+    "section": "",
+    "text": "The Full archive can be found in the Blog tab. :3"
+  },
+  {
+    "objectID": "index.html#latest-updates",
+    "href": "index.html#latest-updates",
+    "title": "Home!",
+    "section": "",
+    "text": "The Full archive can be found in the Blog tab. :3"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Yo! I’m an 18 y-o kido studying maths and mathematical physics. This blog is my “personal space”— a place where i share my passion for mathe and physics through my lecture notes, research articles and ideas, and topics that usually don’t make it to the classroom until the PhD level… hehe :3."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "The LupLup Logs",
+    "section": "",
+    "text": "Here u can find all my posts :3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy QFT?\n\n\n\nResearch\n\n\n\n\n\n\n\nHarsh Prajapati\n\n\nJan 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello!\n\n\n\nGeneral\n\n\n\n\n\n\n\nHarsh Prajapati\n\n\nJan 4, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "library.html",
@@ -49,38 +84,10 @@
     "text": "Mathematical Physics:\nIn Mathematical Physics, i treat the subjects very rigorouly (sometimes more than required and typically taught in undergraduate courses) to ensure mathematical sophistication for advanced research.\n\nClassical Mechanics I: Newtonian, Lagrangian and Hamiltonian Mechanics."
   },
   {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "The LupLup Logs",
+    "objectID": "posts/why-qft/index.html",
+    "href": "posts/why-qft/index.html",
+    "title": "Why QFT?",
     "section": "",
-    "text": "Here u can find all my posts :3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello!\n\n\n\nGeneral\n\n\n\n\n\n\n\nHarsh Prajapati\n\n\nJan 4, 2026\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Yo! I’m an 18 y-o kido studying maths and mathematical physics. This blog is my “personal space”— a place where i share my passion for mathe and physics through my lecture notes, research articles and ideas, and topics that usually don’t make it to the classroom until the PhD level… hehe :3."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Home!",
-    "section": "",
-    "text": "The Full archive can be found in the Blog tab. :3"
-  },
-  {
-    "objectID": "index.html#latest-updates",
-    "href": "index.html#latest-updates",
-    "title": "Home!",
-    "section": "",
-    "text": "The Full archive can be found in the Blog tab. :3"
-  },
-  {
-    "objectID": "posts/first-post/index.html",
-    "href": "posts/first-post/index.html",
-    "title": "Hello!",
-    "section": "",
-    "text": "Today, i’m starting a blog page as a personal space to share my lecture notes, research ideas and codes (and some other random shyt). Currently im not enrolled in any institute tho but i plan to study bachelor in mathematics and theoretical physics soon. however ive been studyin a lot on my own using textbooks and lecture notes i was able to find online, so ill share my journey here :3\ni only started talking notes in latex by the end of oct and for a while i wasnt consistent with it. but now ill try t be more consistent, hehe OwO\nYou can find my notes from the Notes menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.\nAs for my research interest, i’ve been reading a lot into constructive qft, gauge theory and hott (although i dont understand much “_“). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway (bcz im chaotic &gt;w&lt;). You can find more about my research in the Research tab.\nLastly, im using quarto and github pages to host this blog, and giscus (as of jan 2026, giscus is still under development so some features might break or change) for comment system. Codes can be found on my github repo. currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.\nTschuss!!"
+    "text": "In my previous post I mentioned my interest in constructive QFT, gauge Theory and HoTT. To not sound like I’m just a penguin name-dropping advanced research area, I’ll try to describe how I to these fields and why I’m interested in them :3!\nWhen I studied logic the first time I was really fascinated by predicate logic proofs OwO. In fact, I really enjoyed solving proof problems because it followed more logically than cookie-cutter “find the missing trick” problem. I had a fascination with abstract concepts from high school at age 15. This fascination always led me towards more abstract ideas and mathematics and along with my interest in physics I found that QFT as a formal framework is a bit shaky. Path integrals is not really a measure as it lacks sigma-algebra and renormalisation is just a trick which physicists use to sweep infinites under the rug and call it a day (again I hate tricks).\nthis led me to discover 80s work of Arthur-Jaffe on constructive quantum field theory which aims to formally justify the heuristics physicists use. And that is how I started reading more about this and I’m still learning more ^_^!\nThis problem is one of the hardest in mathematical physics and people are generally cautious of young students chasing the big problems just because of the glamour. However I believe that my reasoning for chasing this isn’t just glamour but it’s genuine philosophical motivation of rigour in theory. Physicists use QFT and make predict of scattering amplitudes extremely accurately however the tools they are using are a bit shaky and the lack of understanding of why it works is extremely important for QFT in curved space, and to avoid using the rules in wrong situations and get fake solutions.\nServus!!"
   }
 ]
