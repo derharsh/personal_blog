@@ -6,6 +6,12 @@
     ]
   },
   {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/first-post/index.html"
+    ]
+  },
+  {
     "listing": "/index.html",
     "items": [
       "/posts/first-post/index.html"
