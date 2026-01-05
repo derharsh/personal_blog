@@ -9,10 +9,15 @@
 <link>https://derharsh.github.io/LupLup/</link>
 <atom:link href="https://derharsh.github.io/LupLup/index.xml" rel="self" type="application/rss+xml"/>
 <description>My Personal Blog</description>
+<image>
+<url>https://derharsh.github.io/LupLup/image1.jpeg</url>
+<title>LupLup</title>
+<link>https://derharsh.github.io/LupLup/</link>
+</image>
 <generator>quarto-1.8.26</generator>
 <lastBuildDate>Sat, 03 Jan 2026 18:30:00 GMT</lastBuildDate>
 <item>
-  <title>Welcome!</title>
+  <title>Hello!</title>
   <dc:creator>Harsh Prajapati</dc:creator>
   <link>https://derharsh.github.io/LupLup/posts/first-post/</link>
   <description><![CDATA[ 

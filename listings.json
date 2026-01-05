@@ -6,13 +6,13 @@
     ]
   },
   {
-    "listing": "/index.html",
+    "listing": "/blog.html",
     "items": [
       "/posts/first-post/index.html"
     ]
   },
   {
-    "listing": "/posts.html",
+    "listing": "/index.html",
     "items": [
       "/posts/first-post/index.html"
     ]
