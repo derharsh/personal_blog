@@ -9,7 +9,7 @@
 <meta name="author" content="Harsh Prajapati">
 <meta name="dcterms.date" content="2026-01-04">
 
-<title>Welcome! – LupLup</title>
+<title>Hello! – LupLup</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -288,6 +288,10 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
+    <a class="nav-link" href="../../blog.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="../../library.html"> 
 <span class="menu-text">Notes</span></a>
   </li>  
@@ -300,7 +304,7 @@ window.Quarto = {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/derharsh.io/LupLup"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/derharsh/LupLup"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -316,7 +320,7 @@ window.Quarto = {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Welcome!</h1>
+      <h1 class="title">Hello!</h1>
                                 <div class="quarto-categories">
                 <div class="quarto-category">General</div>
               </div>
@@ -356,12 +360,11 @@ window.Quarto = {
 
 
 
-<p>Hello!! Welcome to my blog.</p>
 <p>Today, i’m starting a blog page as a personal space to share my lecture notes, research ideas and codes (and some other random shyt). Currently im not enrolled in any institute tho but i plan to study bachelor in mathematics and theoretical physics soon. however ive been studyin a lot on my own using textbooks and lecture notes i was able to find online, so ill share my journey here :3</p>
 <p>i only started talking notes in latex by the end of oct and for a while i wasnt consistent with it. but now ill try t be more consistent, hehe OwO</p>
 <p>You can find my notes from the <strong><a href="../../library.html">Notes</a></strong> menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.</p>
 <p>As for my research interest, i’ve been reading a lot into constructive qft, gauge theory and hott (although i dont understand much “_“). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway (bcz im chaotic &gt;w&lt;). You can find more about my research in the <strong><a href="../..\research.">Research</a></strong> tab.</p>
-<p>Lastly, im using quarto and github pages to host this blog, the code for the quarto project can be found on my github repo. currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.</p>
+<p>Lastly, im using quarto and github pages to host this blog, and giscus (as of jan 2026, giscus is still under development so some features might break or change) for comment system. Codes can be found on my <a href="https://github.com/derharsh/LupLup">github repo</a>. currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.</p>
 <p>Tschuss!!</p>
 
 
@@ -781,6 +784,38 @@ window.Quarto = {
     }
   });
   </script>
+<input type="hidden" id="giscus-base-theme" value="noborder_dark">
+<input type="hidden" id="giscus-alt-theme" value="noborder_dark">
+<script>
+  function loadGiscus() {
+    // Function to get the theme based on body class
+    const getTheme = () => {
+      let baseTheme = document.getElementById('giscus-base-theme').value;
+      let altTheme = document.getElementById('giscus-alt-theme').value;
+      if (authorPrefersDark) {
+          [baseTheme, altTheme] = [altTheme, baseTheme];
+      }
+      return document.body.classList.contains('quarto-dark') ? altTheme : baseTheme;
+    };
+    const script = document.createElement("script");
+    script.src = "https://giscus.app/client.js";
+    script.async = true;
+    script.dataset.repo = "derharsh/LupLup";
+    script.dataset.repoId = "R_kgDOJYJ4TA";
+    script.dataset.category = "General";
+    script.dataset.categoryId = "DIC_kwDOQzOiLM4C0k3E";
+    script.dataset.mapping = "pathname";
+    script.dataset.reactionsEnabled = "1";
+    script.dataset.emitMetadata = "0";
+    script.dataset.inputPosition = "top";
+    script.dataset.theme = getTheme();
+    script.dataset.lang = "en";
+    script.crossOrigin = "anonymous";
+    // Append the script to the desired div instead of at the end of the body
+    document.getElementById("quarto-content").appendChild(script);
+  }
+  loadGiscus();
+</script>
 </div> <!-- /content -->
 
 

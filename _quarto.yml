@@ -8,6 +8,8 @@ website:
   title: "LupLup"
   navbar:
     right:
+      - text: Blog
+        href: blog.qmd
       - text: Notes
         href: library.qmd
       - text: Research
@@ -15,6 +17,17 @@ website:
       - about.qmd
       - icon: github
         href: https://github.com/derharsh/LupLup
+comments: 
+    giscus: 
+        repo: derharsh/LupLup
+        repo-id: R_kgDOJYJ4TA
+        category: General
+        category-id: DIC_kwDOQzOiLM4C0k3E
+        mapping: pathname
+        reactions-enabled: true
+        input-position: top
+        theme: noborder_dark
+        language: en
 format:
   html:
     theme:

@@ -1,12 +1,13 @@
 ---
-title: "Welcome!"
+title: "Hello!"
 author: "Harsh Prajapati"
 date: "01.04.2026"
 categories: [General]
 image: "image.jpg"
+comments:
+    giscus: 
+      repo: derharsh/LupLup
 ---
-
-Hello!! Welcome to my blog.
 
 Today, i'm starting a blog page as a personal space to share my lecture notes, research ideas and codes (and some other random shyt). Currently im not enrolled in any institute tho but i plan to study bachelor in mathematics and theoretical physics soon. however ive been studyin a lot on my own using textbooks and lecture notes i was able to find online, so ill share my journey here :3
 
@@ -16,6 +17,6 @@ You can find my notes from the **[Notes](/library.qmd)** menu (obv), im writing 
 
 As for my research interest, i've been reading a lot into constructive qft, gauge theory and hott (although i dont understand much "_"). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway (bcz im chaotic >w<). You can find more about my research in the **[Research](/research.)** tab.
 
-Lastly, im using quarto and github pages to host this blog, the code for the quarto project can be found on my github repo. currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.
+Lastly, im using quarto and github pages to host this blog, and giscus for comment system (you may need a github account to post comments). Codes can be found on my [github repo](https://github.com/derharsh/LupLup). currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.
 
-Tschuss!!
+Tsch\"uss!!

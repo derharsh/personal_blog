@@ -1,11 +1,12 @@
 ---
 title: "About"
 image: profile.jpg
+comments: false
 about:
   template: jolla
   links:
-    - icon: twitter
-      text: Twitter
+    - icon: twitter-x
+      text: X
       href: https://x.com/HarshPrajapatiS
     - icon: github
       text: Github

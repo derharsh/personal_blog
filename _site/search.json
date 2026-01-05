@@ -32,7 +32,7 @@
     "href": "library.html",
     "title": "Study Notes :3",
     "section": "",
-    "text": "Here I’ll share my study notes, these notes are somewhat more sophisticated than what typical courses in university cover. The treated is more generalised, and with the highest level of abstraction, but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me, it’s worth it (jk, I want u to suffer, hehe!!)\nIf you find any mistakes or typos, please report them to caccacpenguin@gmail.com. I would really appreciate it.\nI often use informal language to make the ideas easier to grasp. My goal is to make the material feel approachable, while still respecting the rigor that makes mathematics what it is.\nThe course on Mathematical Foundations is essentially the “first installment” in the series of lecture notes. So, make sure you have those basics down.\nI am hoping that these notes would be helpful to train a future researcher in mathematics or/and mathhematical physics.\nHuiiiHuiii :3"
+    "text": "Here I’ll share my study notes, these notes are somewhat more sophisticated than what typical courses in university cover. The treated is more generalised, and with the highest level of abstraction, but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me, it’s worth it (jk, I want u to suffer, hehe!!)\nIf you find any mistakes or typos, please report them in the comment section. I would really appreciate it.\nI often use informal language to make the ideas easier to grasp. My goal is to make the material feel approachable, while still respecting the rigor that makes mathematics what it is.\nThe course on Mathematical Foundations is essentially the “first installment” in the series of lecture notes. So, make sure you have those basics down.\nI am hoping that these notes would be helpful to train a future researcher in mathematics or/and mathhematical physics.\nHuiiiHuiii :3"
   },
   {
     "objectID": "library.html#mathematics",
@@ -49,6 +49,13 @@
     "text": "Mathematical Physics:\nIn Mathematical Physics, i treat the subjects very rigorouly (sometimes more than required and typically taught in undergraduate courses) to ensure mathematical sophistication for advanced research.\n\nClassical Mechanics I: Newtonian, Lagrangian and Hamiltonian Mechanics."
   },
   {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "The LupLup Logs",
+    "section": "",
+    "text": "Here u can find all my posts :3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello!\n\n\n\nGeneral\n\n\n\n\n\n\n\nHarsh Prajapati\n\n\nJan 4, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -60,13 +67,20 @@
     "href": "index.html",
     "title": "Home!",
     "section": "",
-    "text": ":3\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome!\n\n\n\nGeneral\n\n\n\n\n\n\n\n\n\nJan 4, 2026\n\n\nHarsh Prajapati\n\n\n\n\n\nNo matching items"
+    "text": "The Full archive can be found in the Blog tab. :3"
+  },
+  {
+    "objectID": "index.html#latest-updates",
+    "href": "index.html#latest-updates",
+    "title": "Home!",
+    "section": "",
+    "text": "The Full archive can be found in the Blog tab. :3"
   },
   {
     "objectID": "posts/first-post/index.html",
     "href": "posts/first-post/index.html",
-    "title": "Welcome!",
+    "title": "Hello!",
     "section": "",
-    "text": "Hello!! Welcome to my blog.\nToday, i’m starting a blog page as a personal space to share my lecture notes, research ideas and codes (and some other random shyt). Currently im not enrolled in any institute tho but i plan to study bachelor in mathematics and theoretical physics soon. however ive been studyin a lot on my own using textbooks and lecture notes i was able to find online, so ill share my journey here :3\ni only started talking notes in latex by the end of oct and for a while i wasnt consistent with it. but now ill try t be more consistent, hehe OwO\nYou can find my notes from the Notes menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.\nAs for my research interest, i’ve been reading a lot into constructive qft, gauge theory and hott (although i dont understand much “_“). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway (bcz im chaotic &gt;w&lt;). You can find more about my research in the Research tab.\nLastly, im using quarto and github pages to host this blog, the code for the quarto project can be found on my github repo. currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.\nTschuss!!"
+    "text": "Today, i’m starting a blog page as a personal space to share my lecture notes, research ideas and codes (and some other random shyt). Currently im not enrolled in any institute tho but i plan to study bachelor in mathematics and theoretical physics soon. however ive been studyin a lot on my own using textbooks and lecture notes i was able to find online, so ill share my journey here :3\ni only started talking notes in latex by the end of oct and for a while i wasnt consistent with it. but now ill try t be more consistent, hehe OwO\nYou can find my notes from the Notes menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.\nAs for my research interest, i’ve been reading a lot into constructive qft, gauge theory and hott (although i dont understand much “_“). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway (bcz im chaotic &gt;w&lt;). You can find more about my research in the Research tab.\nLastly, im using quarto and github pages to host this blog, and giscus (as of jan 2026, giscus is still under development so some features might break or change) for comment system. Codes can be found on my github repo. currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.\nTschuss!!"
   }
 ]

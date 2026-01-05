@@ -1,15 +1,16 @@
 ---
 title: "Home!"
+comments: false
 listing:
   contents: posts
+  max-items: 3
   feed: true
   sort: "date desc"
   type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
 page-layout: full
 title-block-banner: true
 ---
 
+## Latest Updates
+The Full archive can be found in the [Blog](/blog.qmd) tab.
 :3

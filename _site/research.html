@@ -317,6 +317,10 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
+    <a class="nav-link" href="./blog.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./library.html"> 
 <span class="menu-text">Notes</span></a>
   </li>  
@@ -329,7 +333,7 @@ window.Quarto = {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/derharsh.io/LupLup"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/derharsh/LupLup"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -490,8 +494,14 @@ window.Quarto = {
 </section>
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="R2VuZXJhbA==" data-listing-date-sort="1767465000000" data-listing-file-modified-sort="1767570133787" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="250">
+<div class="g-col-1" data-index="0" data-categories="R2VuZXJhbA==" data-listing-date-sort="1767465000000" data-listing-file-modified-sort="1767577877346" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="262">
 <a href="./posts/first-post/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -499,7 +509,7 @@ window.Quarto = {
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Welcome!
+Hello!
 </h5>
 <div class="listing-categories">
 
@@ -507,7 +517,7 @@ Welcome!
 
 </div>
 <div class="card-text listing-description delink">
-Hello!! Welcome to my blog.
+Today, i’m starting a blog page as a personal space to share my lecture notes, research ideas and codes (and some other random shyt). Currently im not enrolled in any…
 </div>
 <div class="card-attribution card-text-small justify">
 <div class="listing-author">
@@ -936,6 +946,38 @@ Jan 4, 2026
     }
   });
   </script>
+<input type="hidden" id="giscus-base-theme" value="noborder_dark">
+<input type="hidden" id="giscus-alt-theme" value="noborder_dark">
+<script>
+  function loadGiscus() {
+    // Function to get the theme based on body class
+    const getTheme = () => {
+      let baseTheme = document.getElementById('giscus-base-theme').value;
+      let altTheme = document.getElementById('giscus-alt-theme').value;
+      if (authorPrefersDark) {
+          [baseTheme, altTheme] = [altTheme, baseTheme];
+      }
+      return document.body.classList.contains('quarto-dark') ? altTheme : baseTheme;
+    };
+    const script = document.createElement("script");
+    script.src = "https://giscus.app/client.js";
+    script.async = true;
+    script.dataset.repo = "derharsh/LupLup";
+    script.dataset.repoId = "R_kgDOJYJ4TA";
+    script.dataset.category = "General";
+    script.dataset.categoryId = "DIC_kwDOQzOiLM4C0k3E";
+    script.dataset.mapping = "pathname";
+    script.dataset.reactionsEnabled = "1";
+    script.dataset.emitMetadata = "0";
+    script.dataset.inputPosition = "top";
+    script.dataset.theme = getTheme();
+    script.dataset.lang = "en";
+    script.crossOrigin = "anonymous";
+    // Append the script to the desired div instead of at the end of the body
+    document.getElementById("quarto-content").appendChild(script);
+  }
+  loadGiscus();
+</script>
 </div> <!-- /content -->
 
 
