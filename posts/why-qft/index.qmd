@@ -3,18 +3,32 @@ title: "Why QFT?"
 author: "Harsh Prajapati"
 date: "01.06.2026"
 categories: [Research]
-image: "image0.jpg"
+image: "image0.jpeg"
 comments:
     giscus: 
       repo: derharsh/LupLup
 ---
 
-In my [previous post](/posts/first-post/index.qmd) I mentioned my interest in constructive QFT, gauge Theory and HoTT. To not sound like I’m just a penguin name-dropping advanced research area, I’ll try to describe how I to these fields and why I’m interested in them :3!
+In my [previous post](/posts/first-post/index.qmd) I mentioned my interest in constructive QFT, gauge Theory and HoTT. I’ll try to explain “how did you even get here dawg🥀?!?” and why I’m interested in them :3! So here’s the yappery…
 
-When I studied logic the first time I was really fascinated by predicate logic proofs OwO. In fact, I really enjoyed solving proof problems because it followed more logically than cookie-cutter “find the missing trick” problem. I had a fascination with abstract concepts from high school at age 15. This fascination always led me towards more abstract ideas and mathematics and along with my interest in physics I found that QFT as a formal framework is a bit shaky. Path integrals is not really a measure as it lacks sigma-algebra and renormalisation is just a trick which physicists use to sweep infinites under the rug and call it a day (again I hate tricks).
+When I studied logic the first time I was really fascinated by predicate logic and formal proofs OwO. In fact, I really enjoyed solving proof problems because it followed more logically than cookie-cutter “find the missing trick” problem. I had a fascination with abstract concepts from high school at age 15.
 
-this led me to discover 80s work of Arthur-Jaffe on constructive quantum field theory which aims to formally justify the heuristics physicists use. And that is how I started reading more about this and I’m still learning more ^_^!
+This fascination always led me towards more abstract ideas and mathematics and along with my interest in physics Through some Wikipedia reading and chaotic explorations on the internet, I found that standard perturbative-QFT although makes predictions of scattering amplitudes extremely accurately, as a formal framework it is a bit “shaky”.
 
-This problem is one of the hardest in mathematical physics and people are generally cautious of young students chasing the big problems just because of the glamour. However I believe that my reasoning for chasing this isn’t just glamour but it’s genuine philosophical motivation of rigour in theory. Physicists use QFT and make predict of scattering amplitudes extremely accurately however the tools they are using are a bit shaky and the lack of understanding of why it works is extremely important for QFT in curved space, and to avoid using the rules in wrong situations and get fake solutions.
+Path integrals are not well-defined measures, as it lacks rigorous sigma-algebra and has UV-divergences. Renormalisation isn’t rigorously well understood and through RG flows QFT is better treated as an effective field theory (frankly, I think it’s just a trick which physicists use to sweep infinities under the rug and call it a day, but this is just my penguin brain speaking, womp womp :3).
+
+Understanding why the methods of QFT work is extremely important for QFT in curved space, and to avoid using the rules in wrong situations and get fake solutions, especially in non-perturbative regimes.
+
+This led me to discover 70-80s work of Glimm-Jaffe on constructive quantum field theory which aimed to formally justify the heuristics physicists use. They were successful in proving a mass gap in Quantum Yang-Mills Theory in two and three dimensions but hit a wall in four dimensions, which is a Millennium prize problem and extremely difficult.
+
+In the modern era, this problem is often approached from a stochastic perspective by using Langevin dynamics in SPDEs. Martin Hairer made a breakthrough with regularity structures for singular SPDEs, for this he won many awards including the Fields medal. However, the 4D Yang-Mills still remains an open problem because of how extremely difficult it is.
+
+I've explained about QFT with more technical details [here](/research.qmd).
+
+The necessary background needed (as far as im aware) is rigorous understanding of functional analysis, operator algebras, distribution theory and measure theory. Currently my background is only basic understanding of analysis and algebra, so I’m quite far from understanding the mathematics, but I’m making progress day by day at my pace!
+
+This problem is one of the hardest in mathematical physics and people are generally cautious of young students chasing the big problems just because of the glamour. And saying that  glamour of solving big problems is not one of the reasons for chasing it is probably lying to myself. However I believe that my main reason for chasing it isn’t just for the fame or glamour but a genuine philosophical motivation for rigour in theory.
+
+So, this is why i want to explore more about this field and related fields such as axiomatic QFT, algebraic QFT and topological QFT, all attempting to make qft more mathematically rigorous. These are extremely sophisticated fields and typically people only work in a few in their lifetimes. i'm in the early stage of developing my research interests so i think looking through them from a bird's eye view would be helpful.
 
 Servus!!

@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://derharsh.github.io/LupLup/research.html</loc>
-    <lastmod>2026-01-05T02:05:33.302Z</lastmod>
+    <lastmod>2026-01-06T02:02:07.573Z</lastmod>
   </url>
   <url>
-    <loc>https://derharsh.github.io/LupLup/library.html</loc>
-    <lastmod>2026-01-05T01:48:47.632Z</lastmod>
-  </url>
-  <url>
-    <loc>https://derharsh.github.io/LupLup/blog.html</loc>
-    <lastmod>2026-01-05T01:09:14.983Z</lastmod>
-  </url>
-  <url>
-    <loc>https://derharsh.github.io/LupLup/about.html</loc>
-    <lastmod>2026-01-05T01:56:37.385Z</lastmod>
+    <loc>https://derharsh.github.io/LupLup/posts/first-post/index.html</loc>
+    <lastmod>2026-01-06T01:53:21.643Z</lastmod>
   </url>
   <url>
     <loc>https://derharsh.github.io/LupLup/index.html</loc>
     <lastmod>2026-01-05T02:02:39.273Z</lastmod>
   </url>
   <url>
-    <loc>https://derharsh.github.io/LupLup/posts/first-post/index.html</loc>
-    <lastmod>2026-01-05T01:51:17.346Z</lastmod>
+    <loc>https://derharsh.github.io/LupLup/about.html</loc>
+    <lastmod>2026-01-05T01:56:37.385Z</lastmod>
+  </url>
+  <url>
+    <loc>https://derharsh.github.io/LupLup/blog.html</loc>
+    <lastmod>2026-01-05T01:09:14.983Z</lastmod>
+  </url>
+  <url>
+    <loc>https://derharsh.github.io/LupLup/library.html</loc>
+    <lastmod>2026-01-05T01:48:47.632Z</lastmod>
+  </url>
+  <url>
+    <loc>https://derharsh.github.io/LupLup/posts/why-qft/index.html</loc>
+    <lastmod>2026-01-06T01:55:22.871Z</lastmod>
   </url>
 </urlset>

@@ -4,9 +4,11 @@ toc: true
 listing: 
     contents: posts
     type: grid
-    categories: true
     sort: "date desc"
-    filter-ui: true
+    filter-ui: false
+    categories: true
+    include:
+        categories: [Research]
 ---
 
 My current interests lie at the mathematical foundations of quantum field theories, gauge theories and foundations of mathematics. My interests are highly ambitious, they involve many big foundational and unresolved problems.
