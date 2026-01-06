@@ -9,7 +9,7 @@ comments:
       repo: derharsh/LupLup
 ---
 
-In my [previous post](/posts/first-post/index.qmd) I mentioned my interest in constructive QFT, gauge Theory and HoTT. I’ll try to explain “how did you even get here dawg🥀?!?” and why I’m interested in them :3! So here’s the yappery…
+In my [previous post](/posts/first-post/index.qmd) I mentioned my interest in constructive QFT, gauge Theory and HoTT. I’ll try to explain “how did you even get here dawg🥀?!?” and why I’m interested in them :3
 
 When I studied logic the first time I was really fascinated by predicate logic and formal proofs OwO. In fact, I really enjoyed solving proof problems because it followed more logically than cookie-cutter “find the missing trick” problem. I had a fascination with abstract concepts from high school at age 15.
 
@@ -25,10 +25,12 @@ In the modern era, this problem is often approached from a stochastic perspectiv
 
 I've explained about QFT with more technical details [here](/research.qmd).
 
-The necessary background needed (as far as im aware) is rigorous understanding of functional analysis, operator algebras, distribution theory and measure theory. Currently my background is only basic understanding of analysis and algebra, so I’m quite far from understanding the mathematics, but I’m making progress day by day at my pace!
+The necessary background needed (as far as im aware) is rigorous understanding of functional analysis, operator algebras, distribution theory, and measure theory. Currently my background is only basic understanding of analysis and algebra so I’m quite far from understanding the mathematics, but I’m making progress day by day at my pace.
 
 This problem is one of the hardest in mathematical physics and people are generally cautious of young students chasing the big problems just because of the glamour. And saying that  glamour of solving big problems is not one of the reasons for chasing it is probably lying to myself. However I believe that my main reason for chasing it isn’t just for the fame or glamour but a genuine philosophical motivation for rigour in theory.
 
 So, this is why i want to explore more about this field and related fields such as axiomatic QFT, algebraic QFT and topological QFT, all attempting to make qft more mathematically rigorous. These are extremely sophisticated fields and typically people only work in a few in their lifetimes. i'm in the early stage of developing my research interests so i think looking through them from a bird's eye view would be helpful.
+
+I’ll explain my other interested topics in future posts!
 
 Servus!!
