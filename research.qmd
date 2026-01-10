@@ -100,8 +100,8 @@ Physicists think you’re wasting time proving obvious things. mathematicians th
 ### References and Futher Reading
 * *Glimme and Jaffe, Quantum Physics: A Functional Integral Point of View.*
 * *Jaffe, Arthur (2000). [Constructive Quantum Field Theory](http://www.arthurjaffe.com/Assets/pdf/CQFT.pdf). Mathematical Physics 2000: 111-12.*
-* *Clay Mathematical Institute. [Yang-Mills and Mass Gap](https://www.claymaths.org/millennium/yang-mills-the-mathss-gap/).*
-* *Arthur Jaffe and Edward Witten, [Quantum Yang-Mills]().*
+* *Arthur Jaffe and Edward Witten, [Quantum Yang-Mills](https://arthurjaffe.com/Assets/pdf/QuantumYangMillsWebRevised.pdf).*
+* *nLabs. [Constructive QFT](https://ncatlab.org/nlab/show/constructive+quantum+field+theory)*
 
 
 ## Mathematical Gauge Theory

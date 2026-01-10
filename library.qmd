@@ -26,4 +26,4 @@ Starting from foundational topics like analysis and algebra i plan to cover more
 ## Mathematical Physics:
 In Mathematical Physics, i treat the subjects very rigorouly (sometimes more than required and typically taught in undergraduate courses) to ensure mathematical sophistication for advanced research.
 
-* **[Classical Mechanics I:](notes/classical-mechanics-i/cm-i.pdf)** *Newtonian, Lagrangian and Hamiltonian Mechanics.*
+* **[Mathematics for Physics:](notes/mfp/mfp.pdf)** *Mathematical methods for theoretical physics.*
