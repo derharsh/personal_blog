@@ -1,5 +1,5 @@
 ---
-title: "Study Notes :3"
+title: "Study :3"
 toc: true
 ---
 
@@ -18,7 +18,7 @@ HuiiiHuiii :3
 ## Mathematics:
 Starting from foundational topics like analysis and algebra i plan to cover more advanced topics in algebraic number theory, algebraic topology, partial differential equations, differential geometry, and stochastic analysis.
 
-* **[Mathematical Foundations:](notes/math-priliminary/fom.pdf)** *Foundations of Logic, Proofs, Sets and Numbers.*
+* **[Mathematical Foundations:](notes/math-priliminary/fom.pdf)** *Mathematical Logic, Proofs, Sets and Numbers.*
 * **[Analysis I:](notes/ana1/ana1.pdf)** *Topology and Calculus of Functions of Single Real Variable.*
 * **[Linear Algebra I:](notes/la1/la1.pdf)** *Algebraic structures of Vector Spaces, Matrix Theory and Eigen Theory.*
 * **[Mathematical Logic:](notes/mathe-logic/mathe-logic.pdf)** *Proof Theory, Model Theory and Computations.*

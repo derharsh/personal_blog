@@ -11,7 +11,7 @@ listing:
         categories: [Research]
 ---
 
-My current interests lie at the mathematical foundations of quantum field theories, gauge theories and foundations of mathematics. My interests are highly ambitious, they involve many big foundational and unresolved problems.
+My current interests lie at the mathematical foundations of quantum field theories, gauge theories and foundations of mathematics. I'm interested in a framework called **Algebraic Quantum Field Theory (AQFT)**, which is known as a local covariant quantum theory.
 
 ## Quantum Field Theory
 QFTs are the theories of quantum fields on locally flat Minkowski space. It is the language in which all of physics without gravity can be described.

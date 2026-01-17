@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.30)  8 JAN 2026 23:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.10.30)  15 JAN 2026 22:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -662,7 +662,7 @@ Package: sectsty 2002/02/25 v2.0.2 Commands to change all sectional heading styl
 \c@theorem=\count334
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... none found.
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 87.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 86.
  (C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
@@ -672,31 +672,31 @@ File: l3backend-pdftex.def 2024-01-04 L3 backend support: PDF output (pdfTeX)
 ) (fom.aux)
 \openout1 = `fom.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 87.
-LaTeX Font Info:    ... okay on input line 87.
-LaTeX Info: Redefining \microtypecontext on input line 87.
-Package microtype Info: Applying patch `item' on input line 87.
-Package microtype Info: Applying patch `toc' on input line 87.
-Package microtype Info: Applying patch `eqnum' on input line 87.
-Package microtype Info: Applying patch `footnote' on input line 87.
-Package microtype Info: Applying patch `verbatim' on input line 87.
-LaTeX Info: Redefining \microtypesetup on input line 87.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 86.
+LaTeX Font Info:    ... okay on input line 86.
+LaTeX Info: Redefining \microtypecontext on input line 86.
+Package microtype Info: Applying patch `item' on input line 86.
+Package microtype Info: Applying patch `toc' on input line 86.
+Package microtype Info: Applying patch `eqnum' on input line 86.
+Package microtype Info: Applying patch `footnote' on input line 86.
+Package microtype Info: Applying patch `verbatim' on input line 86.
+LaTeX Info: Redefining \microtypesetup on input line 86.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
@@ -767,42 +767,42 @@ Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: subfig package v1.3 is loaded.
 Package caption Info: hyperref package is loaded.
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring OFF on input line 87.
+Package hyperref Info: Link coloring OFF on input line 86.
  (fom.out) (fom.out)
 \@outlinefile=\write4
 \openout4 = `fom.out'.
 
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 89.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 88.
  (C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 89.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 88.
  (C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 89.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 88.
  (C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <14.4> on input line 89.
+(Font)              <14.4> on input line 88.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 89.
+(Font)              <10> on input line 88.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 89.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 89.
+(Font)              <7> on input line 88.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 88.
  (C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 89.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 88.
  (C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 103.
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 102.
  (C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) [1
@@ -824,18 +824,18 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 ]
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 156.
+(Font)              <5> on input line 155.
  [5
 
 ] [6] [7] [8] [9{C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}] [10{C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}] [11] [12] [13] [14] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27
 
 ] [28] [29] [30] [31] [32] [33] [34] [35] [36]
-LaTeX Font Info:    Trying to load font information for OMS+lmr on input line 1441.
+LaTeX Font Info:    Trying to load font information for OMS+lmr on input line 1440.
  (C:\Users\cacca\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmr.fd
 File: omslmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `OMS/lmr/m/n' in size <12> not available
-(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 1441.
+(Font)              Font shape `OMS/lmsy/m/n' tried instead on input line 1440.
  [37] [38] [39] [40] [41
 
 ] [42{C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}] [43] [44] [45
@@ -857,7 +857,7 @@ Here is how much of TeX's memory you used:
  1141 hyphenation exceptions out of 8191
  98i,16n,107p,1074b,1089s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on fom.pdf (52 pages, 633637 bytes).
+Output written on fom.pdf (52 pages, 633638 bytes).
 PDF statistics:
  1114 PDF objects out of 1200 (max. 8388607)
  387 named destinations out of 1000 (max. 500000)

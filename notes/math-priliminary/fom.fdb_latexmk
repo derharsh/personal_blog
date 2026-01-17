@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1767895804.19121 "c:/Users/cacca/LupLup/notes/math-priliminary/fom.tex" "fom.pdf" "fom" 1767895810.89791 0
-  "C:/Users/cacca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1766717010 117253 3e2b0821a8df89fc4d3e125e02ff8797 ""
+["pdflatex"] 1768496766.22494 "c:/Users/cacca/LupLup/notes/math-priliminary/fom.tex" "fom.pdf" "fom" 1768496769.44104 0
+  "C:/Users/cacca/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1768431113 213575 c1bc1677cd600c0c23b72a204361f1d6 ""
   "C:/Users/cacca/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1761815001 24225047 9b5f22851ad52bfd52a97d2db1fa64eb ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc" 1256929440 3486 c7eadf5dcc57b3b2d11736679f6636ba ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc" 1256929440 2405 5dcf2c1b967ee25cc46c58cd52244aed ""
@@ -128,7 +128,7 @@
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/generic/pgf/utilities/pgfutil-latex.def" 1673775190 6950 8524a062d82b7afdc4a88a57cb377784 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/generic/uniquecounter/uniquecounter.sty" 1576434012 7008 f92eaa0a3872ed622bbf538217cd2ab7 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/00miktex/epstopdf-sys.cfg" 1616067285 584 2a1075dd71571459f59146da9f7502ad ""
-  "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/amscls/amsthm.sty" 1591023609 12594 0d51ac3a545aaaa555021326ff22a6cc ""
+  "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/amscls/amsthm.sty" 1768431250 12598 d8d1a7f6094e6d2a88459ffeade6d789 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/amsfonts.sty" 1358197772 5949 3f3fd50a8cc94c3d4cbf4fc66cd3df1c ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/amssymb.sty" 1358197772 13829 94730e64147574077f8ecfea9bb69af4 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/amsfonts/umsa.fd" 1358197772 961 6518c6525a34feb5e8250ffa91731cff ""
@@ -212,11 +212,11 @@
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/tools/verbatim.sty" 1700599895 7500 db31c3d04f8bc9010e47a5efbbace9ff ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/cacca/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/cacca/LupLup/notes/math-priliminary/fom.tex" 1767895803 158345 0ecc811ebe6daa2c6a48e98545dea9a6 ""
-  "fom.aux" 1767895810 12164 8a57de9e0da78256255594f0742100b8 "pdflatex"
-  "fom.out" 1767895810 12987 867b983655bf52e6440d3a3c67c922bb "pdflatex"
-  "fom.tex" 1767895803 158345 0ecc811ebe6daa2c6a48e98545dea9a6 ""
-  "fom.toc" 1767895810 7192 de107993eef90c82dadd89073affa9f9 "pdflatex"
+  "c:/Users/cacca/LupLup/notes/math-priliminary/fom.tex" 1768496765 158284 f52e7072549cb977046f53012c34d93f ""
+  "fom.aux" 1768496768 12164 8a57de9e0da78256255594f0742100b8 "pdflatex"
+  "fom.out" 1768496769 12987 867b983655bf52e6440d3a3c67c922bb "pdflatex"
+  "fom.tex" 1768496765 158284 f52e7072549cb977046f53012c34d93f ""
+  "fom.toc" 1768496769 7192 de107993eef90c82dadd89073affa9f9 "pdflatex"
   (generated)
   "fom.aux"
   "fom.log"
