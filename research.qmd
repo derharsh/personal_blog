@@ -13,6 +13,10 @@ listing:
 
 My current interests lie at the mathematical foundations of quantum field theories, gauge theories and foundations of mathematics. I'm interested in a framework called **Algebraic Quantum Field Theory (AQFT)**, which is known as a local covariant quantum theory.
 
+> ...Physical theory has aspects of a jigsaw puzzle with pieces whose exact shape is not known.
+>
+> - Rudolf Haag, November 1991
+
 ## Quantum Field Theory
 QFTs are the theories of quantum fields on locally flat Minkowski space. It is the language in which all of physics without gravity can be described.
 
