@@ -5,7 +5,7 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>LupLup</title>
+<title>Harsh Prajapati</title>
 <link>https://derharsh.github.io/LupLup/</link>
 <atom:link href="https://derharsh.github.io/LupLup/index.xml" rel="self" type="application/rss+xml"/>
 <description>My Personal Blog</description>
@@ -22,8 +22,8 @@
 
 
 
-<p>In my <a href="../../posts/first-post/index.html">previous post</a> I mentioned my interest in <a href="https://ncatlab.org/nlab/show/constructive+quantum+field+theory">constructive QFT</a>, gauge Theory and HoTT. I’ll try to explain “how did you even get here dawg🥀?!?” and why I’m interested in them :3!</p>
-<p>When I studied logic the first time I was really fascinated by predicate logic and formal proofs OwO. In fact, I really enjoyed solving proof problems because it followed more logically than cookie-cutter “find the missing trick” problem. I had a fascination with abstract concepts from high school at age 15.</p>
+<p>In my <a href="../../posts/first-post/index.html">previous post</a> I mentioned my interest in <a href="https://ncatlab.org/nlab/show/constructive+quantum+field+theory">constructive QFT</a>, gauge Theory and HoTT. I’ll try to explain why I’m interested in them!</p>
+<p>When I studied logic the first time I was really fascinated by predicate logic and formal proofs. In fact, I really enjoyed solving proof problems because it followed more logically than cookie-cutter “find the missing trick” problem. I had a fascination with abstract concepts from high school at age 15.</p>
 <p>This fascination always led me towards more abstract ideas and mathematics and along with my interest in physics. Through some chaotic explorations of Wikipedia and arXiv, I read that standard perturbative-QFT although makes predictions of scattering amplitudes extremely accurately, as a formal framework it is a bit “shaky”.</p>
 <p>Path integrals are not well-defined measures, as it lacks rigorous <img src="https://latex.codecogs.com/png.latex?%5Csigma">-algebra and has UV-divergences. Renormalisation isn’t rigorously well understood and through RG flows QFT is better treated as an effective field theory (Richard Feynman and Paul Dirac, the pioneers of QFT famously called it “<a href="https://www.quantamagazine.org/how-renormalization-saved-particle-physics-20200917/">hocus pocus</a>”, that it’s just a trick which physicists use to sweep infinities under the rug and call it a day).</p>
 <p>Understanding why the methods of QFT work is extremely important for QFT in curved space, and to avoid using the rules in wrong situations and get fake solutions, especially in non-perturbative regimes.</p>
@@ -57,10 +57,10 @@
 
 
 
-<p>Today, i’m starting a blog page as a personal space to share my lecture notes, research ideas and codes (and some other random shyt). Currently im not enrolled in any institute tho but i plan to study bachelor in mathematics and theoretical physics soon. however ive been studyin a lot on my own using textbooks and lecture notes i was able to find online, so ill share my journey here :3</p>
-<p>i only started talking notes in latex by the end of oct and for a while i wasnt consistent with it. but now ill try t be more consistent, hehe OwO</p>
-<p>You can find my notes from the <strong><a href="../../library.html">Notes</a></strong> menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.</p>
-<p>As for my research interest, i’ve been reading a lot into constructive qft, gauge theory and hott (although i dont understand much “_“). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway (bcz im chaotic &gt;w&lt;). You can find more about my research in the <strong><a href="../..\research.">Research</a></strong> tab.</p>
+<p>Today, i’m starting a blog page as a personal space to share my lecture notes, research ideas and codes. Currently im not enrolled in any institute tho but i plan to study bachelor in mathematics and theoretical physics soon. however ive been studyin a lot on my own using textbooks and lecture notes i was able to find online, so ill share my journey here!</p>
+<p>i only started talking notes in latex by the end of oct and for a while i wasnt consistent with it. but now ill try t be more consistent.</p>
+<p>You can find my notes from the <strong><a href="../..\library.qmd">Notes</a></strong> menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.</p>
+<p>As for my research interest, i’ve been reading a lot into constructive qft, gauge theory and hott (although i dont understand much). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway. You can find more about my research in the <strong><a href="../..\research.">Research</a></strong> tab.</p>
 <p>Lastly, im using quarto and github pages to host this blog, and giscus for comment system (you may need a github account to post comments). Codes can be found on my <a href="https://github.com/derharsh/LupLup">github repo</a>. currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.</p>
 <p>Tschüss!!</p>
 
