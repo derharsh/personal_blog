@@ -4,7 +4,7 @@
     "href": "research.html",
     "title": "Research OwO",
     "section": "",
-    "text": "My current interests lie at the mathematical foundations of quantum field theories, gauge theories and foundations of mathematics. My interests are highly ambitious, they involve many big foundational and unresolved problems."
+    "text": "My current interests lie at the mathematical foundations of quantum field theories, gauge theories and foundations of mathematics. I’m interested in a framework called Algebraic Quantum Field Theory (AQFT), which is known as a local covariant quantum theory."
   },
   {
     "objectID": "research.html#quantum-field-theory",
@@ -65,21 +65,21 @@
   {
     "objectID": "library.html",
     "href": "library.html",
-    "title": "Study Notes :3",
+    "title": "Study :3",
     "section": "",
     "text": "Here I’ll share my study notes, these notes are somewhat more sophisticated than what typical courses in university cover. The treated is more generalised, and with the highest level of abstraction, but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me, it’s worth it (jk, I want u to suffer, hehe!!)\nIf you find any mistakes or typos, please report them in the comment section. I would really appreciate it.\nI often use informal language to make the ideas easier to grasp. My goal is to make the material feel approachable, while still respecting the rigor that makes mathematics what it is.\nThe course on Mathematical Foundations is essentially the “first installment” in the series of lecture notes. So, make sure you have those basics down.\nI am hoping that these notes would be helpful to train a future researcher in mathematics or/and mathhematical physics.\nHuiiiHuiii :3"
   },
   {
     "objectID": "library.html#mathematics",
     "href": "library.html#mathematics",
-    "title": "Study Notes :3",
+    "title": "Study :3",
     "section": "Mathematics:",
-    "text": "Mathematics:\nStarting from foundational topics like analysis and algebra i plan to cover more advanced topics in algebraic number theory, algebraic topology, partial differential equations, differential geometry, and stochastic analysis.\n\nMathematical Foundations: Foundations of Logic, Proofs, Sets and Numbers.\nAnalysis I: Topology and Calculus of Functions of Single Real Variable.\nLinear Algebra I: Algebraic structures of Vector Spaces, Matrix Theory and Eigen Theory.\nMathematical Logic: Proof Theory, Model Theory and Computations."
+    "text": "Mathematics:\nStarting from foundational topics like analysis and algebra i plan to cover more advanced topics in algebraic number theory, algebraic topology, partial differential equations, differential geometry, and stochastic analysis.\n\nMathematical Foundations: Mathematical Logic, Proofs, Sets and Numbers.\nAnalysis I: Topology and Calculus of Functions of Single Real Variable.\nLinear Algebra I: Algebraic structures of Vector Spaces, Matrix Theory and Eigen Theory.\nMathematical Logic: Proof Theory, Model Theory and Computations."
   },
   {
     "objectID": "library.html#mathematical-physics",
     "href": "library.html#mathematical-physics",
-    "title": "Study Notes :3",
+    "title": "Study :3",
     "section": "Mathematical Physics:",
     "text": "Mathematical Physics:\nIn Mathematical Physics, i treat the subjects very rigorouly (sometimes more than required and typically taught in undergraduate courses) to ensure mathematical sophistication for advanced research.\n\nMathematics for Physics: Mathematical methods for theoretical physics."
   },

@@ -9,9 +9,9 @@ comments:
       repo: derharsh/LupLup
 ---
 
-In my [previous post](/posts/first-post/index.qmd) I mentioned my interest in [constructive QFT](https://ncatlab.org/nlab/show/constructive+quantum+field+theory), gauge Theory and HoTT. I’ll try to explain “how did you even get here dawg🥀?!?” and why I’m interested in them :3!
+In my [previous post](/posts/first-post/index.qmd) I mentioned my interest in [constructive QFT](https://ncatlab.org/nlab/show/constructive+quantum+field+theory), gauge Theory and HoTT. I’ll try to explain why I’m interested in them!
 
-When I studied logic the first time I was really fascinated by predicate logic and formal proofs OwO. In fact, I really enjoyed solving proof problems because it followed more logically than cookie-cutter “find the missing trick” problem. I had a fascination with abstract concepts from high school at age 15.
+When I studied logic the first time I was really fascinated by predicate logic and formal proofs. In fact, I really enjoyed solving proof problems because it followed more logically than cookie-cutter “find the missing trick” problem. I had a fascination with abstract concepts from high school at age 15.
 
 This fascination always led me towards more abstract ideas and mathematics and along with my interest in physics. Through some chaotic explorations of Wikipedia and arXiv, I read that standard perturbative-QFT although makes predictions of scattering amplitudes extremely accurately, as a formal framework it is a bit “shaky”.
 

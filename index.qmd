@@ -13,4 +13,3 @@ title-block-banner: true
 
 ## Latest Updates
 The Full archive can be found in the [Blog](/blog.qmd) tab.
-:3

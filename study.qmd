@@ -1,9 +1,9 @@
 ---
-title: "Study :3"
+title: "Study"
 toc: true
 ---
 
-Here I'll share my study notes, these notes are somewhat more sophisticated than what typical courses in university cover. The treated is more generalised, and with the highest level of abstraction, but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me, it’s worth it (jk, I want u to suffer, hehe!!)
+Here I'll share my study notes, these notes are somewhat more sophisticated than what typical courses in university cover. The treated is more generalised, and with the highest level of abstraction, but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me, it’s worth it!
 
 If you find any mistakes or typos, please report them in the comment section. I would really appreciate it.
 
@@ -11,9 +11,7 @@ I often use informal language to make the ideas easier to grasp. My goal is to m
 
 The course on Mathematical Foundations is essentially the "first installment" in the series of lecture notes. So, make sure you have those basics down.
 
-I am hoping that these notes would be helpful to train a future researcher in mathematics or/and mathhematical physics.
-
-HuiiiHuiii :3
+I am hoping that these notes would be helpful to train a future researcher in mathematics or/and mathhematical physics :D!
 
 ## Mathematics:
 Starting from foundational topics like analysis and algebra i plan to cover more advanced topics in algebraic number theory, algebraic topology, partial differential equations, differential geometry, and stochastic analysis.
@@ -27,3 +25,4 @@ Starting from foundational topics like analysis and algebra i plan to cover more
 In Mathematical Physics, i treat the subjects very rigorouly (sometimes more than required and typically taught in undergraduate courses) to ensure mathematical sophistication for advanced research.
 
 * **[Mathematics for Physics:](notes/mfp/mfp.pdf)** *Mathematical methods for theoretical physics.*
+* **[Theoretical Mechanics:](notes/t1-tm/t1-tm.pdf)** *Introduction to Lagrangian and Hamiltonian formalisms.*

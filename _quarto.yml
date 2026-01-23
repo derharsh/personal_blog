@@ -3,15 +3,15 @@ project:
 
 website:
   description: "My Personal Blog"
-  site-url: https://derharsh.github.io/LupLup 
-  repo-url: https://github.com/derharsh.io/LupLup
+  site-url: https://derharsh.github.io/LupLup/
+  repo-url: https://github.com/derharsh/LupLup
   title: "LupLup"
   navbar:
     right:
       - text: Blog
         href: blog.qmd
-      - text: Notes
-        href: library.qmd
+      - text: Study
+        href: study.qmd
       - text: Research
         href: research.qmd
       - about.qmd
