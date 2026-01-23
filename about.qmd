@@ -14,4 +14,6 @@ about:
 
 ---
 
-Yo! I'm an 18 y-o kido studying maths and mathematical physics. This blog is my "personal space"--- a place where i share my passion for mathe and physics through my lecture notes, research articles and ideas, and topics that usually don't make it to the classroom until the PhD level... hehe :3.
+I am Harsh Prajapti. A mathematics student with interests in mathematical foundations of quantum field theory.
+
+This blog serves as a living record of my work. It contains study notes, research ideas, technical writing, and code.
