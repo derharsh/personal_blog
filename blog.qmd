@@ -8,4 +8,4 @@ listing:
     sort-ui: false
     filter-ui: false
 ---
-Here u can find all my posts :D!
+Here you can find all my posts :D!
