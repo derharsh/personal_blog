@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Research – Harsh Prajapati</title>
+<title>Study – Harsh Prajapati</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
 <script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
@@ -74,35 +72,6 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
@@ -321,11 +290,11 @@ window.Quarto = {
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./study.html"> 
+    <a class="nav-link active" href="./study.html" aria-current="page"> 
 <span class="menu-text">Study</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./research.html" aria-current="page"> 
+    <a class="nav-link" href="./research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
@@ -354,30 +323,18 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#quantum-field-theory" id="toc-quantum-field-theory" class="nav-link active" data-scroll-target="#quantum-field-theory">Quantum Field Theory</a>
-  <ul class="collapse">
-  <li><a href="#what-is-a-qft" id="toc-what-is-a-qft" class="nav-link" data-scroll-target="#what-is-a-qft">What is a QFT</a></li>
-  <li><a href="#the-mathematical-problems-of-qft" id="toc-the-mathematical-problems-of-qft" class="nav-link" data-scroll-target="#the-mathematical-problems-of-qft">The mathematical Problems of QFT</a></li>
-  <li><a href="#what-is-constructive-qft" id="toc-what-is-constructive-qft" class="nav-link" data-scroll-target="#what-is-constructive-qft">What is Constructive QFT</a></li>
-  <li><a href="#why-this-matters" id="toc-why-this-matters" class="nav-link" data-scroll-target="#why-this-matters">Why this matters</a></li>
-  <li><a href="#why-it-is-hard" id="toc-why-it-is-hard" class="nav-link" data-scroll-target="#why-it-is-hard">Why it is hard</a></li>
-  <li><a href="#references-and-futher-reading" id="toc-references-and-futher-reading" class="nav-link" data-scroll-target="#references-and-futher-reading">References and Futher Reading</a></li>
-  </ul></li>
-  <li><a href="#mathematical-gauge-theory" id="toc-mathematical-gauge-theory" class="nav-link" data-scroll-target="#mathematical-gauge-theory">Mathematical Gauge Theory</a>
-  <ul class="collapse">
-  <li><a href="#why-mathematicians-love-it" id="toc-why-mathematicians-love-it" class="nav-link" data-scroll-target="#why-mathematicians-love-it">Why mathematicians love it</a></li>
-  </ul></li>
-  <li><a href="#univalent-foundations" id="toc-univalent-foundations" class="nav-link" data-scroll-target="#univalent-foundations">Univalent Foundations</a></li>
+  <li><a href="#mathematics" id="toc-mathematics" class="nav-link active" data-scroll-target="#mathematics">Mathematics:</a></li>
+  <li><a href="#mathematical-physics" id="toc-mathematical-physics" class="nav-link" data-scroll-target="#mathematical-physics">Mathematical Physics:</a></li>
   </ul>
 </nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UmVzZWFyY2g=">Research <span class="quarto-category-count">(1)</span></div></div></div>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research</h1>
+<h1 class="title">Study</h1>
 </div>
 
 
@@ -394,145 +351,34 @@ window.Quarto = {
 </header>
 
 
-<p>My current interests lie at the mathematical foundations of quantum field theories, gauge theories and foundations of mathematics. I’m interested in a framework called <strong>Algebraic Quantum Field Theory (AQFT)</strong>, which is known as a local covariant quantum theory.</p>
-<blockquote class="blockquote">
-<p>…Physical theory has aspects of a jigsaw puzzle with pieces whose exact shape is not known.</p>
+<p>Here I’ll share my study notes, these notes are somewhat more sophisticated than what typical courses in university cover. The treated is more generalised, and with the highest level of abstraction, but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me, it’s worth it!</p>
+<p>If you find any mistakes or typos, please report them in the comment section. I would really appreciate it.</p>
+<p>I often use informal language to make the ideas easier to grasp. My goal is to make the material feel approachable, while still respecting the rigor that makes mathematics what it is.</p>
+<p>The course on Mathematical Foundations is essentially the “first installment” in the series of lecture notes. So, make sure you have those basics down.</p>
+<p>I am hoping that these notes would be helpful to train a future researcher in mathematics or/and mathhematical physics :D!</p>
+<section id="mathematics" class="level2">
+<h2 class="anchored" data-anchor-id="mathematics">Mathematics:</h2>
+<p>Starting from foundational topics like analysis and algebra i plan to cover more advanced topics in algebraic number theory, algebraic topology, partial differential equations, differential geometry, and stochastic analysis.</p>
 <ul>
-<li>— Rudolf Haag, November 1991*</li>
-</ul>
-</blockquote>
-<section id="quantum-field-theory" class="level2">
-<h2 class="anchored" data-anchor-id="quantum-field-theory">Quantum Field Theory</h2>
-<p>QFTs are the theories of quantum fields on locally flat Minkowski space. It is the language in which all of physics without gravity can be described.</p>
-<section id="what-is-a-qft" class="level3">
-<h3 class="anchored" data-anchor-id="what-is-a-qft">What is a QFT</h3>
-<p>QFT says that the universe is not made of little marble-particles flying around like your high school textbook lied to you. It’s made of fields. Invisible stretchy things that exist everywhere, all the time. Even in “empty space,” which is fake and a scam.</p>
-<p>Each type of particle is just a tiny wiggle in its own field. Electron? Wiggle in the electron field. Photon? Wiggle in the electromagnetic field. Quark? Wiggle in a quark field that’s having a bad day. Particles aren’t objects, they’re events. Think less “tiny ball,” more “momentary glitch in the fabric of reality.”</p>
-<p>These fields constantly jitter because quantum rules say they have to. They can’t sit still. Ever. So space itself is buzzing like a fridge at 3 a.m. You don’t hear it, but it’s judging you.</p>
-<p>When fields interact, the wiggles influence each other. That’s what we call forces. No invisible hands pushing stuff. Just fields bumping into other fields like drunk people in a crowded kitchen. Gravity is just spacetime being bent. Electromagnetism is fields exchanging wiggles. Reality is basically group chat chaos.</p>
-<p>QFT is the framework that lets physicists predict how these wiggles behave and interact with absurd accuracy. Like, “we measured this to twelve decimal places and it still agrees” accuracy. It’s the most successful theory humans have ever produced, which is hilarious given we still argue about how it actually works.</p>
-</section>
-<section id="the-mathematical-problems-of-qft" class="level3">
-<h3 class="anchored" data-anchor-id="the-mathematical-problems-of-qft">The mathematical Problems of QFT</h3>
-<p>Quantum Field Theory works, which is the most suspicious thing about it. mathematically, it’s a mess held together by genius, duct tape, and vibes.</p>
-<ul>
-<li><p><strong>First problem:</strong> <em>the infinities.</em> You do the maths honestly and QFT immediately spits out infinity. Not “big number,” but “lol divide by zero forever.” Infinite energy, infinite probabilities, infinite everything. Physics does not like that because infinite answers mean you did something illegal. So physicists invented renormalization, which is a polite way of saying: “Subtract the infinity, keep the useful part, and don’t think about it too hard.” And infuriatingly, it works. Predicts experiments perfectly. mathematicians still wake up angry about this.</p></li>
-<li><p><strong>Second problem:</strong> <em>the theory isn’t rigorously defined.</em> There is no fully airtight mathematical definition of an interacting quantum field in 4D spacetime. None. Zero. We use approximations, expansions, and symbolic tricks that behave well enough to get answers. QFT is more like a cookbook than a proof. Follow the recipe, don’t ask why the oven exists.</p></li>
-<li><p><strong>Third problem:</strong> <em>perturbation theory is a lie we tell ourselves.</em> Most calculations assume interactions are “small,” so we expand answers as infinite series. These series usually don’t converge. They’re asymptotic. Meaning: adding more terms eventually makes the answer worse. We stop early and pretend that’s fine. It usually is. mathematically cursed, physically accurate.</p></li>
-<li><p><strong>Fourth problem:</strong> <em>path integrals are vibes-based maths.</em> They tell you to “sum over all possible histories of the universe.” Cool. Except no one can define what that sum actually is in a strict mathematical sense. We manipulate it like it’s real because if we don’t, nothing gets calculated and everyone goes home sad.</p></li>
-<li><p><strong>Fifth problem:</strong> <em>QFT breaks when gravity shows up.</em> Try to include spacetime itself as a quantum field and the infinities come back stronger. Renormalization taps out. The maths just explodes. This is why quantum gravity is still a blood feud.</p></li>
+<li><strong><a href="notes/math-priliminary/fom.pdf">Mathematical Foundations:</a></strong> <em>Mathematical Logic, Proofs, Sets and Numbers.</em></li>
+<li><strong><a href="notes/ana1/ana1.pdf">Analysis I:</a></strong> <em>Topology and Calculus of Functions of Single Real Variable.</em></li>
+<li><strong><a href="notes/la1/la1.pdf">Linear Algebra I:</a></strong> <em>Algebraic structures of Vector Spaces, Matrix Theory and Eigen Theory.</em></li>
+<li><strong><a href="notes/mathe-logic/mathe-logic.pdf">Mathematical Logic:</a></strong> <em>Proof Theory, Model Theory and Computations.</em></li>
 </ul>
 </section>
-<section id="what-is-constructive-qft" class="level3">
-<h3 class="anchored" data-anchor-id="what-is-constructive-qft">What is Constructive QFT</h3>
-<p>Instead of waving hands at infinities and pretending asymptotic series are fine, constructive QFT tries to build quantum field theories from the ground up using real mathematics. As in: define the objects, prove they exist, show they behave, no vibes, no “physicists know what we mean.”</p>
-<p>You don’t start with particles. You start with probability measures, operator algebras, correlation functions. You prove that the theory satisfies basic sanity checks: causality, unitarity, locality. Radical ideas, apparently.</p>
-<p>Most successes are in lower dimensions. 2D and 3D models like φ⁴, sine-Gordon, P(φ)₂. Not because we love tiny universes, but because 4D is a mathematical war crime. Still, these models are real. They exist. They obey the axioms. They’re not just formal power series cosplay.</p>
-</section>
-<section id="why-this-matters" class="level3">
-<h3 class="anchored" data-anchor-id="why-this-matters">Why this matters</h3>
-<p>Why we’re not just being pedantic:</p>
-<ol type="1">
-<li><p><em>It tells us QFT isn’t a miracle accident.</em> Right now QFT works because it works. Constructive results prove that interacting quantum fields can exist without cheating. That the whole framework isn’t secretly inconsistent. That’s huge.</p></li>
-<li><p><em>It explains why renormalization works at all.</em> In constructive approaches, renormalization isn’t black magic. You see exactly how infinities cancel, how scales talk to each other, how the continuum limit behaves. It turns “subtract infinity lol” into controlled, explicit maths. Physicists hate this because it removes their mystique.</p></li>
-<li><p><em>It separates real theories from fake ones.</em> Not every Lagrangian defines a valid quantum theory. Constructive QFT draws a line between “formal expression” and “actual model of reality.” This is crucial if you don’t want theoretical physics to become fan fiction.</p></li>
-<li><p><em>It’s essential for quantum gravity and QFT on curved space.</em> If spacetime itself becomes dynamical, hand-wavy maths collapses instantly. You need rigor just to stand upright. Constructive methods are one of the few tools that might survive contact with quantum gravity.</p></li>
-<li><p><em>It forces conceptual clarity.</em> What is a field? What is an observable? What does “interaction” actually mean? Constructive QFT doesn’t let you dodge these questions with diagrams and vibes. It makes you answer them or go home.</p></li>
-</ol>
-</section>
-<section id="why-it-is-hard" class="level3">
-<h3 class="anchored" data-anchor-id="why-it-is-hard">Why it is hard</h3>
-<ol type="1">
-<li><p><em>Infinite degrees of freedom will ruin your life.</em> Quantum mechanics with a few particles is already weird. QFT has infinitely many interacting variables at every point in space. Every limit you take spawns new divergences. You want existence proofs? The theory immediately asks which infinity you’d like to fight first.</p></li>
-<li><p><em>The continuum is hostile.</em> You usually start on a lattice to make things sane. Discrete, finite, polite. Then you try to take the continuum limit. That limit is where everything explodes. Correlations blow up at short distances. Fields stop being functions and become distributions. Products stop existing. Welcome to Schwartz-space hell.</p></li>
-<li><p><em>Interactions are singular, not small.</em> Constructive maths loves bounds, norms, convergence. Interacting fields respond with ultraviolet catastrophes. The interaction term is not a gentle perturbation. It’s a singular object that couples behavior across all scales. This is why perturbation theory lies and nonperturbative control is so rare.</p></li>
-<li><p><em>Renormalization is nonlinear and global.</em> Renormalization isn’t just subtracting stuff. It reshapes the theory across scales. Parameters flow. Degrees of freedom rearrange themselves. Proving this flow converges, stays local, and defines a limit theory is an absolute nightmare. The renormalization group is basically chaos theory wearing a lab coat.</p></li>
-<li><p><em>Positivity and unitarity are fragile.</em> You don’t just need a measure. You need one that gives a Hilbert space with positive norm and unitary time evolution. Tiny mistakes break reflection positivity and the whole theory collapses into mathematical nonsense. Physics will still “work,” but the maths will scream.</p></li>
-<li><p><em>Gauge theories are extra cursed.</em> Constraints, redundancies, ghosts, BRST, Gribov ambiguities. You’re not even describing physical degrees of freedom directly. You’re quotienting infinite-dimensional spaces by infinite-dimensional symmetries. Proving that anything survives this process intact is… ambitious.</p></li>
-<li><p><em>Four dimensions will cook you.</em> Everything that behaves nicely in 2D or 3D turns feral in 4D. Marginal couplings. Logarithmic divergences. No small parameter. This is why we have beautiful constructive results in toy worlds and basically vibes in the real one.</p></li>
-<li><p><em>You’re fighting both tribes.</em> Physicists think you’re wasting time proving obvious things. mathematicians think you’re doing analysis while high. Funding committees think you should’ve picked machine learning. This is not a friendly ecosystem. Absolute Bonkers.</p></li>
-</ol>
-</section>
-<section id="references-and-futher-reading" class="level3">
-<h3 class="anchored" data-anchor-id="references-and-futher-reading">References and Futher Reading</h3>
+<section id="mathematical-physics" class="level2">
+<h2 class="anchored" data-anchor-id="mathematical-physics">Mathematical Physics:</h2>
+<p>In Mathematical Physics, i treat the subjects very rigorouly (sometimes more than required and typically taught in undergraduate courses) to ensure mathematical sophistication for advanced research.</p>
 <ul>
-<li><em>Glimme and Jaffe, Quantum Physics: A Functional Integral Point of View.</em></li>
-<li><em>Jaffe, Arthur (2000). <a href="http://www.arthurjaffe.com/Assets/pdf/CQFT.pdf">Constructive Quantum Field Theory</a>. Mathematical Physics 2000: 111-12.</em></li>
-<li><em>Arthur Jaffe and Edward Witten, <a href="https://arthurjaffe.com/Assets/pdf/QuantumYangMillsWebRevised.pdf">Quantum Yang-Mills</a>.</em></li>
-<li><em>nLabs. <a href="https://ncatlab.org/nlab/show/constructive+quantum+field+theory">Constructive QFT</a></em></li>
+<li><strong><a href="notes/mfp/mfp.pdf">Mathematics for Physics:</a></strong> <em>Mathematical methods for theoretical physics.</em></li>
+<li><strong><a href="notes/t1-tm/t1-tm.pdf">Theoretical Mechanics:</a></strong> <em>Introduction to Lagrangian and Hamiltonian formalisms.</em></li>
 </ul>
-</section>
-</section>
-<section id="mathematical-gauge-theory" class="level2">
-<h2 class="anchored" data-anchor-id="mathematical-gauge-theory">Mathematical Gauge Theory</h2>
-<p>Gauge theories are the modern language of mathematical thoeries of physics. A gauge theory describes fields with built-in redundancy. Not all information you write down actually matters—some of it is “fake freedom” that doesn’t change physics. The mathematics is about understanding which parts are real and how they interact.</p>
-<p><strong>Think of it like this:</strong></p>
-<ul>
-<li><p>You have a field (like the electromagnetic potential <span class="math inline">\(A_\mu\)</span>).</p></li>
-<li><p>You can transform it locally—change its “phase” differently at every point—and the physics (like electric and magnetic fields) doesn’t change</p></li>
-<li><p>That’s a gauge symmetry.</p></li>
-<li><p>The actual measurable stuff lives in the quotient space, where all configurations related by these transformations are treated as the same.</p></li>
-</ul>
-<p><strong>Mathematical approach:</strong></p>
-<ol type="1">
-<li><p><em>Fiber bundles:</em> Imagine every point in space has a little copy of a group hanging over it, like a tiny circle or matrix. The way these fibers twist and connect encodes the gauge field. Physics is captured by the geometry of the bundle.</p></li>
-<li><p><em>Connections and curvature:</em> The gauge field itself is a connection on this bundle. Curvature measures how much twisting happens when you move around a loop—this is exactly the field strength, like <span class="math inline">\(F_{\mu\nu}\)</span> in physics.</p></li>
-<li><p><em>Yang-Mills theory:</em> A fancy, rigorous version of the gauge theory behind the strong force. mathematicians study its properties: existence of solutions, topology of the space of connections, invariants like instantons.</p></li>
-<li><p><em>Topology is everything:</em> Gauge theory isn’t just equations; it’s also about the shape of the underlying space and the bundle. Weird stuff happens, like quantization of flux or magnetic monopoles, which are really just topological constraints.</p></li>
-</ol>
-<section id="why-mathematicians-love-it" class="level3">
-<h3 class="anchored" data-anchor-id="why-mathematicians-love-it">Why mathematicians love it</h3>
-<ul>
-<li><p>It bridges geometry, topology, and analysis.</p></li>
-<li><p>It produces invariants of manifolds (like Donaldson or Seiberg-Witten invariants) that classify 4D spaces.</p></li>
-<li><p>It formalizes ideas from physics rigorously, so you can finally stop trusting physicists’ hand-wavy arguments.</p></li>
-</ul>
-<p><strong>In short:</strong> mathematical gauge theory = study of fields with symmetry in the language of geometry, topology, and analysis, stripped of the physicists’ “oops let’s integrate over all paths and hope it works” approach.</p>
-</section>
-</section>
-<section id="univalent-foundations" class="level2">
-<h2 class="anchored" data-anchor-id="univalent-foundations">Univalent Foundations</h2>
-<p>This is a somewhat different but a deep field of mathematics that i’m interested in. The ordinary mathematics used by everyone is based on set theory of Zaermelo-Frankel along with the axiom of choice, called the ZFC-system. This system is very robust to formulate almost all of ordinary mathematics (ordinary mathematics is the mathss that you do in analysis, algebra, geometry, etc instead of yapping about the foundations of mathss).</p>
-
 
 
 
 </section>
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="UmVzZWFyY2g=" data-listing-date-sort="1767637800000" data-listing-file-modified-sort="1769183443584" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="554">
-<a href="./posts/why-qft/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/why-qft/image0.jpeg" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Why QFT?
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UmVzZWFyY2g='); return false;">Research</div>
-
-</div>
-<div class="card-text listing-description delink">
-In my previous post I mentioned my interest in constructive QFT, gauge Theory and HoTT. I’ll try to explain why I’m interested in them!
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Harsh Prajapati
-</div>
-<div class="listing-date">
-Jan 6, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     // Ensure there is a toggle, if there isn't float one in the top right

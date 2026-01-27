@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/research.html",
-    "items": [
-      "/posts/why-qft/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/posts/why-qft/index.html",
@@ -17,6 +11,12 @@
     "items": [
       "/posts/why-qft/index.html",
       "/posts/first-post/index.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/posts/why-qft/index.html"
     ]
   }
 ]

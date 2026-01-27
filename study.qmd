@@ -3,26 +3,23 @@ title: "Study"
 toc: true
 ---
 
-Here I'll share my study notes, these notes are somewhat more sophisticated than what typical courses in university cover. The treated is more generalised, and with the highest level of abstraction, but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me, it’s worth it!
+Here I'll share my study notes, they emphasize general, abstract and structural understanding, but also provide intuitive explanations and concrete examples so you don’t drown.
 
 If you find any mistakes or typos, please report them in the comment section. I would really appreciate it.
 
-I often use informal language to make the ideas easier to grasp. My goal is to make the material feel approachable, while still respecting the rigor that makes mathematics what it is.
-
 The course on Mathematical Foundations is essentially the "first installment" in the series of lecture notes. So, make sure you have those basics down.
 
-I am hoping that these notes would be helpful to train a future researcher in mathematics or/and mathhematical physics :D!
+I am hoping that these notes would be helpful!
 
 ## Mathematics:
-Starting from foundational topics like analysis and algebra i plan to cover more advanced topics in algebraic number theory, algebraic topology, partial differential equations, differential geometry, and stochastic analysis.
+Starting from foundational topics like analysis and algebra, we cover more advanced topics in algebraic number theory, algebraic topology, partial differential equations, differential geometry, and stochastic analysis.
 
-* **[Mathematical Foundations:](notes/math-priliminary/fom.pdf)** *Mathematical Logic, Proofs, Sets and Numbers.*
+* **[Mathematical Foundations:](notes/math-priliminary/fom.pdf)** *Basic Logic, Proofs, Sets and Numbers.*
 * **[Analysis I:](notes/ana1/ana1.pdf)** *Topology and Calculus of Functions of Single Real Variable.*
 * **[Linear Algebra I:](notes/la1/la1.pdf)** *Algebraic structures of Vector Spaces, Matrix Theory and Eigen Theory.*
 * **[Mathematical Logic:](notes/mathe-logic/mathe-logic.pdf)** *Proof Theory, Model Theory and Computations.*
 
 ## Mathematical Physics:
-In Mathematical Physics, i treat the subjects very rigorouly (sometimes more than required and typically taught in undergraduate courses) to ensure mathematical sophistication for advanced research.
 
 * **[Mathematics for Physics:](notes/mfp/mfp.pdf)** *Mathematical methods for theoretical physics.*
 * **[Theoretical Mechanics:](notes/t1-tm/t1-tm.pdf)** *Introduction to Lagrangian and Hamiltonian formalisms.*

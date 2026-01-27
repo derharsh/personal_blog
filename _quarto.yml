@@ -5,7 +5,7 @@ website:
   description: "My Personal Blog"
   site-url: https://derharsh.github.io/LupLup/
   repo-url: https://github.com/derharsh/LupLup
-  title: "LupLup"
+  title: "Harsh Prajapati"
   navbar:
     right:
       - text: Blog

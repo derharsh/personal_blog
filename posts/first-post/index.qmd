@@ -13,7 +13,7 @@ Today, i'm starting a blog page as a personal space to share my lecture notes, r
 
 i only started talking notes in latex by the end of oct and for a while i wasnt consistent with it. but now ill try t be more consistent.
 
-You can find my notes from the **[Notes](/library.qmd)** menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.
+You can find my notes from the **[Notes](/study.qmd)** menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.
 
 As for my research interest, i've been reading a lot into constructive qft, gauge theory and hott (although i dont understand much). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway. You can find more about my research in the **[Research](/research.)** tab.
 

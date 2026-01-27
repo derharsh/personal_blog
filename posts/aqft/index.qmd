@@ -1,0 +1,34 @@
+---
+title: "Hello!"
+author: "Harsh Prajapati"
+date: "01.27.2026"
+categories: [Research]
+image: "image.jpg"
+comments:
+    giscus: 
+      repo: derharsh/LupLup
+---
+
+Continuing the discussion of QFT, i recently developed deeper interests into **[Algebraic Quantum Field Theory (AQFT)](https://ncatlab.org/nlab/show/AQFT)**. It is a non-perturbative formalisation of QFT that axiomatizes the assignment of algebras of observables to patches of parameter space (spacetime, worldvolume). It’s roughly the “Heisenberg picture” of quantum mechanics used in introductory textbooks.
+
+One of the main selling points of AQFT is *locality*, which is essentially a way to enforce that signals cannot travel faster than light, hence preventing *superluminal signaling*. This is why it is sometimes also called as “local quantum physics”.
+
+Another plus point of AQFT is that some extensions of AQFT has provided several rigorous results concerning QFT in presence of a black hole, hence it’s one of the approaches to QFT in curved spacetime as well.
+
+A modern formalism is perturbative AQFT, which sounds ridiculous because it’s completely opposite of the objective of AQFT, but the idea of pAQFT is that since traditional AQFT has failed to produce any rigorous interacting QFT model, we try to do perturbative approximations in order to reach non-perturbative solutions.
+
+One of the key figures in pAQFT who wrote a book in 2017 is **[Katarzyna Rejzner](https://rejzner.com/)**, I am still exploring her work and frankly it’s way beyond me.
+
+A higher categorical formalism which is very similar but rooted in the Atiyah-Segal axioms, **[Functorial Quantum Field Theory (FQFT)](https://ncatlab.org/nlab/show/functorial+field+theory)** axiomatizes the “Schrödinger picture”. Which is pretty cool but I don’t understand much.
+
+One of the reasons why I though this could be the approach i want to take for non-perturbative QFT is because some times ago, i was thinking about using **[Lindblading dynamics](https://pubs.aip.org/aip/adv/article/10/2/025106/1021638/A-short-introduction-to-the-Lindblad-master)** (operator algebra with a BRST-cohomology modified jump operator) instead of *Langevin dynamics* for Stochastic quantisation, essentially treating the noise as the environment. I know this idea sounds ridiculous and it probably is, because i thought it could avoid the gribov ambiguity (a huge problem in gauge theory), but this approach you’re not trying to fight the geometry anymore so the operator algebra will just “smooth out” the topological horizon.
+
+It’s ridiculous because I soon realised that by trying to use Lindblad you lose *Lorentz invariance* (you could however use a fifth fictitious time dimension to handle this just like in stochastic quantisation but it’s messy), and make renormalisation more harder. so it’s not all good. But luckily AQFT sort of fixes those problems because that’s not an idea made by a procrastinating teenager.
+
+Now, i don’t know if my idea of Lindbladian dynamics could work or not (it’s mostly just intuition honestly) but I thought geometry to algebra is a good change of direction. Essentially I sort of rediscovered AQFT so I want to explore more into it.
+
+I’ll be posting more about AQFT in future posts. And i’ll probably explore my open quantum system ideas more, if we could provide a rigorous prove for 0+1D Matrix Mechanics it could be a nice fool tests for the theory but that could probably take a decade because of the sheer complexity of the problem. But right now I am sort of falling behind in entrance exam preparation, so I’ll be trying to catch up while putting this on some pause. I’ll just try to pass exams and not disappoint people who have high hopes from me.
+
+Servus!!
+
+> Photo by <a href="https://unsplash.com/@flyd2069?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">FlyD</a> on <a href="https://unsplash.com/photos/green-and-yellow-spiral-illustration-yQYQJaiypZE?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
