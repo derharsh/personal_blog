@@ -3,7 +3,7 @@ title: "Why QFT?"
 author: "Harsh Prajapati"
 date: "01.06.2026"
 categories: [Research]
-image: "image0.jpeg"
+image: "image.jpeg"
 comments:
     giscus: 
       repo: derharsh/LupLup
@@ -36,3 +36,5 @@ However, I haven’t decided to devote myself to this field right away, i'm in t
 I’ll be talking about my other interests in future blog posts.
 
 Servus!!
+
+> Photo by <a href="https://unsplash.com/@onkysf?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Yusuf Onuk</a> on <a href="https://unsplash.com/photos/a-red-light-in-the-dark-yI6alVpYC6o?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>

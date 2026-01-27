@@ -20,3 +20,6 @@ As for my research interest, i've been reading a lot into constructive qft, gaug
 Lastly, im using quarto and github pages to host this blog, and giscus for comment system (you may need a github account to post comments). Codes can be found on my [github repo](https://github.com/derharsh/LupLup). currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.
 
 Tschüss!!
+
+Photo by <a href="https://unsplash.com/@francesco_ungaro?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Francesco Ungaro</a> on <a href="https://unsplash.com/photos/a-room-with-graffiti-all-over-the-walls-Fd7JxSTpkCg?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+      
