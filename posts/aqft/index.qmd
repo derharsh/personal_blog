@@ -1,5 +1,5 @@
 ---
-title: "Hello!"
+title: "Introduction to AQFT"
 author: "Harsh Prajapati"
 date: "01.27.2026"
 categories: [Research]

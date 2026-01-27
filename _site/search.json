@@ -4,21 +4,21 @@
     "href": "study.html",
     "title": "Study",
     "section": "",
-    "text": "Here I’ll share my study notes, these notes are somewhat more sophisticated than what typical courses in university cover. The treated is more generalised, and with the highest level of abstraction, but also provide intuitive explanations and concrete examples so u don’t drown. You’ll find pain in reading them but trust me, it’s worth it!\nIf you find any mistakes or typos, please report them in the comment section. I would really appreciate it.\nI often use informal language to make the ideas easier to grasp. My goal is to make the material feel approachable, while still respecting the rigor that makes mathematics what it is.\nThe course on Mathematical Foundations is essentially the “first installment” in the series of lecture notes. So, make sure you have those basics down.\nI am hoping that these notes would be helpful to train a future researcher in mathematics or/and mathhematical physics :D!"
+    "text": "Here I’ll share my study notes, they emphasize general, abstract and structural understanding, but also provide intuitive explanations and concrete examples so you don’t drown.\nIf you find any mistakes or typos, please report them in the comment section. I would really appreciate it.\nThe course on Mathematical Foundations is essentially the “first installment” in the series of lecture notes. So, make sure you have those basics down.\nI am hoping that these notes would be helpful!"
   },
   {
     "objectID": "study.html#mathematics",
     "href": "study.html#mathematics",
     "title": "Study",
     "section": "Mathematics:",
-    "text": "Mathematics:\nStarting from foundational topics like analysis and algebra i plan to cover more advanced topics in algebraic number theory, algebraic topology, partial differential equations, differential geometry, and stochastic analysis.\n\nMathematical Foundations: Mathematical Logic, Proofs, Sets and Numbers.\nAnalysis I: Topology and Calculus of Functions of Single Real Variable.\nLinear Algebra I: Algebraic structures of Vector Spaces, Matrix Theory and Eigen Theory.\nMathematical Logic: Proof Theory, Model Theory and Computations."
+    "text": "Mathematics:\nStarting from foundational topics like analysis and algebra, we cover more advanced topics in algebraic number theory, algebraic topology, partial differential equations, differential geometry, and stochastic analysis.\n\nMathematical Foundations: Basic Logic, Proofs, Sets and Numbers.\nAnalysis I: Topology and Calculus of Functions of Single Real Variable.\nLinear Algebra I: Algebraic structures of Vector Spaces, Matrix Theory and Eigen Theory.\nMathematical Logic: Proof Theory, Model Theory and Computations."
   },
   {
     "objectID": "study.html#mathematical-physics",
     "href": "study.html#mathematical-physics",
     "title": "Study",
     "section": "Mathematical Physics:",
-    "text": "Mathematical Physics:\nIn Mathematical Physics, i treat the subjects very rigorouly (sometimes more than required and typically taught in undergraduate courses) to ensure mathematical sophistication for advanced research.\n\nMathematics for Physics: Mathematical methods for theoretical physics.\nTheoretical Mechanics: Introduction to Lagrangian and Hamiltonian formalisms."
+    "text": "Mathematical Physics:\n\nMathematics for Physics: Mathematical methods for theoretical physics.\nTheoretical Mechanics: Introduction to Lagrangian and Hamiltonian formalisms."
   },
   {
     "objectID": "posts/why-qft/index.html",
@@ -26,6 +26,27 @@
     "title": "Why QFT?",
     "section": "",
     "text": "In my previous post I mentioned my interest in constructive QFT, gauge Theory and HoTT. I’ll try to explain why I’m interested in them!\nWhen I studied logic the first time I was really fascinated by predicate logic and formal proofs. In fact, I really enjoyed solving proof problems because it followed more logically than cookie-cutter “find the missing trick” problem. I had a fascination with abstract concepts from high school at age 15.\nThis fascination always led me towards more abstract ideas and mathematics and along with my interest in physics. Through some chaotic explorations of Wikipedia and arXiv, I read that standard perturbative-QFT although makes predictions of scattering amplitudes extremely accurately, as a formal framework it is a bit “shaky”.\nPath integrals are not well-defined measures, as it lacks rigorous \\(\\sigma\\)-algebra and has UV-divergences. Renormalisation isn’t rigorously well understood and through RG flows QFT is better treated as an effective field theory (Richard Feynman and Paul Dirac, the pioneers of QFT famously called it “hocus pocus”, that it’s just a trick which physicists use to sweep infinities under the rug and call it a day).\nUnderstanding why the methods of QFT work is extremely important for QFT in curved space, and to avoid using the rules in wrong situations and get fake solutions, especially in non-perturbative regimes.\nThis led me to discover 70-80s work of Glimm-Jaffe on constructive quantum field theory which aimed to formally justify the heuristics physicists use. They were successful in proving a mass gap in Quantum Yang-Mills Theory in two and three dimensions but hit a wall in four dimensions, which is a Millennium prize problem and extremely difficult.\nIn the modern era, this problem is often approached from a stochastic perspective by using Langevin dynamics in SPDEs. Martin Hairer made a breakthrough with regularity structures for singular SPDEs, for this he won many awards including the Fields medal. However, the 4D Yang-Mills still remains an open problem because of how extremely difficult it is.\nI’ll explained about QFT with more technical details here.\nThe necessary background needed for this field (as far as im aware) is rigorous understanding of functional analysis, operator algebras, distribution theory, and measure theory. Currently my background is only basic understanding of analysis and algebra so I’m quite far from understanding the mathematics, but I’m making progress day by day at my pace.\nThis problem is one of the hardest in mathematical physics and people are generally cautious of young students chasing the big problems just because of the glamour. If I said that the glamour of solving big problems is not one of the reasons for chasing it, I’d probably be lying to myself. However I believe that my main reason for chasing it isn’t just for the fame or glamour, but a genuine philosophical motivation for rigour in theory.\nSo, this is why i want to explore more about this field and related fields such as axiomatic QFT, algebraic QFT and topological QFT, all attempting to make qft more mathematically rigorous. These are extremely sophisticated fields and typically people only work in a few in their lifetimes.\nHowever, I haven’t decided to devote myself to this field right away, i’m in the early stage of developing my research interests so i think looking through them from a bird’s eye view would be helpful.\nI’ll be talking about my other interests in future blog posts.\nServus!!"
+  },
+  {
+    "objectID": "posts/aqft/index.html",
+    "href": "posts/aqft/index.html",
+    "title": "Hello!",
+    "section": "",
+    "text": "Continuing the discussion of QFT, i recently developed deeper interests into Algebraic Quantum Field Theory (AQFT). It is a non-perturbative formalisation of QFT that axiomatizes the assignment of algebras of observables to patches of parameter space (spacetime, worldvolume). It’s roughly the “Heisenberg picture” of quantum mechanics used in introductory textbooks.\nOne of the main selling points of AQFT is locality, which is essentially a way to enforce that signals cannot travel faster than light, hence preventing superluminal signaling. This is why it is sometimes also called as “local quantum physics”.\nAnother plus point of AQFT is that some extensions of AQFT has provided several rigorous results concerning QFT in presence of a black hole, hence it’s one of the approaches to QFT in curved spacetime as well.\nA modern formalism is perturbative AQFT, which sounds ridiculous because it’s completely opposite of the objective of AQFT, but the idea of pAQFT is that since traditional AQFT has failed to produce any rigorous interacting QFT model, we try to do perturbative approximations in order to reach non-perturbative solutions.\nOne of the key figures in pAQFT who wrote a book in 2017 is Katarzyna Rejzner, I am still exploring her work and frankly it’s way beyond me.\nA higher categorical formalism which is very similar but rooted in the Atiyah-Segal axioms, Functorial Quantum Field Theory (FQFT) axiomatizes the “Schrödinger picture”. Which is pretty cool but I don’t understand much.\nOne of the reasons why I though this could be the approach i want to take for non-perturbative QFT is because some times ago, i was thinking about using Lindblading dynamics (operator algebra with a BRST-cohomology modified jump operator) instead of Langevin dynamics for Stochastic quantisation, essentially treating the noise as the environment. I know this idea sounds ridiculous and it probably is, because i thought it could avoid the gribov ambiguity (a huge problem in gauge theory), but this approach you’re not trying to fight the geometry anymore so the operator algebra will just “smooth out” the topological horizon.\nIt’s ridiculous because I soon realised that by trying to use Lindblad you lose Lorentz invariance (you could however use a fifth fictitious time dimension to handle this just like in stochastic quantisation but it’s messy), and make renormalisation more harder. so it’s not all good. But luckily AQFT sort of fixes those problems because that’s not an idea made by a procrastinating teenager.\nNow, i don’t know if my idea of Lindbladian dynamics could work or not (it’s mostly just intuition honestly) but I thought geometry to algebra is a good change of direction. Essentially I sort of rediscovered AQFT so I want to explore more into it.\nI’ll be posting more about AQFT in future posts. And i’ll probably explore my open quantum system ideas more, if we could provide a rigorous prove for 0+1D Matrix Mechanics it could be a nice fool tests for the theory but that could probably take a decade because of the sheer complexity of the problem. But right now I am sort of falling behind in entrance exam preparation, so I’ll be trying to catch up while putting this on some pause. I’ll just try to pass exams and not disappoint people who have high hopes from me.\nServus!!\n\nPhoto by FlyD on Unsplash"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "HP logs!",
+    "section": "",
+    "text": "Here you can find all my posts :D!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello!\n\n\n\nResearch\n\n\n\n\n\n\n\nHarsh Prajapati\n\n\nJan 27, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy QFT?\n\n\n\nResearch\n\n\n\n\n\n\n\nHarsh Prajapati\n\n\nJan 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello!\n\n\n\nGeneral\n\n\n\n\n\n\n\nHarsh Prajapati\n\n\nJan 4, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Yo! I’m an 18 y-o kido studying maths and mathematical physics. This blog is my “personal space”— a place where i share my passion for mathe and physics through my lecture notes, research articles and ideas, and topics that usually don’t make it to the classroom until the PhD level… hehe :3."
   },
   {
     "objectID": "index.html",
@@ -40,20 +61,6 @@
     "title": "Home!",
     "section": "",
     "text": "The Full archive can be found in the Blog tab."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "Yo! I’m an 18 y-o kido studying maths and mathematical physics. This blog is my “personal space”— a place where i share my passion for mathe and physics through my lecture notes, research articles and ideas, and topics that usually don’t make it to the classroom until the PhD level… hehe :3."
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "HP logs!",
-    "section": "",
-    "text": "Here u can find all my posts :D!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhy QFT?\n\n\n\nResearch\n\n\n\n\n\n\n\nHarsh Prajapati\n\n\nJan 6, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello!\n\n\n\nGeneral\n\n\n\n\n\n\n\nHarsh Prajapati\n\n\nJan 4, 2026\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/first-post/index.html",
