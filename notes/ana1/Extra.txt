@@ -1,9 +1,0 @@
-The derivative is then defined as the limit of the difference quotient, $$f'(x) = \lim_{x \to 0} \frac{f(x+h) - f(x)}{h}$$ and we know the techniques to differentiate different types of functions.
-
-The integral of a function between the limits $a$ and $b$ is defined as the Riemann sum, $$\int_{a}^{b} f(x) \,dx = \lim_{n \to \infty}  \sum_{k = 1}^{n} f\left(a + k\frac{(b - a)}{n}\right) \left(\frac{b - a}{n}\right) $$ and we know the different techniques such as substituion, integration by parts and integration of partial fractions very well.
-
-You might have also studied about continuity and differentiability as well, the usual explanation in school is something like this: a function is said to be continuous at a point if the limit of the function approaches the same value as the value of the function at the point, and if this is true for all points in an interval we say the function is continuous everywhere on that interval. Intuitively, there are no breaks or jumps in the graph of the function in that interval and you can draw the graph of a \emph{continuous function} without liftiing you pen.
-
-And if the derivative of the function, or more precisely the difference quotient exists at all points on an interval, we say that the function is differentiable everywhere on that interval. Functions that are differentiable on an interval will not have sharp turns or edges in their graph in that interval and we call them \emph{smooth functions}.
-
-Along with the main concepts of limits, continuity, differentiability and integrability\footnote{a function would be "Riemann Integrable" if the Riemann sum converges, which is sort of explained in schools. This idea will be expanded in later sections} some other key theorems such as the mean value and intermediate value theorems are also covered in courses in schools. So, why study calculus again?

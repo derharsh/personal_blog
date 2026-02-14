@@ -3,8 +3,8 @@ project:
 
 website:
   description: "My Personal Blog"
-  site-url: https://derharsh.github.io/LupLup/
-  repo-url: https://github.com/derharsh/LupLup
+  site-url: https://derharsh.github.io/harshprajapati/
+  repo-url: https://github.com/derharsh/personal_blog
   title: "Harsh Prajapati"
   navbar:
     right:
@@ -16,7 +16,7 @@ website:
         href: research.qmd
       - about.qmd
       - icon: github
-        href: https://github.com/derharsh/LupLup
+        href: https://github.com/derharsh/personal_blog
 comments: 
     giscus: 
         repo: derharsh/LupLup
