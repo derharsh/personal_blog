@@ -4,21 +4,21 @@
     "href": "study.html",
     "title": "Study",
     "section": "",
-    "text": "Here I’ll share my study notes, they emphasize general, abstract and structural understanding, but also provide intuitive explanations and concrete examples so you don’t drown.\nIf you find any mistakes or typos, please report them in the comment section. I would really appreciate it.\nThe course on Mathematical Foundations is essentially the “first installment” in the series of lecture notes. So, make sure you have those basics down.\nI am hoping that these notes would be helpful!"
+    "text": "Here I’ll share my study notes, they aren’t just copied from lecture notes but are written after taking different perspectives from several resources. They are obviously written in English.\nIf you find any mistakes or typos, please report them in the comment section. I would really appreciate it.\nI am hoping that these notes would be helpful!"
   },
   {
     "objectID": "study.html#mathematics",
     "href": "study.html#mathematics",
     "title": "Study",
     "section": "Mathematics:",
-    "text": "Mathematics:\nStarting from foundational topics like analysis and algebra, we cover more advanced topics in algebraic number theory, algebraic topology, partial differential equations, differential geometry, and stochastic analysis.\n\nMathematical Foundations: Basic Logic, Proofs, Sets and Numbers.\nAnalysis I: Topology and Calculus of Functions of Single Real Variable.\nLinear Algebra I: Algebraic structures of Vector Spaces, Matrix Theory and Eigen Theory.\nMathematical Logic: Proof Theory, Model Theory and Computations."
+    "text": "Mathematics:\nStarting from foundational topics like analysis and algebra, we cover more advanced topics in algebraic number theory, algebraic topology, partial differential equations, differential geometry, and stochastic analysis.\n\nMathematical Foundations: Basic Logic, Proofs, Sets and Numbers. Prerequisite for every other course.\nAnalysis I: Topology and Calculus of Functions of Single Real Variable.\nLinear Algebra I: Algebraic structures of Vector Spaces, Matrix Theory and Eigen Theory."
   },
   {
     "objectID": "study.html#mathematical-physics",
     "href": "study.html#mathematical-physics",
     "title": "Study",
     "section": "Mathematical Physics:",
-    "text": "Mathematical Physics:\n\nMathematics for Physics: Mathematical methods for theoretical physics.\nTheoretical Mechanics: Introduction to Lagrangian and Hamiltonian formalisms."
+    "text": "Mathematical Physics:\n\nMathematics for Physics: Mathematical methods for theoretical physics."
   },
   {
     "objectID": "posts/why-qft/index.html",
@@ -67,7 +67,7 @@
     "href": "posts/first-post/index.html",
     "title": "Hello!",
     "section": "",
-    "text": "Today, i’m starting a blog page as a personal space to share my lecture notes, research ideas and codes. Currently im not enrolled in any institute tho but i plan to study bachelor in mathematics and theoretical physics soon. however ive been studyin a lot on my own using textbooks and lecture notes i was able to find online, so ill share my journey here!\ni only started talking notes in latex by the end of oct and for a while i wasnt consistent with it. but now ill try t be more consistent.\nYou can find my notes from the Notes menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.\nAs for my research interest, i’ve been reading a lot into constructive qft, gauge theory and hott (although i dont understand much). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway. You can find more about my research in the Research tab.\nLastly, im using quarto and github pages to host this blog, and giscus for comment system (you may need a github account to post comments). Codes can be found on my github repo. currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.\nTschüss!!\nPhoto by Francesco Ungaro on Unsplash"
+    "text": "Today, i’m starting a blog page as a personal space to share my lecture notes, research ideas and codes. Currently im not enrolled in any institute tho but i plan to study bachelor in mathematics and theoretical physics soon. however ive been studyin a lot on my own using textbooks and lecture notes i was able to find online, so ill share my journey here!\ni only started talking notes in latex by the end of oct and for a while i wasnt consistent with it. but now ill try t be more consistent.\nYou can find my notes from the Notes menu (obv), im writing the notes as i study so ull actuly be seeing them updating almost everyday.\nAs for my research interest, i’ve been reading a lot into constructive qft, gauge theory and hott (although i dont understand much). i only have some surface level familiarity with the fields and very little technical mastery and although the problems in those fields are extremely difficult im highly motivated and excited to tackle them anyway. You can find more about my research in the Research tab.\nLastly, im using quarto and github pages to host this blog, and giscus for comment system (you may need a github account to post comments). Codes can be found on my github repo. currently there is no licence so u cant really use the code but ill make it open source using MIT or some other licence in future.\nTschüss!!\n\nPhoto by Francesco Ungaro on Unsplash"
   },
   {
     "objectID": "research.html",
